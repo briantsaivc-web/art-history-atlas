@@ -1,0 +1,1477 @@
+[
+ {
+  "id": "greek",
+  "zh": "古希臘藝術",
+  "en": "Ancient Greek Art",
+  "start": -800,
+  "end": -30,
+  "era": "古代",
+  "color": "#8d6e63",
+  "desc": "以人體比例、理想化的美與自然主義為核心；從古風時期的僵直立像，到古典時期的對立式平衡（contrapposto），再到希臘化時期的戲劇性與情感表現。繪畫原作幾乎無存，主要透過陶瓶畫與羅馬摹本認識。",
+  "traits": [
+   "理想化人體",
+   "黃金比例",
+   "黑繪與紅繪陶瓶",
+   "對立式平衡"
+  ],
+  "from": [],
+  "against": [],
+  "artists": [
+   "Exekias",
+   "Euphronios",
+   "Polygnotus",
+   "Apelles"
+  ]
+ },
+ {
+  "id": "roman",
+  "zh": "古羅馬藝術",
+  "en": "Ancient Roman Art",
+  "start": -500,
+  "end": 476,
+  "era": "古代",
+  "color": "#a1887f",
+  "desc": "承襲希臘並轉向寫實與實用：肖像強調個人特徵與年齡，壁畫（龐貝四種風格）與馬賽克發展出透視錯覺與建築幻景。",
+  "traits": [
+   "寫實肖像",
+   "濕壁畫",
+   "馬賽克",
+   "錯覺透視"
+  ],
+  "from": [
+   "greek"
+  ],
+  "against": [],
+  "artists": [
+   "Fayum portrait painters"
+  ]
+ },
+ {
+  "id": "byzantine",
+  "zh": "拜占庭藝術",
+  "en": "Byzantine Art",
+  "start": 330,
+  "end": 1453,
+  "era": "中世紀",
+  "color": "#b8860b",
+  "desc": "東羅馬帝國的宗教藝術，以金底馬賽克與聖像畫（icon）為主。放棄古典的自然主義，改以正面、平面、象徵性的形式表達神聖與永恆。",
+  "traits": [
+   "金底",
+   "正面性",
+   "聖像畫",
+   "去自然主義"
+  ],
+  "from": [
+   "roman"
+  ],
+  "against": [],
+  "artists": [
+   "Andrei Rublev",
+   "Theophanes the Greek"
+  ]
+ },
+ {
+  "id": "romanesque",
+  "zh": "羅馬式藝術",
+  "en": "Romanesque Art",
+  "start": 1000,
+  "end": 1200,
+  "era": "中世紀",
+  "color": "#8d6e63",
+  "desc": "隨修道院與朝聖路線興起的歐洲中世紀風格，教堂壁畫與手抄本插圖造型簡化、線條有力、色塊平塗，服務於宗教教化。",
+  "traits": [
+   "壁畫",
+   "手抄本",
+   "簡化造型",
+   "象徵色彩"
+  ],
+  "from": [
+   "byzantine"
+  ],
+  "against": [],
+  "artists": []
+ },
+ {
+  "id": "gothic",
+  "zh": "哥德式藝術",
+  "en": "Gothic Art",
+  "start": 1150,
+  "end": 1400,
+  "era": "中世紀",
+  "color": "#6d4c41",
+  "desc": "隨哥德式大教堂發展，彩繪玻璃、祭壇畫與手抄本更精緻；人物比例拉長、姿態柔美。14 世紀錫耶納與佛羅倫斯畫派（杜奇歐、喬托）開始把立體感與情感帶回繪畫，被視為文藝復興的前奏；「國際哥德」則以華麗優雅的宮廷風格流行於 1400 年前後。",
+  "traits": [
+   "金底蛋彩祭壇畫",
+   "拉長比例",
+   "彩繪玻璃",
+   "宮廷優雅"
+  ],
+  "from": [
+   "romanesque",
+   "byzantine"
+  ],
+  "against": [],
+  "artists": [
+   "Giotto",
+   "Duccio",
+   "Simone Martini",
+   "Cimabue",
+   "Gentile da Fabriano",
+   "Limbourg brothers"
+  ]
+ },
+ {
+  "id": "early_ren",
+  "zh": "早期文藝復興",
+  "en": "Early Renaissance",
+  "start": 1400,
+  "end": 1490,
+  "era": "文藝復興",
+  "color": "#c62828",
+  "desc": "以佛羅倫斯為中心，重新發現古典人文精神。布魯內萊斯基的線性透視、馬薩喬的體積感與光影、波提切利的優雅線條，確立了「以人為本、以科學觀察描繪世界」的繪畫方向。",
+  "traits": [
+   "線性透視",
+   "解剖與體積",
+   "人文主義",
+   "蛋彩與濕壁畫"
+  ],
+  "from": [
+   "gothic"
+  ],
+  "against": [],
+  "artists": [
+   "Masaccio",
+   "Fra Angelico",
+   "Piero della Francesca",
+   "Sandro Botticelli",
+   "Andrea Mantegna",
+   "Filippo Lippi",
+   "Paolo Uccello",
+   "Domenico Ghirlandaio",
+   "Antonello da Messina",
+   "Giovanni Bellini"
+  ]
+ },
+ {
+  "id": "high_ren",
+  "zh": "盛期文藝復興",
+  "en": "High Renaissance",
+  "start": 1490,
+  "end": 1527,
+  "era": "文藝復興",
+  "color": "#b71c1c",
+  "desc": "達文西、米開朗基羅、拉斐爾三傑的時代。追求和諧、均衡、理想化的完美構圖；達文西的暈塗法（sfumato）、拉斐爾的古典秩序、米開朗基羅的雄渾人體，成為後世學院的典範。1527 年羅馬之劫常被視為終點。",
+  "traits": [
+   "和諧均衡",
+   "暈塗法",
+   "金字塔構圖",
+   "理想化"
+  ],
+  "from": [
+   "early_ren"
+  ],
+  "against": [],
+  "artists": [
+   "Leonardo da Vinci",
+   "Michelangelo",
+   "Raphael",
+   "Fra Bartolomeo",
+   "Andrea del Sarto"
+  ]
+ },
+ {
+  "id": "northern_ren",
+  "zh": "北方文藝復興",
+  "en": "Northern Renaissance",
+  "start": 1430,
+  "end": 1580,
+  "era": "文藝復興",
+  "color": "#ad1457",
+  "desc": "尼德蘭與德國的文藝復興。范艾克完善油畫技法，以極細微的寫實描繪質感與光線；杜勒把義大利的理論帶回德國；波希與老布勒哲爾則發展出寓言、諷刺與農民生活題材。",
+  "traits": [
+   "油畫技法",
+   "細密寫實",
+   "象徵細節",
+   "日常與寓言"
+  ],
+  "from": [
+   "gothic"
+  ],
+  "against": [],
+  "artists": [
+   "Jan van Eyck",
+   "Rogier van der Weyden",
+   "Hieronymus Bosch",
+   "Albrecht Dürer",
+   "Hans Holbein the Younger",
+   "Pieter Bruegel the Elder",
+   "Hans Memling",
+   "Matthias Grünewald",
+   "Lucas Cranach the Elder",
+   "Robert Campin",
+   "Hugo van der Goes",
+   "Petrus Christus",
+   "Gerard David"
+  ]
+ },
+ {
+  "id": "venetian",
+  "zh": "威尼斯畫派",
+  "en": "Venetian School",
+  "start": 1450,
+  "end": 1600,
+  "era": "文藝復興",
+  "color": "#d84315",
+  "desc": "相對於佛羅倫斯重視素描（disegno），威尼斯重視色彩（colorito）與光線氛圍。貝里尼、喬久內、提香以油彩層層疊出豐潤色調；丁托列托與維洛內塞則把戲劇性與巨幅場面推向極致。",
+  "traits": [
+   "色彩優先",
+   "油彩層疊",
+   "光線氛圍",
+   "詩意風景"
+  ],
+  "from": [
+   "early_ren"
+  ],
+  "against": [],
+  "artists": [
+   "Giovanni Bellini",
+   "Giorgione",
+   "Titian",
+   "Tintoretto",
+   "Paolo Veronese",
+   "Vittore Carpaccio",
+   "Lorenzo Lotto",
+   "Jacopo Bassano",
+   "Cima da Conegliano"
+  ]
+ },
+ {
+  "id": "mannerism",
+  "zh": "矯飾主義",
+  "en": "Mannerism",
+  "start": 1520,
+  "end": 1600,
+  "era": "文藝復興",
+  "color": "#6a1b9a",
+  "desc": "盛期文藝復興之後的反動：刻意拉長人體、扭曲空間、使用不自然的冷豔色彩與複雜構圖，追求優雅、技巧與知性趣味而非和諧自然。帕米賈尼諾、布隆津諾、艾爾·葛雷柯為代表。",
+  "traits": [
+   "拉長比例",
+   "扭曲空間",
+   "人造色彩",
+   "技巧炫示"
+  ],
+  "from": [
+   "high_ren"
+  ],
+  "against": [
+   "high_ren"
+  ],
+  "artists": [
+   "Parmigianino",
+   "Bronzino",
+   "Pontormo",
+   "El Greco",
+   "Rosso Fiorentino",
+   "Giuseppe Arcimboldo",
+   "Giulio Romano"
+  ]
+ },
+ {
+  "id": "baroque",
+  "zh": "巴洛克",
+  "en": "Baroque",
+  "start": 1600,
+  "end": 1750,
+  "era": "巴洛克",
+  "color": "#4e342e",
+  "desc": "反宗教改革與君主專制時代的藝術：強烈明暗對比（卡拉瓦喬的 tenebrism）、動態對角構圖、戲劇性的情感與豐沛的肉體感。義大利的卡拉瓦喬、西班牙的委拉斯奎茲、法蘭德斯的魯本斯是三個支柱。",
+  "traits": [
+   "明暗對照",
+   "動態構圖",
+   "戲劇張力",
+   "宏大場面"
+  ],
+  "from": [
+   "venetian",
+   "mannerism"
+  ],
+  "against": [
+   "mannerism"
+  ],
+  "artists": [
+   "Caravaggio",
+   "Peter Paul Rubens",
+   "Diego Velázquez",
+   "Artemisia Gentileschi",
+   "Annibale Carracci",
+   "Anthony van Dyck",
+   "Nicolas Poussin",
+   "Claude Lorrain",
+   "Francisco de Zurbarán",
+   "Bartolomé Esteban Murillo",
+   "Guido Reni",
+   "Georges de La Tour",
+   "Jusepe de Ribera",
+   "Pietro da Cortona",
+   "Orazio Gentileschi",
+   "Jacob Jordaens",
+   "Giovanni Battista Tiepolo",
+   "Canaletto",
+   "Charles Le Brun",
+   "Philippe de Champaigne",
+   "Le Nain brothers",
+   "Guercino",
+   "Domenichino",
+   "Luca Giordano",
+   "Francesco Guardi"
+  ]
+ },
+ {
+  "id": "dutch_golden",
+  "zh": "荷蘭黃金時代",
+  "en": "Dutch Golden Age",
+  "start": 1600,
+  "end": 1700,
+  "era": "巴洛克",
+  "color": "#5d4037",
+  "desc": "新教共和國的市民藝術：沒有教會與宮廷訂單，畫家轉向肖像、風俗、風景、靜物與室內場景，為市場而畫。林布蘭的心理深度與光影，維梅爾的靜謐日常，哈爾斯的活潑筆觸，各成一格。",
+  "traits": [
+   "市民題材",
+   "風俗畫",
+   "靜物與風景",
+   "光線室內"
+  ],
+  "from": [
+   "baroque",
+   "northern_ren"
+  ],
+  "against": [],
+  "artists": [
+   "Rembrandt",
+   "Johannes Vermeer",
+   "Frans Hals",
+   "Jan Steen",
+   "Pieter de Hooch",
+   "Jacob van Ruisdael",
+   "Judith Leyster",
+   "Gerard ter Borch",
+   "Willem Kalf",
+   "Pieter Claesz",
+   "Aelbert Cuyp",
+   "Meindert Hobbema",
+   "Gabriel Metsu",
+   "Jan van Goyen",
+   "Carel Fabritius",
+   "Gerrit Dou",
+   "Rachel Ruysch",
+   "Adriaen van Ostade",
+   "Hendrick Avercamp",
+   "Willem Claesz Heda",
+   "Jan Davidsz de Heem",
+   "Nicolaes Maes",
+   "Jan Miense Molenaer",
+   "Ambrosius Bosschaert",
+   "Hendrick ter Brugghen",
+   "Salomon van Ruysdael",
+   "Jan Lievens",
+   "Emanuel de Witte",
+   "Paulus Potter",
+   "Philips Koninck",
+   "Adriaen Brouwer"
+  ]
+ },
+ {
+  "id": "rococo",
+  "zh": "洛可可",
+  "en": "Rococo",
+  "start": 1720,
+  "end": 1780,
+  "era": "巴洛克",
+  "color": "#ec407a",
+  "desc": "巴洛克的輕盈版：法國攝政與路易十五時期的貴族趣味，粉彩色調、曲線裝飾、遊樂與愛情題材。華鐸的「雅宴」、布雪的神話裸女、弗拉戈納爾的《鞦韆》為典型；夏丹則以靜物與平民生活另闢蹊徑。",
+  "traits": [
+   "粉彩",
+   "曲線裝飾",
+   "雅宴題材",
+   "輕快筆觸"
+  ],
+  "from": [
+   "baroque"
+  ],
+  "against": [
+   "baroque"
+  ],
+  "artists": [
+   "Jean-Antoine Watteau",
+   "François Boucher",
+   "Jean-Honoré Fragonard",
+   "Jean-Baptiste-Siméon Chardin",
+   "Thomas Gainsborough",
+   "Joshua Reynolds",
+   "William Hogarth",
+   "Giovanni Battista Tiepolo",
+   "Canaletto",
+   "Élisabeth Vigée Le Brun",
+   "Jean-Baptiste Greuze",
+   "Maurice Quentin de La Tour",
+   "Pietro Longhi",
+   "Nicolas Lancret",
+   "George Stubbs",
+   "Joseph Wright of Derby",
+   "Rosalba Carriera"
+  ]
+ },
+ {
+  "id": "neoclassical",
+  "zh": "新古典主義",
+  "en": "Neoclassicism",
+  "start": 1760,
+  "end": 1830,
+  "era": "18–19世紀",
+  "color": "#1565c0",
+  "desc": "受龐貝發掘與啟蒙理性影響，反對洛可可的輕浮，回歸古希臘羅馬的秩序、線條與道德主題。大衛的《荷拉斯兄弟之誓》是宣言，安格爾把線條美推向極致。",
+  "traits": [
+   "清晰輪廓",
+   "古典題材",
+   "道德敘事",
+   "平滑筆觸"
+  ],
+  "from": [
+   "high_ren"
+  ],
+  "against": [
+   "rococo"
+  ],
+  "artists": [
+   "Jacques-Louis David",
+   "Jean-Auguste-Dominique Ingres",
+   "Angelica Kauffman",
+   "Anton Raphael Mengs",
+   "Antonio Canova",
+   "Benjamin West",
+   "John Singleton Copley",
+   "Jean-Baptiste Greuze",
+   "Anne-Louis Girodet",
+   "Antoine-Jean Gros",
+   "Gilbert Stuart"
+  ]
+ },
+ {
+  "id": "romanticism",
+  "zh": "浪漫主義",
+  "en": "Romanticism",
+  "start": 1790,
+  "end": 1850,
+  "era": "18–19世紀",
+  "color": "#283593",
+  "desc": "對啟蒙理性與新古典秩序的反動：強調情感、想像、崇高的自然與個人英雄。德拉克洛瓦的色彩與動勢、傑利柯的《梅杜莎之筏》、哥雅的黑暗、弗里德里希的孤寂風景、透納的光與暴風，各自詮釋浪漫。",
+  "traits": [
+   "情感與想像",
+   "崇高自然",
+   "異國與歷史",
+   "自由筆觸"
+  ],
+  "from": [
+   "baroque"
+  ],
+  "against": [
+   "neoclassical"
+  ],
+  "artists": [
+   "Eugène Delacroix",
+   "Théodore Géricault",
+   "Francisco Goya",
+   "Caspar David Friedrich",
+   "J. M. W. Turner",
+   "John Constable",
+   "William Blake",
+   "Henry Fuseli",
+   "John Martin",
+   "Thomas Cole",
+   "Francesco Hayez",
+   "Ivan Aivazovsky",
+   "Carl Blechen",
+   "Théodore Chassériau",
+   "Philipp Otto Runge",
+   "Samuel Palmer",
+   "Richard Parkes Bonington",
+   "Karl Bryullov"
+  ]
+ },
+ {
+  "id": "hudson",
+  "zh": "哈德遜河畫派",
+  "en": "Hudson River School",
+  "start": 1825,
+  "end": 1880,
+  "era": "18–19世紀",
+  "color": "#2e7d32",
+  "desc": "美國第一個本土畫派，以浪漫主義精神描繪哈德遜河谷、新英格蘭與西部的壯闊風景，把荒野視為新大陸的精神象徵。晚期的「光色主義」（Luminism）專注於靜謐的光線與水面。",
+  "traits": [
+   "壯闊風景",
+   "荒野象徵",
+   "細膩光線",
+   "全景構圖"
+  ],
+  "from": [
+   "romanticism"
+  ],
+  "against": [],
+  "artists": [
+   "Thomas Cole",
+   "Frederic Edwin Church",
+   "Albert Bierstadt",
+   "Asher B. Durand",
+   "John Frederick Kensett",
+   "Fitz Henry Lane",
+   "Martin Johnson Heade",
+   "Jasper Francis Cropsey",
+   "Sanford Robinson Gifford",
+   "George Inness"
+  ]
+ },
+ {
+  "id": "realism",
+  "zh": "寫實主義",
+  "en": "Realism",
+  "start": 1840,
+  "end": 1880,
+  "era": "18–19世紀",
+  "color": "#455a64",
+  "desc": "1848 年革命後的法國：庫爾貝宣稱「我不畫天使，因為我沒見過」，以巨幅畫布描繪農民、工人與日常，挑戰學院的歷史畫階級。米勒的農民、杜米埃的諷刺、俄國的列賓與巡迴展覽畫派，美國的伊肯斯與荷馬，都屬此脈。",
+  "traits": [
+   "當代題材",
+   "平民主角",
+   "反理想化",
+   "社會批判"
+  ],
+  "from": [
+   "barbizon",
+   "romanticism"
+  ],
+  "against": [
+   "academic",
+   "romanticism"
+  ],
+  "artists": [
+   "Gustave Courbet",
+   "Jean-François Millet",
+   "Honoré Daumier",
+   "Rosa Bonheur",
+   "Ilya Repin",
+   "Winslow Homer",
+   "Thomas Eakins",
+   "Jules Bastien-Lepage",
+   "Adolph Menzel",
+   "Wilhelm Leibl",
+   "Ivan Shishkin",
+   "Vasily Perov",
+   "Jean-Léon Gérôme"
+  ]
+ },
+ {
+  "id": "barbizon",
+  "zh": "巴比松畫派",
+  "en": "Barbizon School",
+  "start": 1830,
+  "end": 1870,
+  "era": "18–19世紀",
+  "color": "#558b2f",
+  "desc": "一群畫家聚居楓丹白露森林旁的巴比松村，走出畫室直接面對自然寫生，追求樸素真實的鄉野風景。柯洛的銀灰色調與盧梭、杜比尼的森林，為印象派的戶外寫生鋪路。",
+  "traits": [
+   "戶外寫生",
+   "鄉野風景",
+   "樸素色調",
+   "光線觀察"
+  ],
+  "from": [
+   "romanticism"
+  ],
+  "against": [
+   "academic"
+  ],
+  "artists": [
+   "Jean-Baptiste-Camille Corot",
+   "Théodore Rousseau",
+   "Charles-François Daubigny",
+   "Jean-François Millet",
+   "Narcisse Virgilio Díaz",
+   "Constant Troyon",
+   "Jules Dupré"
+  ]
+ },
+ {
+  "id": "academic",
+  "zh": "學院派",
+  "en": "Academic Art",
+  "start": 1800,
+  "end": 1900,
+  "era": "18–19世紀",
+  "color": "#8e24aa",
+  "desc": "19 世紀官方沙龍的主流：延續新古典的線條與高度打磨的表面，題材偏好神話、歷史與東方情調（東方主義）。布格羅、卡巴內爾、傑洛姆在當時聲望極高，後來成為印象派等前衛運動反對的對象。",
+  "traits": [
+   "打磨表面",
+   "神話歷史",
+   "東方主義",
+   "沙龍體制"
+  ],
+  "from": [
+   "neoclassical"
+  ],
+  "against": [],
+  "artists": [
+   "William-Adolphe Bouguereau",
+   "Alexandre Cabanel",
+   "Jean-Léon Gérôme",
+   "Lawrence Alma-Tadema",
+   "Frederic Leighton",
+   "Ernest Meissonier",
+   "Paul Delaroche",
+   "Thomas Couture",
+   "Hans Makart",
+   "Franz Xaver Winterhalter"
+  ]
+ },
+ {
+  "id": "preraphaelite",
+  "zh": "前拉斐爾派",
+  "en": "Pre-Raphaelites",
+  "start": 1848,
+  "end": 1900,
+  "era": "18–19世紀",
+  "color": "#c2185b",
+  "desc": "1848 年倫敦的青年結社，反對皇家學院奉拉斐爾為唯一典範，主張回到拉斐爾之前的細密寫實與鮮明色彩，題材取自文學、宗教與中世紀傳奇。米萊的《奧菲莉亞》、羅塞蒂的女性形象影響了後來的唯美主義與象徵主義。",
+  "traits": [
+   "細密寫實",
+   "鮮明色彩",
+   "文學題材",
+   "中世紀情懷"
+  ],
+  "from": [
+   "early_ren",
+   "romanticism"
+  ],
+  "against": [
+   "academic"
+  ],
+  "artists": [
+   "John Everett Millais",
+   "Dante Gabriel Rossetti",
+   "William Holman Hunt",
+   "Edward Burne-Jones",
+   "John William Waterhouse",
+   "Ford Madox Brown",
+   "Arthur Hughes",
+   "Frederick Sandys"
+  ]
+ },
+ {
+  "id": "impressionism",
+  "zh": "印象派",
+  "en": "Impressionism",
+  "start": 1860,
+  "end": 1890,
+  "era": "現代",
+  "color": "#0288d1",
+  "desc": "1874 年首次聯展，以莫內《印象·日出》得名。離開畫室到戶外捕捉瞬間光色，用短促分離的筆觸並置純色，畫現代巴黎的休閒生活與風景。莫內、雷諾瓦、畢沙羅、竇加、莫里索、希斯里為核心；馬奈是精神前驅。",
+  "traits": [
+   "戶外光色",
+   "分離筆觸",
+   "瞬間印象",
+   "現代生活"
+  ],
+  "from": [
+   "barbizon",
+   "realism"
+  ],
+  "against": [
+   "academic"
+  ],
+  "artists": [
+   "Claude Monet",
+   "Pierre-Auguste Renoir",
+   "Edgar Degas",
+   "Camille Pissarro",
+   "Édouard Manet",
+   "Berthe Morisot",
+   "Alfred Sisley",
+   "Mary Cassatt",
+   "Gustave Caillebotte",
+   "Frédéric Bazille",
+   "Armand Guillaumin",
+   "Eva Gonzalès",
+   "John Singer Sargent",
+   "Joaquín Sorolla",
+   "Childe Hassam",
+   "Max Liebermann",
+   "Anders Zorn",
+   "Peder Severin Krøyer",
+   "Lovis Corinth",
+   "Max Slevogt",
+   "William Merritt Chase",
+   "Theodore Robinson",
+   "Eugène Boudin",
+   "Johan Barthold Jongkind"
+  ]
+ },
+ {
+  "id": "neoimpressionism",
+  "zh": "新印象派（點描）",
+  "en": "Neo-Impressionism",
+  "start": 1886,
+  "end": 1900,
+  "era": "現代",
+  "color": "#00897b",
+  "desc": "秀拉把印象派的色彩直覺變成科學：依色彩理論用細小純色圓點並置，讓觀者的眼睛混色（點描法、分色主義）。《大碗島的星期日午後》是代表；席涅克延續並影響馬諦斯早期。",
+  "traits": [
+   "點描",
+   "色彩理論",
+   "靜態構圖",
+   "光學混色"
+  ],
+  "from": [
+   "impressionism"
+  ],
+  "against": [],
+  "artists": [
+   "Georges Seurat",
+   "Paul Signac",
+   "Henri-Edmond Cross",
+   "Maximilien Luce",
+   "Théo van Rysselberghe",
+   "Charles Angrand",
+   "Albert Dubois-Pillet"
+  ]
+ },
+ {
+  "id": "postimpressionism",
+  "zh": "後印象派",
+  "en": "Post-Impressionism",
+  "start": 1886,
+  "end": 1905,
+  "era": "現代",
+  "color": "#f9a825",
+  "desc": "幾位各走各路的大師，共同點是不滿足於印象派只記錄光色：塞尚追求結構與體積（通往立體派），梵谷以厚塗與扭曲表達情感（通往表現主義），高更用平塗色面與象徵（通往野獸派與原始主義），羅特列克記錄蒙馬特夜生活。",
+  "traits": [
+   "結構與形式",
+   "主觀色彩",
+   "情感表現",
+   "象徵平塗"
+  ],
+  "from": [
+   "impressionism"
+  ],
+  "against": [
+   "impressionism"
+  ],
+  "artists": [
+   "Paul Cézanne",
+   "Vincent van Gogh",
+   "Paul Gauguin",
+   "Henri de Toulouse-Lautrec",
+   "Henri Rousseau",
+   "Émile Bernard",
+   "Paul Sérusier",
+   "Odilon Redon",
+   "Vilhelm Hammershøi",
+   "James Ensor"
+  ]
+ },
+ {
+  "id": "symbolism",
+  "zh": "象徵主義",
+  "en": "Symbolism",
+  "start": 1880,
+  "end": 1910,
+  "era": "現代",
+  "color": "#4a148c",
+  "desc": "反對寫實與印象派的外在觀察，轉向夢境、神話、宗教與內心世界，以暗示而非描述。莫羅的神祕神話、魯東的黑色石版與花卉、孟克的焦慮、克林姆的裝飾象徵，都在此脈絡。",
+  "traits": [
+   "夢境神話",
+   "內心世界",
+   "暗示與寓意",
+   "裝飾性"
+  ],
+  "from": [
+   "romanticism",
+   "preraphaelite"
+  ],
+  "against": [
+   "realism",
+   "impressionism"
+  ],
+  "artists": [
+   "Gustave Moreau",
+   "Odilon Redon",
+   "Pierre Puvis de Chavannes",
+   "Arnold Böcklin",
+   "Edvard Munch",
+   "Fernand Khnopff",
+   "Jean Delville",
+   "Franz von Stuck",
+   "Mikhail Vrubel",
+   "Jan Toorop",
+   "Félicien Rops",
+   "Carlos Schwabe",
+   "Lucien Lévy-Dhurmer",
+   "Hugo Simberg",
+   "Akseli Gallen-Kallela"
+  ]
+ },
+ {
+  "id": "nabis",
+  "zh": "納比派",
+  "en": "Les Nabis",
+  "start": 1888,
+  "end": 1900,
+  "era": "現代",
+  "color": "#7b1fa2",
+  "desc": "受高更啟發的巴黎青年團體（Nabi 是希伯來文「先知」），主張畫是「依某種秩序排列色彩的平面」。波納爾與維亞爾的室內親密場景（Intimisme）、德尼的裝飾性宗教畫為代表。",
+  "traits": [
+   "平面裝飾",
+   "親密室內",
+   "圖案化色面",
+   "日本版畫影響"
+  ],
+  "from": [
+   "postimpressionism"
+  ],
+  "against": [],
+  "artists": [
+   "Pierre Bonnard",
+   "Édouard Vuillard",
+   "Maurice Denis",
+   "Paul Sérusier",
+   "Félix Vallotton",
+   "Ker-Xavier Roussel",
+   "Paul Ranson"
+  ]
+ },
+ {
+  "id": "artnouveau",
+  "zh": "新藝術／維也納分離派",
+  "en": "Art Nouveau / Vienna Secession",
+  "start": 1890,
+  "end": 1914,
+  "era": "現代",
+  "color": "#d4af37",
+  "desc": "世紀末橫跨建築、設計與繪畫的裝飾運動：有機曲線、植物紋樣、平面化的女性形象。維也納的克林姆以金箔與圖案化裝飾結合象徵主義；席勒與柯克西卡則由此走向表現主義。慕夏的海報是最通俗的面貌。",
+  "traits": [
+   "有機曲線",
+   "金箔與圖案",
+   "平面化",
+   "總體藝術"
+  ],
+  "from": [
+   "symbolism",
+   "nabis"
+  ],
+  "against": [
+   "academic"
+  ],
+  "artists": [
+   "Gustav Klimt",
+   "Alphonse Mucha",
+   "Egon Schiele",
+   "Koloman Moser",
+   "Aubrey Beardsley",
+   "Henri de Toulouse-Lautrec",
+   "Jan Toorop"
+  ]
+ },
+ {
+  "id": "fauvism",
+  "zh": "野獸派",
+  "en": "Fauvism",
+  "start": 1904,
+  "end": 1910,
+  "era": "現代",
+  "color": "#e53935",
+  "desc": "1905 年秋季沙龍，評論家稱這群人為「野獸」：馬諦斯、德朗、弗拉曼克用未經調和的純色與粗放筆觸，讓色彩脫離描述功能，直接表達情緒。壽命短但影響深遠，是 20 世紀第一個前衛運動。",
+  "traits": [
+   "純色",
+   "色彩自主",
+   "粗放筆觸",
+   "去除陰影"
+  ],
+  "from": [
+   "postimpressionism",
+   "neoimpressionism"
+  ],
+  "against": [],
+  "artists": [
+   "Henri Matisse",
+   "André Derain",
+   "Maurice de Vlaminck",
+   "Raoul Dufy",
+   "Kees van Dongen",
+   "Georges Braque",
+   "Albert Marquet",
+   "Othon Friesz",
+   "Henri Manguin"
+  ]
+ },
+ {
+  "id": "expressionism",
+  "zh": "表現主義",
+  "en": "Expressionism",
+  "start": 1905,
+  "end": 1930,
+  "era": "現代",
+  "color": "#bf360c",
+  "desc": "德國為中心：德勒斯登的「橋社」（基爾希納、海克爾、諾爾德）以粗獷扭曲的形與刺眼色彩表達現代都市的焦慮；慕尼黑的「藍騎士」（康丁斯基、馬爾克、克利）則偏向精神性與抽象。孟克是先驅，席勒與柯克西卡是奧地利支脈，蘇汀與莫迪里亞尼常被歸入「巴黎畫派」。",
+  "traits": [
+   "扭曲變形",
+   "刺眼色彩",
+   "內在焦慮",
+   "木刻版畫"
+  ],
+  "from": [
+   "postimpressionism",
+   "symbolism",
+   "fauvism"
+  ],
+  "against": [
+   "impressionism"
+  ],
+  "artists": [
+   "Edvard Munch",
+   "Ernst Ludwig Kirchner",
+   "Wassily Kandinsky",
+   "Franz Marc",
+   "Emil Nolde",
+   "Egon Schiele",
+   "Oskar Kokoschka",
+   "Paul Klee",
+   "August Macke",
+   "Erich Heckel",
+   "Karl Schmidt-Rottluff",
+   "Max Beckmann",
+   "Chaim Soutine",
+   "Amedeo Modigliani",
+   "Alexej von Jawlensky",
+   "Gabriele Münter",
+   "Käthe Kollwitz",
+   "Max Pechstein",
+   "Lyonel Feininger",
+   "Ludwig Meidner"
+  ]
+ },
+ {
+  "id": "cubism",
+  "zh": "立體派",
+  "en": "Cubism",
+  "start": 1907,
+  "end": 1920,
+  "era": "現代",
+  "color": "#37474f",
+  "desc": "畢卡索《亞維儂的少女》（1907）開端，與布拉克共同發展：從塞尚的幾何結構出發，把物體拆解成多視點的面，拒絕單點透視。分析立體派（1909–12）單色碎面，綜合立體派（1912–）加入拼貼與鮮明色塊。格里斯、雷捷、德洛內各自延伸。",
+  "traits": [
+   "多視點",
+   "幾何碎面",
+   "拼貼",
+   "單色到色塊"
+  ],
+  "from": [
+   "postimpressionism"
+  ],
+  "against": [
+   "impressionism",
+   "fauvism"
+  ],
+  "artists": [
+   "Pablo Picasso",
+   "Georges Braque",
+   "Juan Gris",
+   "Fernand Léger",
+   "Robert Delaunay",
+   "Sonia Delaunay",
+   "Albert Gleizes",
+   "Jean Metzinger",
+   "Francis Picabia",
+   "Marcel Duchamp",
+   "Lyonel Feininger",
+   "Roger de La Fresnaye"
+  ]
+ },
+ {
+  "id": "futurism",
+  "zh": "未來主義",
+  "en": "Futurism",
+  "start": 1909,
+  "end": 1918,
+  "era": "現代",
+  "color": "#ff6f00",
+  "desc": "義大利詩人馬里內蒂 1909 年發表宣言，歌頌速度、機器、城市與戰爭，否定博物館與過去。波丘尼、巴拉、卡拉用重複輪廓與放射線條表現動態與「力線」。",
+  "traits": [
+   "速度與機器",
+   "動態重複",
+   "力線",
+   "反傳統"
+  ],
+  "from": [
+   "cubism",
+   "neoimpressionism"
+  ],
+  "against": [
+   "academic"
+  ],
+  "artists": [
+   "Umberto Boccioni",
+   "Giacomo Balla",
+   "Carlo Carrà",
+   "Gino Severini",
+   "Luigi Russolo",
+   "Natalia Goncharova",
+   "Mikhail Larionov"
+  ]
+ },
+ {
+  "id": "metaphysical",
+  "zh": "形上繪畫",
+  "en": "Metaphysical Painting",
+  "start": 1910,
+  "end": 1920,
+  "era": "現代",
+  "color": "#5d4037",
+  "desc": "基里訶在空曠的義大利廣場放上拉長的影子、假人、古典雕像與火車，製造夢境般的不安與謎。是超現實主義最直接的先聲。",
+  "traits": [
+   "空曠廣場",
+   "長影",
+   "假人與雕像",
+   "夢境不安"
+  ],
+  "from": [
+   "symbolism"
+  ],
+  "against": [
+   "futurism"
+  ],
+  "artists": [
+   "Giorgio de Chirico",
+   "Carlo Carrà",
+   "Giorgio Morandi"
+  ]
+ },
+ {
+  "id": "dada",
+  "zh": "達達",
+  "en": "Dada",
+  "start": 1916,
+  "end": 1924,
+  "era": "現代",
+  "color": "#212121",
+  "desc": "一戰中在蘇黎世伏爾泰酒館誕生的反藝術運動：以荒謬、偶然、拼貼與現成物嘲諷導致戰爭的理性文明。杜象的《噴泉》、阿爾普的隨機拼貼、霍赫與豪斯曼的照片蒙太奇、施維特斯的垃圾拼貼。",
+  "traits": [
+   "反藝術",
+   "現成物",
+   "偶然",
+   "照片蒙太奇"
+  ],
+  "from": [
+   "cubism",
+   "futurism"
+  ],
+  "against": [
+   "academic",
+   "expressionism"
+  ],
+  "artists": [
+   "Marcel Duchamp",
+   "Hannah Höch",
+   "Kurt Schwitters",
+   "Jean Arp",
+   "Francis Picabia",
+   "Raoul Hausmann",
+   "Man Ray",
+   "Max Ernst",
+   "Sophie Taeuber-Arp",
+   "George Grosz"
+  ]
+ },
+ {
+  "id": "suprematism",
+  "zh": "至上主義與構成主義",
+  "en": "Suprematism & Constructivism",
+  "start": 1913,
+  "end": 1930,
+  "era": "現代",
+  "color": "#c62828",
+  "desc": "俄國革命前後的抽象運動。馬列維奇的《黑方塊》（1915）把繪畫推到零點，以純幾何形傳達「純粹感受」；構成主義（塔特林、羅欽科、李西茨基）則主張藝術為社會與工業服務，走向設計與建築。",
+  "traits": [
+   "純幾何",
+   "非客觀",
+   "社會功能",
+   "設計整合"
+  ],
+  "from": [
+   "cubism",
+   "futurism"
+  ],
+  "against": [],
+  "artists": [
+   "Kazimir Malevich",
+   "El Lissitzky",
+   "Alexander Rodchenko",
+   "Vladimir Tatlin",
+   "Lyubov Popova",
+   "Naum Gabo",
+   "Olga Rozanova",
+   "Ivan Kliun"
+  ]
+ },
+ {
+  "id": "destijl",
+  "zh": "風格派",
+  "en": "De Stijl",
+  "start": 1917,
+  "end": 1931,
+  "era": "現代",
+  "color": "#1976d2",
+  "desc": "荷蘭的蒙德里安與凡·杜斯堡創刊《De Stijl》，提出「新造形主義」：只用水平與垂直線、三原色加黑白灰，追求普遍和諧。影響包浩斯與現代建築、設計。",
+  "traits": [
+   "垂直水平",
+   "三原色",
+   "格線",
+   "普遍和諧"
+  ],
+  "from": [
+   "cubism"
+  ],
+  "against": [],
+  "artists": [
+   "Piet Mondrian",
+   "Theo van Doesburg",
+   "Bart van der Leck",
+   "Gerrit Rietveld",
+   "Vilmos Huszár"
+  ]
+ },
+ {
+  "id": "bauhaus",
+  "zh": "包浩斯",
+  "en": "Bauhaus",
+  "start": 1919,
+  "end": 1933,
+  "era": "現代",
+  "color": "#00838f",
+  "desc": "葛羅培斯在威瑪創立的設計學校，主張藝術、工藝與工業結合。康丁斯基、克利、費寧格、莫侯利-納吉、阿伯斯在此任教，發展出幾何抽象與色彩理論，1933 年被納粹關閉後把現代主義帶到美國。",
+  "traits": [
+   "藝術與工業",
+   "幾何抽象",
+   "色彩理論",
+   "功能主義"
+  ],
+  "from": [
+   "destijl",
+   "suprematism",
+   "expressionism"
+  ],
+  "against": [],
+  "artists": [
+   "Wassily Kandinsky",
+   "Paul Klee",
+   "Lyonel Feininger",
+   "Josef Albers",
+   "László Moholy-Nagy",
+   "Oskar Schlemmer",
+   "Johannes Itten"
+  ]
+ },
+ {
+  "id": "surrealism",
+  "zh": "超現實主義",
+  "en": "Surrealism",
+  "start": 1924,
+  "end": 1950,
+  "era": "現代",
+  "color": "#6a1b9a",
+  "desc": "布列東 1924 年宣言，受佛洛伊德影響，探索潛意識與夢。兩條路線：達利、馬格利特、德爾沃以寫實技法畫不可能的景象；米羅、恩斯特、馬松以自動技法與偶然釋放潛意識。卡蘿、坦寧、卡林頓是重要女性聲音。",
+  "traits": [
+   "潛意識與夢",
+   "自動技法",
+   "錯置並置",
+   "寫實畫不可能"
+  ],
+  "from": [
+   "dada",
+   "metaphysical"
+  ],
+  "against": [],
+  "artists": [
+   "Salvador Dalí",
+   "René Magritte",
+   "Joan Miró",
+   "Max Ernst",
+   "Yves Tanguy",
+   "Paul Delvaux",
+   "Frida Kahlo",
+   "Leonora Carrington",
+   "Dorothea Tanning",
+   "Remedios Varo",
+   "André Masson",
+   "Man Ray",
+   "Leonor Fini",
+   "Kay Sage",
+   "Hans Bellmer",
+   "Victor Brauner"
+  ]
+ },
+ {
+  "id": "neuesachlichkeit",
+  "zh": "新即物主義",
+  "en": "New Objectivity",
+  "start": 1920,
+  "end": 1933,
+  "era": "現代",
+  "color": "#546e7a",
+  "desc": "威瑪德國對表現主義激情的反動：以冷靜、銳利、近乎諷刺的寫實描繪戰後社會——傷兵、妓女、資本家、城市夜生活。迪克斯、格羅茲尖銳批判，夏德與卡諾爾特則冷峻精確。",
+  "traits": [
+   "冷峻寫實",
+   "社會諷刺",
+   "銳利線條",
+   "威瑪社會"
+  ],
+  "from": [
+   "expressionism",
+   "dada"
+  ],
+  "against": [
+   "expressionism"
+  ],
+  "artists": [
+   "Otto Dix",
+   "George Grosz",
+   "Christian Schad",
+   "Max Beckmann",
+   "Alexander Kanoldt",
+   "Georg Schrimpf",
+   "Rudolf Schlichter",
+   "Karl Hubbuch"
+  ]
+ },
+ {
+  "id": "american_scene",
+  "zh": "美國場景與地方主義",
+  "en": "American Scene / Regionalism",
+  "start": 1925,
+  "end": 1945,
+  "era": "現代",
+  "color": "#6d4c41",
+  "desc": "大蕭條時期美國畫家轉向本土：地方主義（伍德《美國哥德式》、班頓、柯里）描繪中西部鄉村；霍普以孤寂的城市光影成為美國現代生活的肖像；社會寫實（肖恩、勞倫斯）記錄勞工與黑人經驗。",
+  "traits": [
+   "本土題材",
+   "孤寂城市",
+   "鄉村神話",
+   "社會寫實"
+  ],
+  "from": [
+   "realism"
+  ],
+  "against": [
+   "cubism",
+   "expressionism"
+  ],
+  "artists": [
+   "Edward Hopper",
+   "Grant Wood",
+   "Thomas Hart Benton",
+   "John Steuart Curry",
+   "Jacob Lawrence",
+   "Ben Shahn",
+   "Georgia O'Keeffe",
+   "Charles Sheeler",
+   "Charles Demuth",
+   "Andrew Wyeth",
+   "Reginald Marsh",
+   "Archibald Motley",
+   "Horace Pippin"
+  ]
+ },
+ {
+  "id": "mexican_mural",
+  "zh": "墨西哥壁畫運動",
+  "en": "Mexican Muralism",
+  "start": 1920,
+  "end": 1950,
+  "era": "現代",
+  "color": "#bf360c",
+  "desc": "墨西哥革命後政府資助的公共壁畫，以歷史、原住民與勞動者為主題，把藝術當成全民教育。里維拉、奧羅斯科、西凱羅斯「三巨頭」影響了美國新政藝術與拉美藝術。",
+  "traits": [
+   "公共壁畫",
+   "革命敘事",
+   "原住民題材",
+   "社會教育"
+  ],
+  "from": [
+   "early_ren",
+   "cubism"
+  ],
+  "against": [
+   "academic"
+  ],
+  "artists": [
+   "Diego Rivera",
+   "José Clemente Orozco",
+   "David Alfaro Siqueiros",
+   "Rufino Tamayo",
+   "Frida Kahlo"
+  ]
+ },
+ {
+  "id": "abex",
+  "zh": "抽象表現主義",
+  "en": "Abstract Expressionism",
+  "start": 1943,
+  "end": 1960,
+  "era": "戰後",
+  "color": "#000000",
+  "desc": "二戰後藝術中心從巴黎移到紐約。行動繪畫（波洛克的滴灑、德庫寧的狂暴筆觸、克萊因的黑色書寫）強調創作過程與身體；色域繪畫（羅斯科、紐曼、斯蒂爾）以巨幅色面追求崇高與冥想。",
+  "traits": [
+   "巨幅",
+   "行動繪畫",
+   "色域",
+   "崇高"
+  ],
+  "from": [
+   "surrealism",
+   "expressionism",
+   "suprematism"
+  ],
+  "against": [
+   "american_scene"
+  ],
+  "artists": [
+   "Jackson Pollock",
+   "Mark Rothko",
+   "Willem de Kooning",
+   "Franz Kline",
+   "Barnett Newman",
+   "Clyfford Still",
+   "Robert Motherwell",
+   "Lee Krasner",
+   "Helen Frankenthaler",
+   "Arshile Gorky",
+   "Joan Mitchell",
+   "Philip Guston",
+   "Adolph Gottlieb",
+   "Hans Hofmann"
+  ]
+ },
+ {
+  "id": "pop",
+  "zh": "普普藝術",
+  "en": "Pop Art",
+  "start": 1955,
+  "end": 1970,
+  "era": "戰後",
+  "color": "#f50057",
+  "desc": "從英國的漢密爾頓到美國的沃荷、李奇登斯坦、羅森奎斯特：把廣告、漫畫、商品與名人等大眾文化圖像搬進美術館，用絹印與商業手法消解「高雅／通俗」界線，也回應消費社會。強斯與羅森伯格是過渡。",
+  "traits": [
+   "大眾文化",
+   "商業手法",
+   "絹印複製",
+   "反諷"
+  ],
+  "from": [
+   "dada"
+  ],
+  "against": [
+   "abex"
+  ],
+  "artists": [
+   "Andy Warhol",
+   "Roy Lichtenstein",
+   "Richard Hamilton",
+   "Jasper Johns",
+   "Robert Rauschenberg",
+   "Claes Oldenburg",
+   "James Rosenquist",
+   "David Hockney",
+   "Tom Wesselmann",
+   "Peter Blake",
+   "Eduardo Paolozzi",
+   "Ed Ruscha",
+   "Wayne Thiebaud"
+  ]
+ },
+ {
+  "id": "minimalism",
+  "zh": "極簡主義與歐普藝術",
+  "en": "Minimalism & Op Art",
+  "start": 1960,
+  "end": 1975,
+  "era": "戰後",
+  "color": "#9e9e9e",
+  "desc": "極簡主義把抽象表現主義的情感全部抽掉：工業材料、重複的幾何單元、「你看到的就是你看到的」（史帖拉）。歐普藝術（瓦薩雷利、萊利）則用幾何圖案製造視覺錯覺與運動感。硬邊與色域畫家（凱利、路易斯、諾蘭）介於兩者之間。",
+  "traits": [
+   "幾何重複",
+   "工業材料",
+   "去個人化",
+   "視覺錯覺"
+  ],
+  "from": [
+   "suprematism",
+   "destijl",
+   "abex"
+  ],
+  "against": [
+   "abex"
+  ],
+  "artists": [
+   "Frank Stella",
+   "Donald Judd",
+   "Agnes Martin",
+   "Ellsworth Kelly",
+   "Bridget Riley",
+   "Victor Vasarely",
+   "Kenneth Noland",
+   "Morris Louis",
+   "Sol LeWitt",
+   "Dan Flavin",
+   "Carmen Herrera",
+   "Josef Albers"
+  ]
+ },
+ {
+  "id": "postmodern",
+  "zh": "照相寫實、新表現主義與當代",
+  "en": "Photorealism, Neo-Expressionism & Contemporary",
+  "start": 1965,
+  "end": 2026,
+  "era": "戰後",
+  "color": "#607d8b",
+  "desc": "1970 年代後繪畫多線並行：照相寫實（克洛斯、埃斯特斯）用照片般的精確回應觀念藝術；1980 年代新表現主義（巴塞利茲、基弗、巴斯奇亞、施納貝爾）帶回激情筆觸與歷史重量；之後里希特、霍克尼、杜馬斯、彼得·多伊格、肯特里奇等各自延續繪畫的可能。",
+  "traits": [
+   "多元並行",
+   "照片精確",
+   "激情回歸",
+   "歷史與身份"
+  ],
+  "from": [
+   "pop",
+   "abex",
+   "expressionism"
+  ],
+  "against": [
+   "minimalism"
+  ],
+  "artists": [
+   "Gerhard Richter",
+   "Jean-Michel Basquiat",
+   "Anselm Kiefer",
+   "Georg Baselitz",
+   "Chuck Close",
+   "Lucian Freud",
+   "Francis Bacon",
+   "David Hockney",
+   "Marlene Dumas",
+   "Peter Doig",
+   "Julian Schnabel",
+   "Richard Estes",
+   "Yayoi Kusama",
+   "Kehinde Wiley",
+   "Kerry James Marshall"
+  ]
+ }
+]
