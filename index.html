@@ -136,6 +136,13 @@ main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px
 .chip .n{color:var(--muted);margin-left:4px;font-size:.75rem}
 .ixsec input[type=search]{width:100%;max-width:420px;margin-bottom:8px;background:var(--bg2);border:1px solid var(--line);color:var(--fg);padding:6px 10px;font:inherit}
 .moreix{background:none;border:none;color:var(--accent2);cursor:pointer;font:inherit;padding:4px 0}
+.bio{background:var(--panel);border:1px solid var(--line);padding:14px 18px;margin:0 0 16px;display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:18px}
+@media (max-width:760px){.bio{grid-template-columns:1fr}}
+.bio h3{font-size:1rem;color:var(--accent);margin:0 0 4px}
+.bio p{margin:0 0 10px}
+.bio ul{margin:0 0 10px;padding-left:18px}
+.bio .kw span{display:inline-block;margin:0 8px 4px 0;font-family:var(--latin);font-style:italic}
+.bio .lowc{color:var(--muted);font-size:.8rem}
 .lhead h2{font-size:1.35rem}.lhead .sub{color:var(--muted);margin-bottom:12px}
 .cent{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
 .cent button{background:var(--bg2);border:1px solid var(--line);color:inherit;font:inherit;padding:8px;cursor:pointer;text-align:left}
@@ -163,6 +170,7 @@ main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px
   <section class="view" id="v-list" hidden>
     <button class="back" id="lback">‹ 返回</button>
     <div class="lhead" id="lhead"></div>
+    <div class="bio" id="lbio" hidden></div>
     <div class="wall" id="lwall"></div>
   </section>
   <section class="view" id="v-timeline" hidden>
@@ -233,6 +241,7 @@ main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px
 async function main(){
 const J=n=>fetch('data/'+n+'.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error(n+' '+r.status);return r.json()});
 const [M,W,A,MU,TH,META]=await Promise.all([J('movements'),J('works'),J('artists'),J('museums'),J('themes'),J('meta')]);
+const BIO=await J('bios').catch(()=>({}));
 const D={foot:`資料版本 ${META.version}（${META.updated}）。圖源：Wikimedia Commons（公共領域）、美國國家藝廊 NGA 開放資料；主題分類為編者依題名初分。資料與圖片皆在本 repo 的 data/ 與 img/，可直接修改擴充。`};
 const MI={}; M.forEach(m=>MI[m.id]=m);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -338,7 +347,7 @@ const sortW=ws=>ws.slice().sort((a,b)=>(MI[a.m].start-MI[b.m].start)||((yearNum(
 const byArt={}; W.forEach(w=>{(byArt[w.a]=byArt[w.a]||[]).push(w)});
 let listBack='index';
 function openList(title,sub,ws,back){
-  listBack=back||'index'; show('list'); document.getElementById('lhead').innerHTML=`<h2>${title}</h2><div class="sub">${sub}</div>`;
+  listBack=back||'index'; show('list'); document.getElementById('lbio').hidden=true; document.getElementById('lhead').innerHTML=`<h2>${title}</h2><div class="sub">${sub}</div>`;
   const s=sortW(ws); renderWall(document.getElementById('lwall'),s,s); window.scrollTo({top:0});
 }
 document.getElementById('lback').onclick=()=>show(listBack);
@@ -347,6 +356,9 @@ function openArtist(a){
   openList(`${esc(x.zh||a)} <span class="lat" style="font-size:1rem;color:var(--muted)">${esc(a)}</span>`,
     `${ayrs(a)}${x.nat?' · '+esc(x.nat):''} · ${ws.length} 件作品 · 流派：${movs||'—'}`, ws);
   document.querySelectorAll('#lhead .chip[data-m]').forEach(c=>c.onclick=()=>openMov(c.dataset.m));
+  const b=BIO[a]; const el=document.getElementById('lbio');
+  if(b){el.hidden=false;el.innerHTML=`<div><h3>生平</h3><p>${esc(b.bio)}</p>${b.anecdote?`<h3>軼事</h3><p>${esc(b.anecdote)}</p>`:''}</div>
+  <div><h3>作品特色</h3><ul>${(b.style||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ul>${b.keyworks&&b.keyworks.length?`<h3>代表作</h3><div class="kw">${b.keyworks.map(x=>`<span>${esc(x)}</span>`).join('')}</div>`:''}${b.aka&&b.aka.length?`<p class="lowc">別譯：${b.aka.map(esc).join('、')}</p>`:''}${b.confidence==='low'?'<p class="lowc">此畫家史料稀少，介紹為概略，可信度低。</p>':''}<p class="lowc">介紹文字由編者整理，未逐條查證原始文獻。</p></div>`}
 }
 function openMuseum(id){const mu=MU[id];const ws=W.filter(w=>w.mu_id===id);openList(esc(mu?(mu.zh||mu.en):id),`${mu?esc(mu.en):''}${mu&&mu.city?' · '+esc(mu.city):''}${mu&&mu.country?' · '+esc(mu.country):''} · ${ws.length} 件`,ws)}
 function openTheme(t){const ws=W.filter(w=>w.th.includes(t));openList(esc(t),`主題分類為編者依題名與流派初分，可能有誤 · ${ws.length} 件`,ws)}

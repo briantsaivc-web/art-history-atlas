@@ -39,6 +39,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Euphronios%20krater%20side%20A%20MET%20L.2006.10.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "神話／寓言",
    "歷史／戰爭"
   ],
   "mu_id": "national_archaeological_museum_of_cerveteri_ital",
@@ -85,7 +86,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Darius%20III%20mosaic.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；Commons name of the Alexander Mosaic image",
   "th": [
-   "風景"
+   "歷史／戰爭"
   ],
   "mu_id": "national_archaeological_museum_naples",
   "local": true,
@@ -108,7 +109,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Roman%20fresco%20Villa%20dei%20Misteri%20Pompeii%20009.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；single panel of the cycle",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "宗教"
   ],
   "mu_id": "pompeii_italy",
   "local": true,
@@ -177,6 +179,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Justinian%20mosaic%2C%20San%20Vitale%2C%20consecrated%20547%2C%20Ravenna%2C%20Italy.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "肖像",
    "歷史／戰爭",
    "宗教"
   ],
@@ -293,7 +296,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bayeux%20Tapestry%20scene57%20Harold%20death.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "宗教"
+   "歷史／戰爭"
   ],
   "mu_id": "bayeux_museum_normandy",
   "local": true,
@@ -456,7 +459,7 @@
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
    "神話／寓言",
-   "宗教"
+   "城市／建築"
   ],
   "mu_id": "palazzo_pubblico_siena",
   "local": true,
@@ -479,7 +482,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20Janvier.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教"
+   "人物／風俗"
   ],
   "mu_id": "mus_e_cond_chantilly",
   "local": true,
@@ -594,7 +597,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Masaccio-TheExpulsionOfAdamAndEveFromEden-Restoration.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；restoration image",
   "th": [
-   "風景"
+   "宗教",
+   "裸體"
   ],
   "mu_id": "brancacci_chapel_florence",
   "local": true,
@@ -779,7 +783,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Andrea%20mantegna%2C%20camera%20degli%20sposi%2C%201465-74%2C%20volta%2C%2002.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "人物／風俗",
+   "城市／建築"
   ],
   "mu_id": "palazzo_ducale_mantua",
   "local": true,
@@ -895,6 +900,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ghirlandaio%2C%20Domenico%20-%20An%20Old%20Man%20and%20His%20Grandson%20-%20Louvre%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "肖像",
    "人物／風俗"
   ],
   "mu_id": "louvre_paris",
@@ -1056,7 +1062,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Luca%20Signorelli%20-%20The%20Damned%20-%20WGA21220.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "宗教"
+   "宗教",
+   "裸體"
   ],
   "mu_id": "orvieto_cathedral",
   "local": true,
@@ -1102,8 +1109,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Leonardo%20da%20Vinci%20%281452-1519%29%20-%20The%20Last%20Supper%20%281495-1498%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教",
-   "人物／風俗"
+   "宗教"
   ],
   "mu_id": "santa_maria_delle_grazie_milan",
   "local": true,
@@ -1197,7 +1203,6 @@
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；may be crop/detail of ceiling panel",
   "th": [
    "宗教",
-   "城市／建築",
    "裸體"
   ],
   "mu_id": "sistine_chapel_vatican",
@@ -1244,8 +1249,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Tondo%20Doni%202021.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教",
-   "人物／風俗"
+   "宗教"
   ],
   "mu_id": "uffizi_florence",
   "local": true,
@@ -1268,7 +1272,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:%22The%20School%20of%20Athens%22%20by%20Raffaello%20Sanzio%20da%20Urbino.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "城市／建築"
   ],
   "mu_id": "stanza_della_segnatura_vatican",
   "local": true,
@@ -1360,8 +1365,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1196.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "宗教",
-   "動物"
+   "宗教"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -1638,7 +1642,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Hans%20Memling%20-%20Diptych%20of%20Maarten%20Nieuwenhove%20-%20WGA14955.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "宗教"
+   "宗教",
+   "肖像"
   ],
   "mu_id": "memling_museum_sint_janshospitaal_bruges",
   "local": true,
@@ -1684,7 +1689,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Garden%20of%20Earthly%20Delights%20by%20Bosch%20High%20Resolution.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "風景"
+   "宗教",
+   "裸體"
   ],
   "mu_id": "museo_del_prado_madrid",
   "local": true,
@@ -1730,6 +1736,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jheronimus%20Bosch%20-%20De%20hooiwagen%20%28c.1516%2C%20Prado%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；seen on de.wikipedia as Datei: page; also Jheronimus Bosch 115.jpg shown for El carro de heno",
   "th": [
+   "宗教",
    "風景"
   ],
   "mu_id": "museo_del_prado_madrid",
@@ -1868,7 +1875,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:D%C3%BCrer%20Melancholia%20I.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教"
+   "神話／寓言"
   ],
   "mu_id": "various_engraving",
   "local": true,
@@ -1961,6 +1968,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Lucas%20Cranach%20d.%C3%84.%20-%20Adam%20und%20Eva%20%28Courtauld%20Institute%20of%20Art%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名",
   "th": [
+   "宗教",
    "裸體"
   ],
   "mu_id": "courtauld_gallery_london",
@@ -2007,7 +2015,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Hans%20Holbein%20the%20Younger%20-%20The%20Ambassadors%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "歷史／戰爭"
+   "肖像",
+   "靜物"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -2053,7 +2062,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.71.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -2076,7 +2085,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pieter%20Bruegel%20the%20Elder%20-%20Hunters%20in%20the%20Snow%20%28Winter%29%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景"
+   "風景",
+   "人物／風俗"
   ],
   "mu_id": "kunsthistorisches_museum_vienna",
   "local": true,
@@ -2122,6 +2132,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pieter%20Bruegel%20the%20Elder%20-%20The%20Tower%20of%20Babel%20%28Vienna%29%20-%20Google%20Art%20Project%20-%20edited.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
+   "宗教",
    "城市／建築"
   ],
   "mu_id": "kunsthistorisches_museum_vienna",
@@ -2145,7 +2156,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pieter%20Brueghel%20the%20Elder%20-%20The%20Dutch%20Proverbs%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "gem_ldegalerie_berlin",
   "local": true,
@@ -2169,7 +2180,8 @@
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；Commons mirror host",
   "th": [
    "神話／寓言",
-   "風景"
+   "風景",
+   "海景"
   ],
   "mu_id": "royal_museums_of_fine_arts_of_belgium_brussels",
   "local": true,
@@ -2262,7 +2274,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Vittore%20Carpaccio%20Two%20Venetian%20Ladies%201500.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "museo_correr_venice",
   "local": true,
@@ -2285,6 +2298,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:6%2C99Mo-Giorgione%20019.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；Commons mirror; file in Category:The Tempest by Giorgione (valued image candidate)",
   "th": [
+   "風景",
    "神話／寓言"
   ],
   "mu_id": "gallerie_dell_accademia_venice",
@@ -2425,7 +2439,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Titian%20%E2%80%93%20Portrait%20of%20Pope%20Paul%20III%20with%20his%20Grandsons%20%E2%80%93%20Google%20Art%20Project%20%E2%80%93%20edited.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教",
    "肖像"
   ],
   "mu_id": "museo_di_capodimonte_naples",
@@ -2449,7 +2462,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41593.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "歷史／戰爭"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -2613,6 +2626,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Les%20Noces%20de%20Cana%20-%20Paolo%20Veronese%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20142%20%3B%20MR%20384.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "宗教",
    "人物／風俗"
   ],
   "mu_id": "louvre_paris",
@@ -2636,7 +2650,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Feast%20in%20the%20House%20of%20Levi%20%28edited%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "城市／建築"
+   "宗教",
+   "人物／風俗"
   ],
   "mu_id": "gallerie_dell_accademia_venice",
   "local": true,
@@ -2868,6 +2883,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；uppercase .JPG extension",
   "th": [
+   "宗教",
    "肖像"
   ],
   "mu_id": "santo_tom_toledo",
@@ -2914,7 +2930,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.33253.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -2960,7 +2977,9 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Giuseppe%20Arcimboldo%20-%20Rudolf%20II%20of%20Habsburg%20as%20Vertumnus%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "神話／寓言"
+   "肖像",
+   "神話／寓言",
+   "靜物"
   ],
   "mu_id": "skokloster_castle_sweden",
   "local": true,
@@ -3076,7 +3095,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bacchus%20by%20Caravaggio%201.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "靜物"
   ],
   "mu_id": "uffizi_florence",
   "local": true,
@@ -3192,8 +3212,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Self-portrait%20as%20the%20Allegory%20of%20Painting%20%28La%20Pittura%29%20-%20Artemisia%20Gentileschi.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "神話／寓言",
-   "肖像"
+   "肖像",
+   "神話／寓言"
   ],
   "mu_id": "royal_collection_london",
   "local": true,
@@ -3308,7 +3328,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Peter%20Paul%20Rubens%20%281577-1640%29%20De%20kruisoprichting%20-%20Onze-Lieve-Vrouwekathedraal%20%28Antwerpen%29%2012-07-2010%2014-49-48.JPG",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；photo of the painting in situ; seen on de.wikipedia Datei page",
   "th": [
-   "其他／待分類"
+   "宗教"
   ],
   "mu_id": "cathedral_of_our_lady_antwerp",
   "local": true,
@@ -3377,7 +3397,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Peter%20Paul%20Rubens%20-%20Garden%20of%20Love%20-%20WGA20421.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景"
+   "人物／風俗",
+   "神話／寓言"
   ],
   "mu_id": "museo_del_prado_madrid",
   "local": true,
@@ -3400,6 +3421,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.50298.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
+   "宗教",
    "動物"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -3446,7 +3468,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Anthony%20van%20Dyck%20-%20Charles%20I%2C%20King%20of%20England%20at%20the%20Hunt%20-%20WGA07382.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -3492,7 +3514,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41651.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "歷史／戰爭",
    "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -3516,7 +3537,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jacob%20Jordaens%20-%20The%20Bean%20King%20%28Royal%20Museums%20of%20Fine%20Arts%20of%20Belgium%2C%201638%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；Brussels RMFAB version, titled Bean King; dated 1638 in filename",
   "th": [
-   "歷史／戰爭"
+   "人物／風俗"
   ],
   "mu_id": "royal_museums_of_fine_arts_of_belgium_brussels",
   "local": true,
@@ -3539,7 +3560,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Velazquez-Meninas.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "肖像",
+   "人物／風俗"
   ],
   "mu_id": "museo_del_prado_madrid",
   "local": true,
@@ -3632,7 +3654,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Velázquez_-_El_Triunfo_de_Baco_o_Los_Borrachos_(Museo_del_Prado,_1628-29).jpg",
   "verif": "Commons 檔名經瀏覽器 Special:FilePath 實際下載確認（2026-10-18）",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "人物／風俗"
   ],
   "mu_id": "museo_del_prado_madrid",
   "local": true,
@@ -3655,6 +3678,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.88.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
+   "人物／風俗",
    "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -3747,7 +3771,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9%20de%20Ribera%20-%20Clubfooted%20Boy%20-%20WGA19376.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -3770,7 +3795,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Immaculate%20Conception%20-%20WGA16401.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；未確認為 Los Venerables 版本",
   "th": [
-   "肖像"
+   "宗教"
   ],
   "mu_id": "museo_del_prado_madrid",
   "local": true,
@@ -3908,6 +3933,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Abduction%20of%20the%20Sabine%20Women%20by%20Nicolas%20Poussin%20at%20Metropolitan%20Museum%20of%20Art.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "歷史／戰爭",
    "神話／寓言"
   ],
   "mu_id": "metropolitan_museum_of_art_new_york",
@@ -3954,7 +3980,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Claude%20Lorrain%20-%20Seaport%20with%20the%20Embarkation%20of%20the%20Queen%20of%20Sheba%20-%20WGA05002.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "歷史／戰爭"
+   "海景",
+   "城市／建築"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -3977,7 +4004,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Claude%20Lorrain%20-%20Landscape%20with%20Dancing%20Figures%20-%20WGA04998.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；多利亞·潘菲利版本（又稱「磨坊」）",
   "th": [
-   "風景"
+   "風景",
+   "宗教"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -4000,7 +4028,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Philippe%20de%20Champaigne%20-%20Ex%20Voto%20-%20WGA4708.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "宗教",
+   "肖像"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -4139,8 +4168,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.32588.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "宗教",
-   "海景",
    "城市／建築"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -4164,9 +4191,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1166.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "風景",
-   "海景",
-   "城市／建築"
+   "城市／建築",
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -4398,7 +4424,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.85.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -4490,7 +4516,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jan%20Vermeer%20-%20The%20Art%20of%20Painting%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "人物／風俗",
+   "神話／寓言"
   ],
   "mu_id": "kunsthistorisches_museum_vienna",
   "local": true,
@@ -4559,6 +4586,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46437.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
+   "人物／風俗",
    "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -4605,7 +4633,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Frans%20Hals%20-%20Banket%20van%20de%20officieren%20van%20de%20Sint-Joris-Doelen.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名",
   "th": [
-   "宗教"
+   "肖像"
   ],
   "mu_id": "frans_hals_museum_haarlem",
   "local": true,
@@ -4628,7 +4656,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Frans%20Hals%20-%20Malle%20Babbe%20-%20WGA11105.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "肖像",
+   "人物／風俗"
   ],
   "mu_id": "gem_ldegalerie_berlin",
   "local": true,
@@ -4697,7 +4726,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Judith%20Leyster%20The%20Proposition.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "mauritshuis_the_hague",
   "local": true,
@@ -4720,7 +4749,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jan%20Havicksz.%20Steen%20%E2%80%93%20Het%20Sint-Nicolaasfeest%20%E2%80%93%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；en dash in name",
   "th": [
-   "宗教"
+   "人物／風俗"
   ],
   "mu_id": "rijksmuseum_amsterdam",
   "local": true,
@@ -4836,7 +4865,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jacob%20Isaackszoon%20van%20Ruisdael%20-%20The%20Jewish%20Cemetery%20%281654%20or%201655%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "detroit_institute_of_arts",
   "local": true,
@@ -4906,7 +4935,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.66.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "動物"
+   "動物",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -4975,7 +5005,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.72869.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "人物／風俗"
+   "靜物"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -5090,7 +5120,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Fabritius-vink.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "動物",
+   "靜物"
   ],
   "mu_id": "mauritshuis_the_hague",
   "local": true,
@@ -5184,7 +5215,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pieter%20Jansz.%20Saenredam%20-%20Interior%20of%20the%20Church%20of%20St%20Bavo%20at%20Haarlem%20-%20WGA20623.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "宗教",
    "城市／建築"
   ],
   "mu_id": "rijksmuseum_amsterdam",
@@ -5231,7 +5261,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1187.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "風景"
+   "風景",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -5277,7 +5308,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jan%20Miense%20Molenaer%20-%20Allegory%20of%20Vanity%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "人物／風俗"
   ],
   "mu_id": "toledo_museum_of_art",
   "local": true,
@@ -5323,7 +5355,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:L%27Embarquement%20pour%20Cythere%2C%20by%20Antoine%20Watteau%2C%20from%20C2RMF.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "神話／寓言",
+   "風景"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -5346,7 +5379,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Antoine%20Watteau%20-%20Pierrot%2C%20dit%20autrefois%20Gilles.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "海景"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -5392,7 +5426,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Diane%20sortant%20du%20bain%20-%20Fran%C3%A7ois%20Boucher%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%202712.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "裸體"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -5530,7 +5565,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean%20Sim%C3%A9on%20Chardin%20-%20The%20Ray%20-%20WGA04738.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "靜物"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -5553,7 +5588,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.994.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -5576,7 +5611,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.97.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "城市／建築"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -5622,7 +5657,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste%20Greuze%20-%20L%27Accord%C3%A9e%20de%20Village%20-%20WGA10655.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景"
+   "人物／風俗"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -5645,7 +5680,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Louise%20Elisabeth%20Vig%C3%A9e-Lebrun%20-%20Marie-Antoinette%20dit%20%C2%AB%20%C3%A0%20la%20Rose%20%C2%BB%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "palace_of_versailles",
   "local": true,
@@ -5714,7 +5749,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Giambattista%20Tiepolo%20-%20The%20Banquet%20of%20Cleopatra%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "神話／寓言"
+   "歷史／戰爭"
   ],
   "mu_id": "national_gallery_of_victoria_melbourne",
   "local": true,
@@ -5737,7 +5772,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pietro%20Longhi%20-%20The%20Rhinoceros%20-%20WGA13408.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；filename seen in mirror image URL, not a File: page",
   "th": [
-   "肖像"
+   "動物",
+   "人物／風俗"
   ],
   "mu_id": "ca_rezzonico_venice",
   "local": true,
@@ -5760,7 +5796,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:William%20Hogarth%20-%20Marriage%20%C3%A0%20la%20Mode%2C%20Plate%201%2C%20%28The%20Marriage%20Contract%29%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -5783,7 +5819,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:William%20Hogarth%20-%20The%20Shrimp%20Girl%20-%20WGA11467.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -5806,7 +5843,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Thomas%20Gainsborough%20-%20Mr%20and%20Mrs%20Andrews.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教"
+   "肖像",
+   "風景"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -5829,7 +5867,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Thomas%20Gainsborough%20-%20The%20Blue%20Boy%20%281770%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "huntington_library_san_marino_california",
   "local": true,
@@ -5921,6 +5959,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Reynolds%2C%20Sir%20Joshua%20-%20Mrs%20Siddons%20as%20the%20Tragic%20Muse%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "肖像",
    "神話／寓言"
   ],
   "mu_id": "huntington_library_san_marino",
@@ -5944,7 +5983,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Whistlejacket%20by%20George%20Stubbs%20edit.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "動物"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -5967,7 +6006,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:An%20Experiment%20on%20a%20Bird%20in%20an%20Air%20Pump%20by%20Joseph%20Wright%20of%20Derby%2C%201768.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "動物"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -6059,7 +6098,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Death%20of%20Marat%20by%20David.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；mirror title File:Death of Marat by David.jpg; also c.enwp.org detail version exists",
   "th": [
-   "歷史／戰爭"
+   "歷史／戰爭",
+   "肖像"
   ],
   "mu_id": "royal_museums_of_fine_arts_of_belgium_brussels",
   "local": true,
@@ -6105,6 +6145,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:David%20napoleon.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；generic name; version (Malmaison vs others) not verified",
   "th": [
+   "肖像",
    "歷史／戰爭"
   ],
   "mu_id": "ch_teau_de_malmaison",
@@ -6128,7 +6169,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46113.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "宗教",
    "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -6152,7 +6192,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46114.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "歷史／戰爭"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -6175,7 +6215,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean%20Auguste%20Dominique%20Ingres%2C%20La%20Grande%20Odalisque%2C%201814.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名",
   "th": [
-   "裸體"
+   "裸體",
+   "人物／風俗"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -6198,6 +6239,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Le%20Bain%20Turc%2C%20by%20Jean%20Auguste%20Dominique%20Ingres%2C%20from%20C2RMF%20edit.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；alt: ...from C2RMF retouched.jpg",
   "th": [
+   "裸體",
    "人物／風俗"
   ],
   "mu_id": "louvre_paris",
@@ -6268,7 +6310,7 @@
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
    "神話／寓言",
-   "人物／風俗"
+   "裸體"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -6315,6 +6357,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Angelica%20kauffman%20ra%20cornelia%20mother%20of%20the%20gracchi060808%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "歷史／戰爭",
    "人物／風俗"
   ],
   "mu_id": "virginia_museum_of_fine_arts_richmond",
@@ -6338,7 +6381,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Anton%20Raphael%20Mengs%20-%20Parnassus%20%28FondazioneTorlonia%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "神話／寓言"
   ],
   "mu_id": "villa_albani_rome",
   "local": true,
@@ -6362,8 +6405,7 @@
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
    "歷史／戰爭",
-   "肖像",
-   "動物"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_canada_ottawa",
   "local": true,
@@ -6386,7 +6428,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46471.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭",
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -6478,7 +6521,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Francisco%20de%20Goya%2C%20Saturno%20devorando%20a%20su%20hijo%20%281819-1823%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "神話／寓言"
   ],
   "mu_id": "museo_del_prado_madrid",
   "local": true,
@@ -6524,7 +6567,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:La%20familia%20de%20Carlos%20IV.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "museo_del_prado_madrid",
   "local": true,
@@ -6593,7 +6636,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Henry%20Fuseli%20%281741%E2%80%931825%29%2C%20The%20Nightmare%2C%201781.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "神話／寓言",
+   "裸體"
   ],
   "mu_id": "detroit_institute_of_arts",
   "local": true,
@@ -6616,7 +6660,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Blake%20ancient%20of%20days.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；alt: AncientOfDays.jpg (URL name); title showed Blake ancient of days.jpg",
   "th": [
-   "肖像"
+   "宗教"
   ],
   "mu_id": "british_museum_london",
   "local": true,
@@ -6639,7 +6683,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:William%20Blake%20-%20Isaac%20Newton%20-%20WGA02217.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "神話／寓言",
+   "裸體"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -6662,7 +6707,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Raft%20of%20the%20Medusa%20-%20Louvre.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；alt: RaftMedusa2.jpg",
   "th": [
-   "歷史／戰爭"
+   "歷史／戰爭",
+   "海景"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -6685,7 +6731,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:An%20Officer%20of%20the%20Imperial%20Horse%20Guards%20Charging.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；alternate English title of the painting",
   "th": [
-   "肖像"
+   "歷史／戰爭",
+   "動物"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -6754,7 +6801,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ferdinand-Victor-Eug%C3%A8ne%20Delacroix%2C%20French%20-%20The%20Death%20of%20Sardanapalus%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "歷史／戰爭"
+   "歷史／戰爭",
+   "裸體"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -6823,7 +6871,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46602.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "宗教"
+   "歷史／戰爭"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -6846,6 +6894,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.50686.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
+   "歷史／戰爭",
    "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -6869,7 +6918,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Caspar%20David%20Friedrich%20-%20Wanderer%20above%20the%20sea%20of%20fog.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；title shown on result; URL is redirect target 032.jpg",
   "th": [
-   "海景"
+   "風景"
   ],
   "mu_id": "hamburger_kunsthalle",
   "local": true,
@@ -6892,7 +6941,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Monk%20by%20the%20Sea.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教",
    "海景"
   ],
   "mu_id": "alte_nationalgalerie_berlin",
@@ -6916,7 +6964,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Caspar%20David%20Friedrich%20-%20Abtei%20im%20Eichwald%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景"
+   "風景",
+   "城市／建築"
   ],
   "mu_id": "alte_nationalgalerie_berlin",
   "local": true,
@@ -6962,7 +7011,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Turner%2C%20J.%20M.%20W.%20-%20The%20Fighting%20T%C3%A9m%C3%A9raire%20tugged%20to%20her%20last%20Berth%20to%20be%20broken.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；mirror of Commons file",
   "th": [
-   "肖像"
+   "海景",
+   "歷史／戰爭"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -7008,7 +7058,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Joseph%20Mallord%20William%20Turner%20-%20Snow%20Storm%20-%20Steam-Boat%20off%20a%20Harbour%27s%20Mouth%20-%20WGA23178.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；WGA file",
   "th": [
-   "風景",
    "海景"
   ],
   "mu_id": "tate_britain_london",
@@ -7032,7 +7081,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Slave-ship.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；generic name; matches Turner Slave Ship search, moderate confidence",
   "th": [
-   "海景"
+   "海景",
+   "歷史／戰爭"
   ],
   "mu_id": "museum_of_fine_arts_boston",
   "local": true,
@@ -7055,7 +7105,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1225.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "風景"
+   "海景",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -7171,7 +7222,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:John%20Martin%20-%20The%20Great%20Day%20of%20His%20Wrath%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；Commons mirror",
   "th": [
-   "肖像"
+   "宗教"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -7263,7 +7314,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Philipp%20Otto%20Runge%20-%20Der%20Morgen.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景"
+   "風景",
+   "神話／寓言"
   ],
   "mu_id": "hamburger_kunsthalle",
   "local": true,
@@ -7286,7 +7338,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Magic%20Apple%20Tree.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "宗教",
    "風景"
   ],
   "mu_id": "fitzwilliam_museum_cambridge",
@@ -7334,7 +7385,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.52451.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "神話／寓言",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -7357,7 +7409,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Cole%20Thomas%20The%20Course%20of%20Empire%20Destruction%201836.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "歷史／戰爭"
+   "歷史／戰爭",
+   "城市／建築"
   ],
   "mu_id": "new_york_historical_society",
   "local": true,
@@ -7380,7 +7433,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Church%20Heart%20of%20the%20Andes.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "metropolitan_museum_of_art_new_york",
   "local": true,
@@ -7495,6 +7548,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Asher%20Durand%20Kindred%20Spirits.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "風景",
    "肖像"
   ],
   "mu_id": "crystal_bridges_museum_of_american_art_bentonvil",
@@ -7518,7 +7572,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.57611.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "風景",
    "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -7542,7 +7595,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.61244.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "動物"
+   "動物",
+   "靜物"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -7635,7 +7689,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.107525.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "風景",
+   "城市／建築"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -7658,7 +7713,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gustave%20Courbet%20-%20A%20Burial%20at%20Ornans%20-%20Google%20Art%20Project%202.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -7728,7 +7784,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gustave%20Courbet%20-%20Le%20D%C3%A9sesp%C3%A9r%C3%A9%20%281843%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "private_collection",
   "local": true,
@@ -7751,7 +7807,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Origin-of-the-World.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "裸體"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -7820,6 +7876,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois%20Millet%20-%20The%20Angelus%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "人物／風俗",
    "宗教"
   ],
   "mu_id": "mus_e_d_orsay_paris",
@@ -7866,7 +7923,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Honor%C3%A9%20Daumier%2C%20The%20Third-Class%20Carriage%20-%20The%20Metropolitan%20Museum%20of%20Art.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "metropolitan_museum_of_art_new_york",
   "local": true,
@@ -7889,7 +7946,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.895.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -7936,7 +7993,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jules%20Bastien-Lepage%2C%201879%20-%20Jeanne%20d%27Arc.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名",
   "th": [
-   "肖像"
+   "歷史／戰爭",
+   "宗教"
   ],
   "mu_id": "metropolitan_museum_of_art_new_york",
   "local": true,
@@ -7959,7 +8017,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Adolph%20Menzel%20-%20Eisenwalzwerk%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景"
+   "人物／風俗"
   ],
   "mu_id": "alte_nationalgalerie_berlin",
   "local": true,
@@ -7982,7 +8040,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:1880%20Leibl%20Drei%20Frauen%20in%20der%20Kirche%20anagoria.JPG",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "城市／建築"
+   "人物／風俗",
+   "宗教"
   ],
   "mu_id": "hamburger_kunsthalle",
   "local": true,
@@ -8005,7 +8064,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ilia%20Efimovich%20Repin%20%281844-1930%29%20-%20Volga%20Boatmen%20%281870-1873%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "state_russian_museum_st_petersburg",
   "local": true,
@@ -8028,7 +8087,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:REPIN%20Ivan%20Terrible%26Ivan.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭"
   ],
   "mu_id": "tretyakov_gallery_moscow",
   "local": true,
@@ -8051,7 +8110,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Repin%20Cossacks.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭"
   ],
   "mu_id": "state_russian_museum_st_petersburg",
   "local": true,
@@ -8097,7 +8156,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Winslow%20Homer%20-%20The%20Gulf%20Stream%20-%20Metropolitan%20Museum%20of%20Art.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "風景"
+   "海景"
   ],
   "mu_id": "metropolitan_museum_of_art_new_york",
   "local": true,
@@ -8120,6 +8179,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.30228.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
+   "海景",
    "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -8143,7 +8203,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.39763.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "動物",
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -8166,7 +8227,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Thomas%20Eakins%2C%20American%20-%20Portrait%20of%20Dr.%20Samuel%20D.%20Gross%20%28The%20Gross%20Clinic%29%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "肖像",
+   "人物／風俗"
   ],
   "mu_id": "philadelphia_museum_of_art",
   "local": true,
@@ -8189,7 +8251,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Max%20Schmitt%20in%20a%20Single%20Scull.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "肖像",
+   "人物／風俗"
   ],
   "mu_id": "metropolitan_museum_of_art_new_york",
   "local": true,
@@ -8235,8 +8298,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Whistlers%20Mother%20high%20res.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "人物／風俗",
-   "抽象／非具象"
+   "肖像"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -8259,7 +8321,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.12198.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "抽象／非具象"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -8282,7 +8344,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Whistler-Nocturne%20in%20black%20and%20gold.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "detroit_institute_of_arts",
   "local": true,
@@ -8305,7 +8367,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Leon%20Gerome%20Pollice%20Verso.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "歷史／戰爭"
   ],
   "mu_id": "phoenix_art_museum",
   "local": true,
@@ -8328,7 +8390,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste-Camille%20Corot%20-%20Souvenir%20of%20Mortefontaine%20-%20WGA5292.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "louvre_paris",
   "local": true,
@@ -8351,7 +8413,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.43430.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -8374,7 +8436,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46583.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -8467,7 +8529,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Boeufs%20allant%20au%20labour-Constant%20Troyon-IMG%208342.JPG",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "動物",
+   "風景"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -8514,7 +8577,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20Nymphs%20and%20Satyr%20%281873%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "裸體"
   ],
   "mu_id": "clark_art_institute_williamstown",
   "local": true,
@@ -8561,7 +8625,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Le%20charmeur%20de%20serpents.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "人物／風俗",
+   "裸體"
   ],
   "mu_id": "clark_art_institute_williamstown",
   "local": true,
@@ -8584,7 +8649,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Roses%20of%20Heliogabalus.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "靜物"
+   "歷史／戰爭",
+   "人物／風俗"
   ],
   "mu_id": "private_collection",
   "local": true,
@@ -8607,7 +8673,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Flaming%20June%2C%20by%20Frederic%20Lord%20Leighton%20%281830-1896%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；seen as localized Archivo:/Fichier: namespace on Wikipedia mirror",
   "th": [
-   "肖像"
+   "裸體",
+   "人物／風俗"
   ],
   "mu_id": "museo_de_arte_de_ponce_puerto_rico",
   "local": true,
@@ -8654,7 +8721,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Winterhalter%20Franz%20Xavier%20The%20Empress%20Eugenie%20Surrounded%20by%20her%20Ladies%20in%20Waiting.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "palace_of_compi_gne",
   "local": true,
@@ -8700,7 +8767,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Millais%20-%20Ophelia.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；localized file namespace on a MediaWiki mirror",
   "th": [
-   "其他／待分類"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -8723,8 +8791,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:John%20Everett%20Millais%20-%20Christ%20in%20the%20House%20of%20His%20Parents%20%28%60The%20Carpenter%27s%20Shop%27%29%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；localized Fitxer: namespace on Wikipedia mirror",
   "th": [
-   "宗教",
-   "城市／建築"
+   "宗教"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -8747,7 +8814,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Dante%20Gabriel%20Rossetti%20-%20Beata%20Beatrix%2C%201864-1870.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；alt: Beata Beatrix.jpg at https://download.osmand.net/wiki/File:Beata_Beatrix.jpg",
   "th": [
-   "肖像"
+   "肖像",
+   "宗教"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -8770,7 +8838,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Dante%20Gabriel%20Rossetti%20-%20Proserpine%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "肖像"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -8793,7 +8862,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Hunt%20Light%20of%20the%20World.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "宗教"
   ],
   "mu_id": "keble_college_oxford",
   "local": true,
@@ -8816,6 +8885,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:William%20Holman%20Hunt%20-%20The%20Awakening%20Conscience%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "人物／風俗",
    "肖像"
   ],
   "mu_id": "tate_britain_london",
@@ -8839,7 +8909,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ford%20Madox%20Brown%20-%20Work%20-%20artchive.com.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；localized Файл: namespace on a MediaWiki mirror; lower-quality source",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "manchester_art_gallery",
   "local": true,
@@ -8862,7 +8932,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Edward%20Burne-Jones%20The%20Golden%20Stairs.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -8885,7 +8955,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Edward%20Burne-Jones%20-%20King%20Cophetua%20and%20the%20Beggar%20Maid%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "歷史／戰爭",
+   "神話／寓言",
    "人物／風俗"
   ],
   "mu_id": "tate_britain_london",
@@ -8909,7 +8979,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:John%20William%20Waterhouse%20-%20The%20Lady%20of%20Shalott%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "神話／寓言"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -8955,7 +9025,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Arthur%20Hughes%20-%20April%20Love%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -8978,7 +9048,9 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:%C3%89douard%20Manet%20-%20Le%20D%C3%A9jeuner%20sur%20l%27herbe.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "人物／風俗",
+   "裸體",
+   "風景"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -9001,7 +9073,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Edouard%20Manet%20-%20Olympia%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "裸體"
+   "裸體",
+   "肖像"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -9047,7 +9120,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.43624.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9093,7 +9166,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1179.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9116,7 +9189,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Claude%20Monet%2C%20Impression%2C%20soleil%20levant.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "風景"
+   "海景"
   ],
   "mu_id": "mus_e_marmottan_monet_paris",
   "local": true,
@@ -9139,7 +9212,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.61379.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "肖像"
+   "肖像",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9185,7 +9259,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.74796.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9208,8 +9282,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Nymph%C3%A9as%2C%20le%20Matin%20aux%20saules%20%281914-1926%29%20de%20Claude%20Monet%20-%20Mus%C3%A9e%20de%20l%27Orangerie.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；橘園八幅之一；低解析度檔",
   "th": [
-   "神話／寓言",
-   "靜物"
+   "風景"
   ],
   "mu_id": "mus_e_de_l_orangerie_paris",
   "local": true,
@@ -9302,8 +9375,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste%20Renoir%20-%20Luncheon%20of%20the%20Boating%20Party%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "海景",
-   "人物／風俗"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "phillips_collection_washington",
   "local": true,
@@ -9326,7 +9399,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46681.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "肖像"
+   "肖像",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9349,7 +9423,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.39759.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9649,7 +9723,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Sisley%20-%20The-Flood-At-Port-Marly.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；低解析度檔",
   "th": [
-   "海景"
+   "風景",
+   "城市／建築"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -9741,8 +9816,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46569.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "海景",
-   "人物／風俗"
+   "人物／風俗",
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9765,9 +9840,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gustave%20Caillebotte%20-%20Jour%20de%20pluie%20%C3%A0%20Paris.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "神話／寓言",
-   "風景",
-   "城市／建築"
+   "城市／建築",
+   "人物／風俗"
   ],
   "mu_id": "art_institute_of_chicago",
   "local": true,
@@ -9813,7 +9887,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Fr%C3%A9d%C3%A9ric%20Bazille%20-%20Bazille%27s%20Studio%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -9882,7 +9957,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20-%20Carnation%2C%20Lily%2C%20Lily%2C%20Rose%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "tate_britain_london",
   "local": true,
@@ -9905,7 +9981,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.35080.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9928,7 +10004,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn%20Sorolla%20y%20Bastida%20-%20Strolling%20along%20the%20Seashore%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "海景"
+   "海景",
+   "人物／風俗"
   ],
   "mu_id": "museo_sorolla_madrid",
   "local": true,
@@ -9951,7 +10028,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.30115.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "城市／建築"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -9974,8 +10051,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:P.S.%20Kr%C3%B8yer%20-%20Summer%20evening%20on%20Skagen%27s%20Beach.%20Anna%20Ancher%20and%20Marie%20Kr%C3%B8yer%20walking%20together.%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景",
-   "海景"
+   "海景",
+   "肖像"
   ],
   "mu_id": "skagens_museum_denmark",
   "local": true,
@@ -10044,7 +10121,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:A%20Sunday%20on%20La%20Grande%20Jatte%2C%20Georges%20Seurat%2C%201884.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "裸體"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "art_institute_of_chicago",
   "local": true,
@@ -10067,7 +10145,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Baigneurs%20a%20Asnieres.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；mirror host",
   "th": [
-   "裸體"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "national_gallery_london",
   "local": true,
@@ -10090,7 +10169,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.61383.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "風景"
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -10136,8 +10215,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.52225.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "裸體",
-   "抽象／非具象"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -10160,7 +10239,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Georges%20Seurat%20-%20Le%20Chahut%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "kr_ller_m_ller_museum_otterlo",
   "local": true,
@@ -10183,7 +10262,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paul%20Signac%20-%20The%20Port%20of%20Saint-Tropez%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "宗教",
    "海景"
   ],
   "mu_id": "national_museum_of_western_art_tokyo",
@@ -10207,7 +10285,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Henri-Edmond%20Cross%20-%20The%20Evening%20Air%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景"
+   "風景",
+   "人物／風俗"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -10253,7 +10332,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paul%20Cezanne%20-%20Mont%20Sainte-Victoire%201897.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；series; one example",
   "th": [
-   "宗教"
+   "風景"
   ],
   "mu_id": "various_courtauld_philadelphia_mus_e_d_orsay",
   "local": true,
@@ -10299,7 +10378,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paul%20C%C3%A9zanne%2C%20French%20-%20The%20Large%20Bathers%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "裸體"
+   "裸體",
+   "風景"
   ],
   "mu_id": "philadelphia_museum_of_art",
   "local": true,
@@ -10368,7 +10448,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.53122.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "宗教"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -10414,7 +10494,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Van%20Gogh%20-%20Starry%20Night%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "風景",
+   "城市／建築"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -10529,7 +10610,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Vincent%20Willem%20van%20Gogh%20-%20Cafe%20Terrace%20at%20Night%20%28Yorck%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "城市／建築"
+   "城市／建築",
+   "人物／風俗"
   ],
   "mu_id": "kr_ller_m_ller_museum_otterlo",
   "local": true,
@@ -10667,7 +10749,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gauguin%20-%20Where%20Do%20We%20Come%20From%3F%20What%20Are%20We%3F%20Where%20Are%20We%20Going%3F%20%281897-98%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "神話／寓言",
+   "裸體"
   ],
   "mu_id": "museum_of_fine_arts_boston",
   "local": true,
@@ -10713,7 +10796,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46624.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "海景"
+   "海景",
+   "裸體"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -10851,7 +10935,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.72012.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "肖像",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -10874,7 +10959,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:La%20Boh%C3%A9mienne%20endormie.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "動物"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -10897,7 +10983,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Henri%20Rousseau%20-%20Le%20R%C3%AAve%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "人物／風俗"
+   "風景",
+   "裸體"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -10920,7 +11007,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.61253.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "宗教",
    "風景",
    "動物"
   ],
@@ -10945,7 +11031,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46688.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "風景"
+   "風景",
+   "動物"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -10968,6 +11055,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:%C3%89mile%20Bernard%201888-08%20-%20Breton%20Women%20in%20the%20Meadow%20%28Le%20Pardon%20de%20Pont-Aven%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
+   "人物／風俗",
    "風景"
   ],
   "mu_id": "private_collection",
@@ -10991,7 +11079,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Christ%27s%20Entry%20into%20Brussels%20in%201889.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教"
+   "宗教",
+   "人物／風俗"
   ],
   "mu_id": "j_paul_getty_museum_los_angeles",
   "local": true,
@@ -11014,7 +11103,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Vilhelm%20Hammershoi%20-%20Interieur%20mit%20Rueckenansicht%20einer%20Frau%20-%201903-1904%20-%20Randers%20Kunstmuseum.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "randers_kunstmuseum_denmark",
   "local": true,
@@ -11037,7 +11126,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gustave%20Moreau%20-%20The%20Apparition%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "宗教"
   ],
   "mu_id": "mus_e_gustave_moreau_paris",
   "local": true,
@@ -11175,6 +11264,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Arnold%20B%C3%B6cklin%20-%20The%20Isle%20of%20the%20Dead%20-%20WGA3029.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "海景",
    "風景"
   ],
   "mu_id": "various_basel_berlin_metropolitan_leipzig",
@@ -11198,7 +11288,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.55818.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "神話／寓言"
+   "神話／寓言",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -11221,7 +11312,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Scream.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "肖像",
+   "風景"
   ],
   "mu_id": "national_gallery_of_norway_oslo_one_of_several_v",
   "local": true,
@@ -11244,7 +11336,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Edvard%20Munch%20-%20Madonna%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "宗教"
+   "裸體",
+   "肖像"
   ],
   "mu_id": "munch_museum_oslo",
   "local": true,
@@ -11267,7 +11360,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Munch%20Det%20Syke%20Barn%201885-86.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "national_gallery_of_norway_oslo",
   "local": true,
@@ -11290,7 +11384,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Edvard%20Munch%20-%20The%20Dance%20of%20Life%20-%20NG.M.00941%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "national_gallery_of_norway_oslo",
   "local": true,
@@ -11336,7 +11431,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Delville%20school%20plato.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "神話／寓言"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -11359,6 +11455,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Franz%20von%20Stuck%20-%20Die%20S%C3%BCnde%2C%201893%2C%20Posen.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；波茲南版本，非慕尼黑版",
   "th": [
+   "裸體",
    "肖像"
   ],
   "mu_id": "neue_pinakothek_munich",
@@ -11382,7 +11479,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Mikhail%20Vrubel%20-%20%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%20%28%D1%81%D0%B8%D0%B4%D1%8F%D1%89%D0%B8%D0%B9%29%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "神話／寓言"
   ],
   "mu_id": "tretyakov_gallery_moscow",
   "local": true,
@@ -11405,7 +11502,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Wounded%20Angel%20-%20Hugo%20Simberg.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "宗教"
+   "宗教",
+   "人物／風俗"
   ],
   "mu_id": "ateneum_helsinki",
   "local": true,
@@ -11428,7 +11526,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Akseli%20Gallen-Kallela%20-%20Lemmink%C3%A4inen%27s%20Mother%20-%20Google%20Art%20Project.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "神話／寓言"
   ],
   "mu_id": "ateneum_helsinki",
   "local": true,
@@ -11451,7 +11549,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Mort%20du%20fossoyeur%20vorzeichnung.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；為草圖（Vorzeichnung），非完成作",
   "th": [
-   "歷史／戰爭"
+   "神話／寓言",
+   "人物／風俗"
   ],
   "mu_id": "louvre_cabinet_des_dessins_paris",
   "local": true,
@@ -11497,7 +11596,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20dining%20room%20in%20the%20country%20by%20Pierre%20Bonnard%20%281913%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "minneapolis_institute_of_art",
   "local": true,
@@ -11520,7 +11619,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.52239.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -11589,7 +11688,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Maurice%20Denis%20Homage%20to%20Cezanne%201900.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "歷史／戰爭"
+   "肖像"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -11612,7 +11711,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Serusier%20-%20the%20talisman.JPG",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "mus_e_d_orsay_paris",
   "local": true,
@@ -11704,6 +11803,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gustav%20Klimt%20-%20Judith%20-%204737%20-%20%C3%96sterreichische%20Galerie%20Belvedere.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名",
   "th": [
+   "宗教",
    "肖像"
   ],
   "mu_id": "belvedere_vienna",
@@ -11750,7 +11850,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gustav-klimt-the-beethoven-frieze-the-hostile-powers.-far-wall.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；橫飾帶其中一面（敵對力量）",
   "th": [
-   "肖像"
+   "神話／寓言",
+   "裸體"
   ],
   "mu_id": "secession_building_vienna",
   "local": true,
@@ -11773,7 +11874,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Alfons%20Mucha%20-%201894%20-%20Gismonda.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "various_lithograph",
   "local": true,
@@ -11796,7 +11897,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Alfons%20Mucha%20%E2%80%93%20Slovansk%C3%A1%20epopej%20v%20Klementinu%201919.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名；1919 年展出現場照",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭"
   ],
   "mu_id": "prague_national_gallery",
   "local": true,
@@ -11842,6 +11943,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Egon%20Schiele%20-%20Umarmung%20%281917%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
+   "裸體",
    "人物／風俗"
   ],
   "mu_id": "belvedere_vienna",
@@ -11865,7 +11967,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Egon%20Schiele%20-%20Tod%20und%20M%C3%A4dchen%20-%203171%20-%20%C3%96sterreichische%20Galerie%20Belvedere.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "神話／寓言",
+   "裸體"
   ],
   "mu_id": "belvedere_vienna",
   "local": true,
@@ -11888,7 +11991,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Peacock%20Skirt%20-%20Aubrey%20Beardsley.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "動物"
+   "宗教"
   ],
   "mu_id": "various_ink_drawing",
   "local": true,
@@ -11957,7 +12060,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bonheur%20Matisse.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "裸體",
+   "風景"
   ],
   "mu_id": "barnes_foundation_philadelphia",
   "local": true,
@@ -11980,7 +12084,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:La%20Danse%20II%2C%20par%20Henri%20Matisse.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "裸體"
   ],
   "mu_id": "hermitage_museum_st_petersburg",
   "local": true,
@@ -12026,7 +12131,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Open%20Window%2C%20Collioure%2C%201905%20-%20Henri%20Matisse.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "風景",
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -12049,8 +12155,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Derain%20CharingCrossBridge.png",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景",
-   "城市／建築"
+   "城市／建築",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -12119,8 +12225,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Raoul%20Dufy%20Regatta%20at%20Cowes",
   "verif": "查無：已搜尋 1–2 次未找到可確認的 Commons 檔名，僅提供連結",
   "th": [
-   "海景",
-   "動物"
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": false,
@@ -12166,7 +12271,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ernst%20Ludwig%20Kirchner%2C%201913%2C%20Street%2C%20Berlin%2C%20oil%20on%20canvas%2C%20120.6%20x%2091.1%20cm%2C%20MoMA.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名",
   "th": [
-   "城市／建築"
+   "城市／建築",
+   "人物／風俗"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -12189,8 +12295,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Kirchner%20-%20Selbstbildnis%20als%20Soldat.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "歷史／戰爭",
-   "肖像"
+   "肖像",
+   "歷史／戰爭"
   ],
   "mu_id": "allen_memorial_art_museum_oberlin",
   "local": true,
@@ -12213,7 +12319,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Kirchner-zwei-frauen-auf-der-stra%C3%9Fe.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "城市／建築"
+   "城市／建築",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -12236,8 +12343,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Emil%20Nolde%20The%20Last%20Supper",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "宗教",
-   "人物／風俗"
+   "宗教"
   ],
   "mu_id": "statens_museum_for_kunst_copenhagen",
   "local": false,
@@ -12283,7 +12389,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Franz%20Marc-The%20fate%20of%20the%20animals-1913.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "動物"
   ],
   "mu_id": "kunstmuseum_basel",
   "local": true,
@@ -12306,8 +12412,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.62640.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "風景",
-   "動物"
+   "動物",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -12378,7 +12484,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Wassily%20Kandinsky%2C%201903%2C%20The%20Blue%20Rider%20%28Der%20Blaue%20Reiter%29%2C%20oil%20on%20canvas%2C%2052.1%20x%2054.6%20cm%2C%20Stiftung%20Sammlung%20E.G.%20B%C3%BChrle%2C%20Zurich.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "private_collection",
   "local": true,
@@ -12424,7 +12531,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.54131.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -12447,7 +12554,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gabriele%20M%C3%BCnter%20Jawlensky%20and%20Werefkin",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "lenbachhaus_munich",
   "local": false,
@@ -12470,7 +12577,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Oskar%20Kokoschka%20The%20Bride%20of%20the%20Wind%20%28The%20Tempest%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "神話／寓言"
+   "肖像"
   ],
   "mu_id": "kunstmuseum_basel",
   "local": false,
@@ -12493,7 +12600,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Beckmann%20Max-Die-Nacht%20Kunstsammlung%20NRW%201024.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "kunstsammlung_nordrhein_westfalen_d_sseldorf",
   "local": true,
@@ -12539,7 +12646,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Chaim%20Soutine%20-%20Carcass%20of%20Beef%20-%2057.12%20-%20Minneapolis%20Institute%20of%20Arts.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；明尼亞波利斯版本",
   "th": [
-   "肖像"
+   "靜物"
   ],
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": true,
@@ -12654,7 +12761,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Die%20Zwitscher-Maschine%20%28Twittering%20Machine%29%2C%201922%20-%20Paul%20Klee.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "動物",
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -12677,7 +12785,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Kaethe%20Kollwitz%20-%20Frau%20mit%20totem%20Kind.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像",
    "人物／風俗"
   ],
   "mu_id": "various_etching",
@@ -12701,7 +12808,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Ludwig%20Meidner%20Apocalyptic%20Landscape",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "風景"
+   "城市／建築"
   ],
   "mu_id": "various_several_versions",
   "local": false,
@@ -12816,7 +12923,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Pablo%20Picasso%20The%20Old%20Guitarist",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "靜物"
+   "人物／風俗",
+   "肖像"
   ],
   "mu_id": "art_institute_of_chicago",
   "local": false,
@@ -12885,7 +12993,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Georges%20Braque%20Houses%20at%20L%27Estaque",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "城市／建築"
+   "城市／建築",
+   "風景"
   ],
   "mu_id": "kunstmuseum_bern",
   "local": false,
@@ -12977,7 +13086,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.56101.html",
   "verif": "NGA 開放資料集（CC0）",
   "th": [
-   "其他／待分類"
+   "靜物"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -13023,6 +13132,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Fernand%20leger%20le%20grand%20dejeuner.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名",
   "th": [
+   "裸體",
    "人物／風俗"
   ],
   "mu_id": "museum_of_modern_art_new_york",
@@ -13047,7 +13157,6 @@
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
    "城市／建築",
-   "人物／風俗",
    "抽象／非具象"
   ],
   "mu_id": "hamburger_kunsthalle",
@@ -13071,7 +13180,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Sonia%20Delaunay%20Electric%20Prisms",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "抽象／非具象"
   ],
   "mu_id": "centre_pompidou_paris",
   "local": false,
@@ -13141,7 +13250,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Fresnaye%20conquest%20of%20air.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "歷史／戰爭"
+   "人物／風俗",
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -13164,7 +13274,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20City%20Rises%20by%20Umberto%20Boccioni%201910.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "城市／建築"
+   "城市／建築",
+   "人物／風俗"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -13187,7 +13298,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Boccioni%20-%20States%20of%20Mind%20The%20Farewells%2C%201911.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "人物／風俗",
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -13210,7 +13322,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Giacomo%20Balla%20Dynamism%20of%20a%20Dog%20on%20a%20Leash",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "動物"
+   "動物",
+   "人物／風俗"
   ],
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": false,
@@ -13233,6 +13346,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Giacomo%20Balla%20Street%20Light",
   "verif": "受著作權保護，僅提供連結",
   "th": [
+   "抽象／非具象",
    "城市／建築"
   ],
   "mu_id": "museum_of_modern_art_new_york",
@@ -13256,7 +13370,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Carlo%20Carr%C3%A0%20The%20Funeral%20of%20the%20Anarchist%20Galli",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭",
+   "人物／風俗"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -13279,7 +13394,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gino%20Severini%20Dynamic%20Hieroglyphic%20of%20the%20Bal%20Tabarin",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -13302,7 +13418,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Natalia%20Goncharova%20The%20Cyclist",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "state_russian_museum_st_petersburg",
   "local": false,
@@ -13325,7 +13441,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Giorgio%20de%20Chirico%20The%20Song%20of%20Love",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "靜物"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -13440,7 +13556,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marcel%20Duchamp%20L.H.O.O.Q.",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "various_centre_pompidou",
   "local": false,
@@ -13463,7 +13579,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Hannah%20H%C3%B6ch%20Cut%20with%20the%20Kitchen%20Knife%20Dada%20through%20the%20Last%20Weimar%20Beer-Belly%20Cultural%20Epoch%20of%20Germany",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "人物／風俗"
+   "歷史／戰爭"
   ],
   "mu_id": "neue_nationalgalerie_berlin",
   "local": false,
@@ -13509,7 +13625,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jean%20Arp%20Collage%20with%20Squares%20Arranged%20according%20to%20the%20Laws%20of%20Chance",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -13532,7 +13648,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Francis%20Picabia%2C%201917%20-%20Parade%20amoureuse%20-%20Love%20parade.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；低解析度檔",
   "th": [
-   "肖像"
+   "抽象／非具象"
   ],
   "mu_id": "private_collection",
   "local": true,
@@ -13555,7 +13671,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Raoul%20Hausmann%20Mechanical%20Head%20%28The%20Spirit%20of%20Our%20Age%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "centre_pompidou_paris",
   "local": false,
@@ -13578,7 +13694,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Man%20Ray%20Le%20Violon%20d%27Ingres",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "裸體"
   ],
   "mu_id": "j_paul_getty_museum_various",
   "local": false,
@@ -13601,7 +13717,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=George%20Grosz%20Republican%20Automatons",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "歷史／戰爭"
+   "歷史／戰爭",
+   "人物／風俗"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -13624,7 +13741,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Kazimir%20Malevich%2C%201915%2C%20Black%20Suprematic%20Square%2C%20oil%20on%20linen%20canvas%2C%2079.5%20x%2079.5%20cm%2C%20Tretyakov%20Gallery%2C%20Moscow.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；alt: Malevich.black-square.jpg",
   "th": [
-   "城市／建築",
    "抽象／非具象"
   ],
   "mu_id": "tretyakov_gallery_moscow",
@@ -13855,7 +13971,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gray%20Tree%201911.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "風景"
+   "風景",
+   "抽象／非具象"
   ],
   "mu_id": "kunstmuseum_den_haag",
   "local": true,
@@ -13878,7 +13995,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Piet%20Mondriaan%20-%20Tableau%20no.%20IV%20-%20B151.156%20%28first%20state%29%20-%20Piet%20Mondrian%2C%20catalogue%20raisonn%C3%A9.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名；目錄圖版（第一狀態）",
   "th": [
-   "靜物",
    "抽象／非具象"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -13902,7 +14018,6 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Amsterdam%20-%20Stedelijk%20Museum%20-%20Theo%20van%20Doesburg%20%281883-1931%29%20-%20Counter-Composition%20V%20%28A%20567%29%201924.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像",
    "抽象／非具象"
   ],
   "mu_id": "stedelijk_museum_amsterdam",
@@ -13926,7 +14041,6 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Bart%20van%20der%20Leck%20Composition%20No.%204%20%28Leaving%20the%20Factory%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "城市／建築",
    "抽象／非具象"
   ],
   "mu_id": "kr_ller_m_ller_museum_otterlo",
@@ -13950,7 +14064,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gerrit%20Rietveld%20Red%20and%20Blue%20Chair",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "various_museum_of_modern_art_stedelijk",
   "local": false,
@@ -13973,7 +14087,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ad%20Parnassum%20%28originaler%2C%20gefasster%20Holzrahmen%29%2C%20Paul%20Klee%20%281932%29.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）；photo includes original frame",
   "th": [
-   "肖像"
+   "風景",
+   "抽象／非具象"
   ],
   "mu_id": "zentrum_paul_klee_bern",
   "local": true,
@@ -13996,7 +14111,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paul%20Klee%2C%20Hauptweg%20und%20Nebenwege%2C%201929%2C%20%C3%96l%20auf%20Leinwand%2C%2083%2C7%20x%2067%2C5%20cm%2C%20Museum%20Ludwig%201976.jpg",
   "verif": "Wikimedia Commons 檔名（搜尋結果比對）",
   "th": [
-   "其他／待分類"
+   "風景",
+   "抽象／非具象"
   ],
   "mu_id": "museum_ludwig_cologne",
   "local": true,
@@ -14065,8 +14181,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Lyonel%20Feininger%20Cathedral%20%28Bauhaus%20manifesto%20woodcut%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "風景",
-   "城市／建築"
+   "城市／建築",
+   "抽象／非具象"
   ],
   "mu_id": "various_woodcut",
   "local": false,
@@ -14112,7 +14228,6 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Josef%20Albers%20Homage%20to%20the%20Square%20%28series%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "城市／建築",
    "抽象／非具象"
   ],
   "mu_id": "various",
@@ -14159,7 +14274,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Oskar%20Schlemmer%20-%20Bauhaustreppe%201932.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "人物／風俗",
+   "城市／建築"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -14182,7 +14298,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Johannes%20Itten%20The%20Encounter",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "kunsthaus_z_rich",
   "local": false,
@@ -14205,7 +14321,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Salvador%20Dal%C3%AD%20The%20Persistence%20of%20Memory",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -14228,6 +14344,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Salvador%20Dal%C3%AD%20Swans%20Reflecting%20Elephants",
   "verif": "受著作權保護，僅提供連結",
   "th": [
+   "風景",
    "動物"
   ],
   "mu_id": "private_collection",
@@ -14321,6 +14438,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Ren%C3%A9%20Magritte%20The%20Lovers",
   "verif": "受著作權保護，僅提供連結",
   "th": [
+   "肖像",
    "人物／風俗"
   ],
   "mu_id": "museum_of_modern_art_new_york",
@@ -14344,7 +14462,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Ren%C3%A9%20Magritte%20The%20Empire%20of%20Light",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "城市／建築"
   ],
   "mu_id": "various_guggenheim_venice_brussels",
   "local": false,
@@ -14390,7 +14508,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Joan%20Mir%C3%B3%20The%20Birth%20of%20the%20World",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "神話／寓言"
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -14459,7 +14577,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Yves%20Tanguy%20-%20Divisibilit%C3%A9%20ind%C3%A9finie%20%281942%29.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "肖像"
+   "抽象／非具象"
   ],
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": true,
@@ -14482,8 +14600,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Paul%20Delvaux%20The%20Sleeping%20Venus",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "神話／寓言",
-   "裸體"
+   "裸體",
+   "神話／寓言"
   ],
   "mu_id": "tate_modern_london",
   "local": false,
@@ -14506,7 +14624,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Frida%20Kahlo%20The%20Two%20Fridas",
   "verif": "查無：已搜尋 1–2 次未找到可確認的 Commons 檔名，僅提供連結",
   "th": [
-   "抽象／非具象"
+   "肖像"
   ],
   "mu_id": "museo_de_arte_moderno_mexico_city",
   "local": false,
@@ -14577,7 +14695,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Dorothea%20Tanning%20Birthday",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "肖像",
+   "裸體"
   ],
   "mu_id": "philadelphia_museum_of_art",
   "local": false,
@@ -14600,7 +14719,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Remedios%20Varo%20Creation%20of%20the%20Birds",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "動物"
+   "動物",
+   "神話／寓言"
   ],
   "mu_id": "museo_de_arte_moderno_mexico_city",
   "local": false,
@@ -14623,7 +14743,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Kay%20Sage%20Tomorrow%20is%20Never",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "城市／建築",
+   "風景"
   ],
   "mu_id": "metropolitan_museum_of_art_new_york",
   "local": false,
@@ -14669,7 +14790,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Otto%20Dix%20Metropolis%20%28triptych%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "宗教"
+   "人物／風俗",
+   "城市／建築"
   ],
   "mu_id": "kunstmuseum_stuttgart",
   "local": false,
@@ -14692,6 +14814,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=George%20Grosz%20Pillars%20of%20Society",
   "verif": "受著作權保護，僅提供連結",
   "th": [
+   "人物／風俗",
    "肖像"
   ],
   "mu_id": "neue_nationalgalerie_berlin",
@@ -14738,7 +14861,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Max%20Beckmann%2C%20Departure.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "宗教"
+   "人物／風俗"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": true,
@@ -14784,7 +14907,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Edward%20Hopper%20Nighthawks",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "人物／風俗",
+   "城市／建築"
   ],
   "mu_id": "art_institute_of_chicago",
   "local": false,
@@ -14807,7 +14931,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Edward%20Hopper%20Automat",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "des_moines_art_center",
   "local": false,
@@ -14830,7 +14954,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Edward%20Hopper%20Early%20Sunday%20Morning",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "風景"
+   "城市／建築"
   ],
   "mu_id": "whitney_museum_of_american_art_new_york",
   "local": false,
@@ -14876,7 +15000,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Edward%20Hopper%20Ground%20Swell",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": false,
@@ -14922,7 +15046,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Grant%20Wood%20Haying",
   "verif": "查無：已搜尋 1–2 次未找到可確認的 Commons 檔名，僅提供連結",
   "th": [
-   "風景"
+   "風景",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": false,
@@ -14945,7 +15070,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Thomas%20Hart%20Benton%20A%20Social%20History%20of%20the%20State%20of%20Missouri%20%28murals%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭",
+   "人物／風俗"
   ],
   "mu_id": "missouri_state_capitol_jefferson_city",
   "local": false,
@@ -14968,7 +15094,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jacob%20Lawrence%20The%20Migration%20Series%20%28Panel%201%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭",
+   "人物／風俗"
   ],
   "mu_id": "museum_of_modern_art_phillips_collection",
   "local": false,
@@ -14991,7 +15118,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Georgia%20O%27Keeffe%20Jimson%20Weed/White%20Flower%20No.%201",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "抽象／非具象"
+   "靜物"
   ],
   "mu_id": "crystal_bridges_museum_of_american_art_bentonvil",
   "local": false,
@@ -15038,7 +15165,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Charles%20Sheeler%20American%20Landscape",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "風景"
+   "城市／建築"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15061,7 +15188,8 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:NY%20Met%20demuth%20figure%205%20gold.JPG",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "其他／待分類"
+   "城市／建築",
+   "抽象／非具象"
   ],
   "mu_id": "metropolitan_museum_of_art_new_york",
   "local": true,
@@ -15084,7 +15212,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Andrew%20Wyeth%20Christina%27s%20World",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "宗教"
+   "肖像",
+   "風景"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15107,7 +15236,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Archibald%20Motley%20Nightlife",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "art_institute_of_chicago",
   "local": false,
@@ -15153,6 +15282,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Diego%20Rivera%20Man%20at%20the%20Crossroads%20/%20Man%2C%20Controller%20of%20the%20Universe",
   "verif": "受著作權保護，僅提供連結",
   "th": [
+   "歷史／戰爭",
    "人物／風俗"
   ],
   "mu_id": "palacio_de_bellas_artes_mexico_city",
@@ -15176,7 +15306,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Diego%20Rivera%20Detroit%20Industry%20Murals",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "人物／風俗",
+   "城市／建築"
   ],
   "mu_id": "detroit_institute_of_arts",
   "local": false,
@@ -15199,8 +15330,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Diego%20Rivera%20Dream%20of%20a%20Sunday%20Afternoon%20in%20Alameda%20Park",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "風景",
-   "人物／風俗"
+   "歷史／戰爭",
+   "肖像",
+   "風景"
   ],
   "mu_id": "museo_mural_diego_rivera_mexico_city",
   "local": false,
@@ -15246,7 +15378,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Orozco%20-%20Dartmouth%20c.JPG",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在；壁畫局部",
   "th": [
-   "肖像"
+   "歷史／戰爭"
   ],
   "mu_id": "dartmouth_college_hanover",
   "local": true,
@@ -15269,7 +15401,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=David%20Alfaro%20Siqueiros%20Echo%20of%20a%20Scream",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "人物／風俗",
+   "歷史／戰爭"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15292,7 +15425,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Rufino%20Tamayo%20Animals",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "動物"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15384,7 +15517,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jackson%20Pollock%20Mural",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "university_of_iowa_stanley_museum_of_art",
   "local": false,
@@ -15430,8 +15563,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Mark%20Rothko%20Rothko%20Chapel%20paintings",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "宗教",
-   "城市／建築"
+   "抽象／非具象",
+   "宗教"
   ],
   "mu_id": "rothko_chapel_houston",
   "local": false,
@@ -15454,7 +15587,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Mark%20Rothko%20Orange%20and%20Yellow",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": false,
@@ -15500,7 +15633,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Willem%20de%20Kooning%20Woman%20I",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15523,7 +15656,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Willem%20de%20Kooning%20Excavation",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "art_institute_of_chicago",
   "local": false,
@@ -15546,7 +15679,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Franz%20Kline%20Chief",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15569,7 +15702,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Barnett%20Newman%20Vir%20Heroicus%20Sublimis",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15592,7 +15725,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Barnett%20Newman%20Onement%20I",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15661,7 +15794,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Lee%20Krasner%20The%20Seasons",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "抽象／非具象"
   ],
   "mu_id": "whitney_museum_of_american_art_new_york",
   "local": false,
@@ -15685,7 +15818,7 @@
   "verif": "受著作權保護，僅提供連結",
   "th": [
    "風景",
-   "海景"
+   "抽象／非具象"
   ],
   "mu_id": "national_gallery_of_art_on_loan_washington",
   "local": false,
@@ -15708,7 +15841,7 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The%20Liver%20is%20the%20Cock%27s%20Comb%20y%20Arshile%20Gorky%2C%201944.jpg",
   "verif": "Wikimedia Commons 站內搜尋取得檔名，已確認檔案存在",
   "th": [
-   "人物／風俗"
+   "抽象／非具象"
   ],
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": true,
@@ -15731,7 +15864,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Joan%20Mitchell%20City%20Landscape",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "風景",
+   "抽象／非具象",
    "城市／建築"
   ],
   "mu_id": "art_institute_of_chicago",
@@ -15755,7 +15888,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Philip%20Guston%20Zone",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "private_collection",
   "local": false,
@@ -15778,7 +15911,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Richard%20Hamilton%20Just%20what%20is%20it%20that%20makes%20today%27s%20homes%20so%20different%2C%20so%20appealing%3F",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "kunsthalle_t_bingen",
   "local": false,
@@ -15801,7 +15934,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Andy%20Warhol%20Campbell%27s%20Soup%20Cans",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "靜物"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15824,7 +15957,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Andy%20Warhol%20Marilyn%20Diptych",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "宗教"
+   "肖像"
   ],
   "mu_id": "tate_modern_london",
   "local": false,
@@ -15870,7 +16003,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Roy%20Lichtenstein%20Whaam%21",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭"
   ],
   "mu_id": "tate_modern_london",
   "local": false,
@@ -15939,7 +16072,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jasper%20Johns%20Target%20with%20Four%20Faces",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "抽象／非具象"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -15962,7 +16095,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Robert%20Rauschenberg%20Monogram",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "動物"
   ],
   "mu_id": "moderna_museet_stockholm",
   "local": false,
@@ -15985,7 +16118,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Robert%20Rauschenberg%20Retroactive%20I",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "肖像",
+   "歷史／戰爭"
   ],
   "mu_id": "wadsworth_atheneum_hartford",
   "local": false,
@@ -16008,7 +16142,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Claes%20Oldenburg%20Floor%20Burger",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "靜物"
   ],
   "mu_id": "art_gallery_of_ontario_toronto",
   "local": false,
@@ -16031,7 +16165,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=James%20Rosenquist%20F-111",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -16054,7 +16188,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=David%20Hockney%20A%20Bigger%20Splash",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "tate_britain_london",
   "local": false,
@@ -16077,8 +16211,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Tom%20Wesselmann%20Great%20American%20Nude%20No.%2057",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "裸體",
-   "抽象／非具象"
+   "裸體"
   ],
   "mu_id": "whitney_museum_of_american_art_new_york",
   "local": false,
@@ -16124,7 +16257,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Wayne%20Thiebaud%20Cakes",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "靜物"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": false,
@@ -16147,7 +16280,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Peter%20Blake%20Sgt.%20Pepper%27s%20Lonely%20Hearts%20Club%20Band%20%28album%20cover%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "風景"
+   "肖像"
   ],
   "mu_id": "various_album_artwork",
   "local": false,
@@ -16493,7 +16626,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Richard%20Estes%20Telephone%20Booths",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "城市／建築"
   ],
   "mu_id": "thyssen_bornemisza_museum_madrid",
   "local": false,
@@ -16516,7 +16649,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gerhard%20Richter%20Betty",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "saint_louis_art_museum",
   "local": false,
@@ -16562,7 +16695,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gerhard%20Richter%20October%2018%2C%201977%20%28cycle%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭",
+   "肖像"
   ],
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
@@ -16585,7 +16719,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jean-Michel%20Basquiat%20Untitled%20%28Skull%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "靜物",
+   "肖像",
    "抽象／非具象"
   ],
   "mu_id": "the_broad_los_angeles",
@@ -16632,7 +16766,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Anselm%20Kiefer%20Margarete",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "其他／待分類"
+   "歷史／戰爭",
+   "風景"
   ],
   "mu_id": "saffron_collection",
   "local": false,
@@ -16678,7 +16813,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Lucian%20Freud%20Benefits%20Supervisor%20Sleeping",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "人物／風俗"
+   "裸體"
   ],
   "mu_id": "private_collection",
   "local": false,
@@ -16701,6 +16836,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Francis%20Bacon%20Three%20Studies%20for%20Figures%20at%20the%20Base%20of%20a%20Crucifixion",
   "verif": "受著作權保護，僅提供連結",
   "th": [
+   "神話／寓言",
    "宗教"
   ],
   "mu_id": "tate_britain_london",
@@ -16724,7 +16860,6 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Francis%20Bacon%20Study%20after%20Vel%C3%A1zquez%27s%20Portrait%20of%20Pope%20Innocent%20X",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "宗教",
    "肖像"
   ],
   "mu_id": "des_moines_art_center",
@@ -16748,6 +16883,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=David%20Hockney%20Portrait%20of%20an%20Artist%20%28Pool%20with%20Two%20Figures%29",
   "verif": "受著作權保護，僅提供連結",
   "th": [
+   "人物／風俗",
    "肖像"
   ],
   "mu_id": "private_collection",
@@ -16794,7 +16930,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Peter%20Doig%20White%20Canoe",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "private_collection",
   "local": false,
@@ -16817,7 +16953,7 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Yayoi%20Kusama%20Infinity%20Nets",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "抽象／非具象"
   ],
   "mu_id": "various",
   "local": false,
@@ -16863,7 +16999,8 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Kerry%20James%20Marshall%20Past%20Times",
   "verif": "受著作權保護，僅提供連結",
   "th": [
-   "肖像"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "private_collection",
   "local": false,
@@ -16910,7 +17047,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.82.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -16956,8 +17093,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.84.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "肖像",
-   "靜物"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17003,8 +17139,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.27.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "宗教",
-   "動物"
+   "宗教"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17073,7 +17208,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41638.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "宗教",
    "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -17097,8 +17231,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46144.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "肖像",
-   "動物"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17121,7 +17254,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.435.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17286,7 +17419,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41671.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "歷史／戰爭"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17543,7 +17676,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41682.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "人物／風俗"
+   "宗教"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17636,7 +17769,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46189.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "其他／待分類"
+   "神話／寓言"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17659,7 +17792,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41694.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "宗教"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17799,8 +17932,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.43723.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "宗教",
-   "城市／建築"
+   "宗教"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -17964,7 +18096,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.43724.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "其他／待分類"
+   "神話／寓言",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -18778,8 +18911,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41591.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "宗教",
-   "肖像"
+   "肖像",
+   "宗教"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -18802,7 +18935,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46136.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "宗教",
    "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -18873,7 +19005,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.532.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
-   "宗教"
+   "歷史／戰爭"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -18897,8 +19029,7 @@
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Renaissance",
   "th": [
    "神話／寓言",
-   "風景",
-   "人物／風俗"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -18944,7 +19075,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46473.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -19036,8 +19167,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.55.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "宗教",
-   "裸體"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -19083,7 +19213,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1230.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -19267,7 +19397,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.195670.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -19337,7 +19467,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46005.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "肖像",
    "風景",
    "城市／建築"
   ],
@@ -19478,7 +19607,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1170.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "肖像"
+   "風景",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -19709,7 +19839,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41657.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "肖像",
    "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -19733,9 +19862,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.51095.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "宗教",
    "神話／寓言",
-   "城市／建築"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -19850,7 +19978,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46140.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "宗教",
    "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -20014,7 +20141,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.33745.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Rococo",
   "th": [
-   "其他／待分類"
+   "神話／寓言"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20037,8 +20164,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.32683.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Rococo",
   "th": [
-   "人物／風俗",
-   "動物"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20176,6 +20302,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.96.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Rococo",
   "th": [
+   "人物／風俗",
    "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -20268,7 +20395,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41665.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Rococo",
   "th": [
-   "肖像"
+   "城市／建築",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20360,9 +20488,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.166448.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：",
   "th": [
-   "宗教",
-   "肖像",
-   "裸體"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20477,8 +20603,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.103.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：",
   "th": [
-   "肖像",
-   "城市／建築"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20501,7 +20626,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.50851.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：",
   "th": [
-   "宗教"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20524,7 +20649,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.195701.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "宗教"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20571,8 +20696,7 @@
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Neoclassic",
   "th": [
    "宗教",
-   "肖像",
-   "城市／建築"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20710,7 +20834,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.56727.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：",
   "th": [
-   "裸體"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20825,7 +20949,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.50684.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：",
   "th": [
-   "風景"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20894,7 +21018,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.41579.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：",
   "th": [
-   "歷史／戰爭"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20940,7 +21064,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.567.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：",
   "th": [
-   "歷史／戰爭"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -20963,7 +21087,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.52267.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21032,7 +21156,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.985.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Baroque",
   "th": [
-   "宗教"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21078,7 +21202,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.136015.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21195,8 +21319,7 @@
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
    "海景",
-   "城市／建築",
-   "動物"
+   "城市／建築"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21219,7 +21342,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1146.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "動物"
+   "動物",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21242,7 +21366,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.115.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "城市／建築"
+   "城市／建築",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21288,7 +21413,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.93667.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "風景"
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21381,7 +21506,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.70970.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21404,7 +21530,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.129432.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21451,7 +21578,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.166438.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21475,7 +21602,7 @@
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
    "風景",
-   "城市／建築"
+   "海景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21498,7 +21625,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.52450.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "人物／風俗"
+   "神話／寓言",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21521,7 +21649,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.166437.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21591,7 +21719,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.166428.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21614,7 +21742,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.124525.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "動物"
+   "動物",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21706,7 +21835,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.56572.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "神話／寓言"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21729,6 +21858,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.50852.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
+   "風景",
    "歷史／戰爭"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -21752,7 +21882,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.178026.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21915,7 +22045,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.56598.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "歷史／戰爭"
+   "歷史／戰爭",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -21962,7 +22093,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.73436.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "其他／待分類"
+   "城市／建築",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22031,7 +22163,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1150.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22123,7 +22255,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.176848.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22169,7 +22301,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.195117.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Romantic",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22493,7 +22626,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.30211.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "城市／建築"
+   "宗教",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22516,7 +22650,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46488.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "城市／建築"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22539,7 +22673,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46476.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "風景"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22562,7 +22696,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.79933.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22585,7 +22719,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.79891.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22631,7 +22765,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.66420.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22700,7 +22834,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.82416.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "肖像"
+   "風景",
+   "城市／建築"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22723,7 +22858,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1238.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Realist",
   "th": [
-   "海景"
+   "城市／建築",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22792,7 +22928,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1193.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Symbolist",
   "th": [
-   "人物／風俗"
+   "人物／風俗",
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22815,7 +22952,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.1194.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Symbolist",
   "th": [
-   "其他／待分類"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -22861,7 +22998,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.52180.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
-   "歷史／戰爭",
    "動物"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -23071,7 +23207,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.42935.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
-   "風景"
+   "風景",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23095,7 +23232,7 @@
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
    "肖像",
-   "靜物"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23141,7 +23278,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46600.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
-   "其他／待分類"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23210,7 +23347,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.66427.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
-   "宗教"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23233,7 +23370,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.66429.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
-   "肖像"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23373,7 +23510,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.52194.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
-   "海景"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23419,6 +23556,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.164958.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
+   "人物／風俗",
    "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -23442,7 +23580,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.164960.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Impressionist",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23465,7 +23603,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.164969.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "肖像"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23581,7 +23719,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.45866.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "其他／待分類"
+   "風景",
+   "城市／建築"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23604,7 +23743,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.61371.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "其他／待分類"
+   "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23742,7 +23881,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.53130.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "其他／待分類"
+   "裸體",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23765,7 +23905,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.89687.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "歷史／戰爭"
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23788,7 +23928,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.52228.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "肖像",
    "動物"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -23812,7 +23951,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.66437.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "歷史／戰爭"
+   "肖像",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23858,7 +23998,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.53138.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "風景"
+   "風景",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -23881,6 +24022,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46538.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
+   "人物／風俗",
    "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
@@ -23927,7 +24069,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46531.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Symbolist",
   "th": [
-   "其他／待分類"
+   "神話／寓言"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -24042,7 +24184,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.66440.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：Post-Impressionist",
   "th": [
-   "海景"
+   "海景",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -24088,7 +24231,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.46520.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：",
   "th": [
-   "人物／風俗"
+   "肖像"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -24203,7 +24346,7 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.121096.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：German Expressionist",
   "th": [
-   "其他／待分類"
+   "動物"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -24226,7 +24369,8 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.121344.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：German Expressionist",
   "th": [
-   "風景"
+   "風景",
+   "人物／風俗"
   ],
   "mu_id": "national_gallery_of_art_washington",
   "local": true,
@@ -24272,7 +24416,6 @@
   "src_url": "https://www.nga.gov/collection/art-object-page.130842.html",
   "verif": "NGA 開放資料集（CC0）；館方流派標註：German Expressionist",
   "th": [
-   "宗教",
    "風景"
   ],
   "mu_id": "national_gallery_of_art_washington",
