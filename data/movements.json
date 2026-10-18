@@ -20,7 +20,14 @@
    "Exekias",
    "Euphronios",
    "Polygnotus",
-   "Apelles"
+   "Apelles",
+   "Douris",
+   "Kleophrades Painter",
+   "Berlin Painter",
+   "Amasis Painter",
+   "Kleitias",
+   "Zeuxis",
+   "Parrhasius"
   ]
  },
  {
@@ -43,7 +50,17 @@
   ],
   "against": [],
   "artists": [
-   "Fayum portrait painters"
+   "Fayum portrait painters",
+   "Studius",
+   "Fabullus",
+   "Timomachus of Byzantium",
+   "Gaius Fabius Pictor",
+   "Marcus Pacuvius",
+   "Iaia of Cyzicus",
+   "Antiphilos",
+   "Pausias",
+   "Nicias of Athens",
+   "Theon of Samos"
   ]
  },
  {
@@ -67,7 +84,15 @@
   "against": [],
   "artists": [
    "Andrei Rublev",
-   "Theophanes the Greek"
+   "Theophanes the Greek",
+   "Manuel Panselinos",
+   "Michael Astrapas",
+   "Eutychios",
+   "Angelos Akotantos",
+   "Andreas Ritzos",
+   "Dionisius",
+   "Daniil Chorny",
+   "Toros Roslin"
   ]
  },
  {
@@ -89,7 +114,18 @@
    "byzantine"
   ],
   "against": [],
-  "artists": []
+  "artists": [
+   "Master of Taüll",
+   "Master of Pedret",
+   "Master Hugo",
+   "Eadwine of Canterbury",
+   "Herrad of Landsberg",
+   "Guda",
+   "Gislebertus",
+   "Nicholas of Verdun",
+   "Master of Cabestany",
+   "Renier of Huy"
+  ]
  },
  {
   "id": "gothic",
@@ -117,7 +153,11 @@
    "Simone Martini",
    "Cimabue",
    "Gentile da Fabriano",
-   "Limbourg brothers"
+   "Limbourg brothers",
+   "Pietro Lorenzetti",
+   "Ambrogio Lorenzetti",
+   "Pietro Cavallini",
+   "Taddeo Gaddi"
   ]
  },
  {
@@ -176,7 +216,12 @@
    "Michelangelo",
    "Raphael",
    "Fra Bartolomeo",
-   "Andrea del Sarto"
+   "Andrea del Sarto",
+   "Sebastiano del Piombo",
+   "Correggio",
+   "Bernardino Luini",
+   "Perugino",
+   "Giovanni Antonio Boltraffio"
   ]
  },
  {
@@ -242,7 +287,8 @@
    "Vittore Carpaccio",
    "Lorenzo Lotto",
    "Jacopo Bassano",
-   "Cima da Conegliano"
+   "Cima da Conegliano",
+   "Palma il Vecchio"
   ]
  },
  {
@@ -273,7 +319,10 @@
    "El Greco",
    "Rosso Fiorentino",
    "Giuseppe Arcimboldo",
-   "Giulio Romano"
+   "Giulio Romano",
+   "Domenico Beccafumi",
+   "Francesco Salviati",
+   "Giorgio Vasari"
   ]
  },
  {
@@ -566,7 +615,8 @@
    "Wilhelm Leibl",
    "Ivan Shishkin",
    "Vasily Perov",
-   "Jean-Léon Gérôme"
+   "Jean-Léon Gérôme",
+   "James McNeill Whistler"
   ]
  },
  {
@@ -597,7 +647,10 @@
    "Jean-François Millet",
    "Narcisse Virgilio Díaz",
    "Constant Troyon",
-   "Jules Dupré"
+   "Jules Dupré",
+   "Charles Jacque",
+   "Paul Huet",
+   "Rosa Bonheur"
   ]
  },
  {
@@ -662,7 +715,9 @@
    "John William Waterhouse",
    "Ford Madox Brown",
    "Arthur Hughes",
-   "Frederick Sandys"
+   "Frederick Sandys",
+   "Henry Wallis",
+   "Evelyn De Morgan"
   ]
  },
  {
@@ -740,7 +795,10 @@
    "Maximilien Luce",
    "Théo van Rysselberghe",
    "Charles Angrand",
-   "Albert Dubois-Pillet"
+   "Albert Dubois-Pillet",
+   "Camille Pissarro",
+   "Giovanni Segantini",
+   "Giuseppe Pellizza da Volpedo"
   ]
  },
  {
@@ -844,7 +902,10 @@
    "Paul Sérusier",
    "Félix Vallotton",
    "Ker-Xavier Roussel",
-   "Paul Ranson"
+   "Paul Ranson",
+   "József Rippl-Rónai",
+   "Georges Lacombe",
+   "Henri-Gabriel Ibels"
   ]
  },
  {
@@ -876,7 +937,10 @@
    "Koloman Moser",
    "Aubrey Beardsley",
    "Henri de Toulouse-Lautrec",
-   "Jan Toorop"
+   "Jan Toorop",
+   "Fernand Khnopff",
+   "Ferdinand Hodler",
+   "Franz von Stuck"
   ]
  },
  {
@@ -908,7 +972,8 @@
    "Georges Braque",
    "Albert Marquet",
    "Othon Friesz",
-   "Henri Manguin"
+   "Henri Manguin",
+   "Georges Rouault"
   ]
  },
  {
@@ -1023,7 +1088,10 @@
    "Gino Severini",
    "Luigi Russolo",
    "Natalia Goncharova",
-   "Mikhail Larionov"
+   "Mikhail Larionov",
+   "Fortunato Depero",
+   "Enrico Prampolini",
+   "Gerardo Dottori"
   ]
  },
  {
@@ -1050,7 +1118,14 @@
   "artists": [
    "Giorgio de Chirico",
    "Carlo Carrà",
-   "Giorgio Morandi"
+   "Giorgio Morandi",
+   "Alberto Savinio",
+   "Mario Sironi",
+   "Filippo de Pisis",
+   "Felice Casorati",
+   "Cagnaccio di San Pietro",
+   "Antonio Donghi",
+   "Mario Tozzi"
   ]
  },
  {
@@ -1117,7 +1192,9 @@
    "Lyubov Popova",
    "Naum Gabo",
    "Olga Rozanova",
-   "Ivan Kliun"
+   "Ivan Kliun",
+   "Gustav Klutsis",
+   "Ilya Chashnik"
   ]
  },
  {
@@ -1144,7 +1221,12 @@
    "Theo van Doesburg",
    "Bart van der Leck",
    "Gerrit Rietveld",
-   "Vilmos Huszár"
+   "Vilmos Huszár",
+   "Georges Vantongerloo",
+   "César Domela",
+   "Friedrich Vordemberge-Gildewart",
+   "J. J. P. Oud",
+   "Cornelis van Eesteren"
   ]
  },
  {
@@ -1175,7 +1257,10 @@
    "Josef Albers",
    "László Moholy-Nagy",
    "Oskar Schlemmer",
-   "Johannes Itten"
+   "Johannes Itten",
+   "Herbert Bayer",
+   "Gunta Stölzl",
+   "Marianne Brandt"
   ]
  },
  {
@@ -1247,7 +1332,9 @@
    "Alexander Kanoldt",
    "Georg Schrimpf",
    "Rudolf Schlichter",
-   "Karl Hubbuch"
+   "Karl Hubbuch",
+   "Conrad Felixmüller",
+   "Franz Radziwill"
   ]
  },
  {
@@ -1315,7 +1402,12 @@
    "José Clemente Orozco",
    "David Alfaro Siqueiros",
    "Rufino Tamayo",
-   "Frida Kahlo"
+   "Frida Kahlo",
+   "Dr. Atl",
+   "Roberto Montenegro",
+   "Juan O'Gorman",
+   "Jean Charlot",
+   "Pablo O'Higgins"
   ]
  },
  {

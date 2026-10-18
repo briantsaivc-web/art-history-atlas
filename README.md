@@ -1,6 +1,6 @@
 # 西洋藝術流派大全集 · Art History Atlas
 
-互動式西洋繪畫流派大全集：時間軸、流派說明與關係圖、1,048 件作品（896 件有圖）、依流派／時間／畫家／館藏／主題五種索引、看圖小測驗。
+互動式西洋繪畫流派大全集：時間軸、流派說明與關係圖、2,200 件作品（1,866 件有圖）、542 位畫家（含生平／作品特色／軼事）、依流派／時間／畫家／館藏／主題五種索引、看圖小測驗。
 
 線上版（GitHub Pages）：`https://briantsaivc-web.github.io/art-history-atlas/`
 
@@ -14,6 +14,7 @@ data/
   works.json        作品（見下）
   museums.json      館藏 { id: {en, zh, city, country, count} }
   themes.json       主題清單 [{id, zh}]
+  bios.json         畫家介紹 { "英文名": {bio, style[], anecdote, keyworks[], aka[], confidence} }
   meta.json         版本、統計、備註
 img/thumb/<id>.webp 縮圖（長邊 260px）
 img/800/<id>.webp   大圖（長邊 800px）
@@ -42,6 +43,11 @@ tools/validate.py   資料一致性檢查
 2. **新增作品**：在 `works.json` 加一筆，圖片放進 `img/800/` 與 `img/thumb/`（WebP）；沒有圖就把 `img`/`thumb` 設為 `null`，頁面會顯示連結。
 3. **新增流派／館藏／主題**：對應 JSON 加一筆即可，索引頁與篩選器會自動出現。
 4. 改完執行 `python3 tools/validate.py`，確認「OK 無問題」再 push。
+
+## 資料品質分級
+- `tier: canon`／`nga`（v7 以前）：圖檔經人工或 API 逐件確認。
+- `tier: v8`：題名、年代、館藏、說明由 AI 依知識整理；圖檔以 Commons 站內搜尋自動配對（抽樣 40 件正確率約 95%）。每件的 `note_src`／`verif` 欄位記錄查證狀態，發現錯誤請直接改 works.json。
+- 畫家介紹（bios.json）由 AI 整理，未逐條查證原始文獻；`confidence: low` 者史料稀少。
 
 ## 資料來源與版權
 - 圖片：Wikimedia Commons（公共領域作品）、美國國家藝廊 NGA 開放資料（CC0）。受著作權保護的作品不嵌圖，僅給連結。

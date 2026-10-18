@@ -1,15 +1,16 @@
 {
- "version": "v7",
+ "version": "v8",
  "updated": "2026-10-18",
  "counts": {
   "movements": 43,
-  "artists": 438,
-  "works": 1048,
-  "with_image": 896,
-  "museums": 216
+  "artists": 542,
+  "works": 2200,
+  "with_image": 1866,
+  "museums": 409
  },
  "notes": [
   "主題（th）為編者依題名與流派以關鍵字初分，標「其他／待分類」者尚未分類；人工校正後請在 works.json 直接改 th 欄位。",
-  "museums.json 中 zh 空白者尚未補中文名（UNKNOWN）。"
+  "museums.json 中 zh 空白者尚未補中文名（UNKNOWN）。",
+  "v8（2026-10-18）：新增 1152 件作品（970 件有圖）、83 位畫家；新增條目的題名／年代／館藏／說明由 AI 依知識整理並經自動 Commons 配對，尚未逐件人工查證，見各作品 note_src。"
  ]
 }

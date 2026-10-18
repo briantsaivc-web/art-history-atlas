@@ -2773,5 +2773,503 @@
   "death": 1808,
   "nat": "法國",
   "note": "2026-10-18 編者補錄；生卒年為通行說法，佚名者不填"
+ },
+ "Douris": {
+  "zh": "杜里斯",
+  "birth": -500,
+  "death": -460,
+  "nat": "古希臘（雅典）"
+ },
+ "Kleophrades Painter": {
+  "zh": "克列奧夫拉德斯畫師",
+  "birth": -520,
+  "death": -460,
+  "nat": "古希臘（雅典）"
+ },
+ "Berlin Painter": {
+  "zh": "柏林畫師",
+  "birth": -505,
+  "death": -470,
+  "nat": "古希臘（雅典）"
+ },
+ "Amasis Painter": {
+  "zh": "阿馬西斯畫師",
+  "birth": -570,
+  "death": -520,
+  "nat": "古希臘（雅典）"
+ },
+ "Kleitias": {
+  "zh": "克萊提亞斯",
+  "birth": -580,
+  "death": -550,
+  "nat": "古希臘（雅典）"
+ },
+ "Zeuxis": {
+  "zh": "宙克西斯",
+  "birth": -464,
+  "death": -398,
+  "nat": "古希臘"
+ },
+ "Parrhasius": {
+  "zh": "帕拉西烏斯",
+  "birth": -440,
+  "death": -380,
+  "nat": "古希臘（以弗所）"
+ },
+ "Studius": {
+  "zh": "斯圖迪烏斯",
+  "birth": -30,
+  "death": 20,
+  "nat": "古羅馬"
+ },
+ "Fabullus": {
+  "zh": "法布魯斯",
+  "birth": 10,
+  "death": 70,
+  "nat": "古羅馬"
+ },
+ "Timomachus of Byzantium": {
+  "zh": "拜占庭的提莫馬庫斯",
+  "birth": -100,
+  "death": -40,
+  "nat": "古羅馬（拜占庭）"
+ },
+ "Gaius Fabius Pictor": {
+  "zh": "蓋烏斯·法比烏斯·皮克托",
+  "birth": -300,
+  "death": -250,
+  "nat": "古羅馬"
+ },
+ "Marcus Pacuvius": {
+  "zh": "馬庫斯·帕庫維烏斯",
+  "birth": -220,
+  "death": -130,
+  "nat": "古羅馬"
+ },
+ "Iaia of Cyzicus": {
+  "zh": "西齊庫斯的伊亞亞",
+  "birth": -100,
+  "death": -50,
+  "nat": "古羅馬（希臘裔）"
+ },
+ "Antiphilos": {
+  "zh": "安提菲洛斯",
+  "birth": -370,
+  "death": -300,
+  "nat": "古希臘／羅馬世界"
+ },
+ "Pausias": {
+  "zh": "波西亞斯",
+  "birth": -390,
+  "death": -320,
+  "nat": "古希臘（西錫安）"
+ },
+ "Nicias of Athens": {
+  "zh": "雅典的尼基亞斯",
+  "birth": -360,
+  "death": -300,
+  "nat": "古希臘（雅典）"
+ },
+ "Theon of Samos": {
+  "zh": "薩摩斯的忒翁",
+  "birth": -350,
+  "death": -300,
+  "nat": "古希臘（薩摩斯）"
+ },
+ "Manuel Panselinos": {
+  "zh": "馬努埃爾·潘塞利諾斯",
+  "birth": 1250,
+  "death": 1320,
+  "nat": "拜占庭（馬其頓）"
+ },
+ "Michael Astrapas": {
+  "zh": "邁克爾·阿斯特拉帕斯",
+  "birth": 1250,
+  "death": 1325,
+  "nat": "拜占庭（塞爾維亞）"
+ },
+ "Eutychios": {
+  "zh": "歐提奇奧斯",
+  "birth": 1250,
+  "death": 1325,
+  "nat": "拜占庭（塞爾維亞）"
+ },
+ "Angelos Akotantos": {
+  "zh": "安傑洛斯·阿科坦托斯",
+  "birth": 1390,
+  "death": 1457,
+  "nat": "拜占庭（克里特）"
+ },
+ "Andreas Ritzos": {
+  "zh": "安德烈亞斯·里佐斯",
+  "birth": 1421,
+  "death": 1492,
+  "nat": "拜占庭（克里特）"
+ },
+ "Dionisius": {
+  "zh": "狄奧尼西",
+  "birth": 1440,
+  "death": 1503,
+  "nat": "俄羅斯"
+ },
+ "Daniil Chorny": {
+  "zh": "丹尼爾·喬爾尼",
+  "birth": 1360,
+  "death": 1430,
+  "nat": "俄羅斯"
+ },
+ "Toros Roslin": {
+  "zh": "托羅斯·羅斯林",
+  "birth": 1210,
+  "death": 1270,
+  "nat": "亞美尼亞（奇里乞亞）"
+ },
+ "Master of Taüll": {
+  "zh": "陶爾大師",
+  "birth": 1080,
+  "death": 1140,
+  "nat": "西班牙（加泰隆尼亞）"
+ },
+ "Master of Pedret": {
+  "zh": "佩德雷大師",
+  "birth": 1060,
+  "death": 1120,
+  "nat": "西班牙（加泰隆尼亞）"
+ },
+ "Master Hugo": {
+  "zh": "休大師",
+  "birth": 1100,
+  "death": 1150,
+  "nat": "英格蘭"
+ },
+ "Eadwine of Canterbury": {
+  "zh": "坎特伯雷的埃德溫",
+  "birth": 1100,
+  "death": 1180,
+  "nat": "英格蘭"
+ },
+ "Herrad of Landsberg": {
+  "zh": "蘭茨貝格的赫拉德",
+  "birth": 1130,
+  "death": 1196,
+  "nat": "神聖羅馬帝國（亞爾薩斯）"
+ },
+ "Guda": {
+  "zh": "古達",
+  "birth": 1100,
+  "death": 1200,
+  "nat": "神聖羅馬帝國（德意志）"
+ },
+ "Gislebertus": {
+  "zh": "吉斯勒貝爾圖斯",
+  "birth": 1080,
+  "death": 1140,
+  "nat": "法國（勃艮第）"
+ },
+ "Nicholas of Verdun": {
+  "zh": "凡爾登的尼古拉",
+  "birth": 1130,
+  "death": 1205,
+  "nat": "神聖羅馬帝國（洛林）"
+ },
+ "Master of Cabestany": {
+  "zh": "卡貝斯坦尼大師",
+  "birth": 1130,
+  "death": 1180,
+  "nat": "法國／義大利"
+ },
+ "Renier of Huy": {
+  "zh": "于伊的雷尼耶",
+  "birth": 1080,
+  "death": 1150,
+  "nat": "神聖羅馬帝國（列日）"
+ },
+ "Pietro Cavallini": {
+  "zh": "彼得羅·卡瓦利尼",
+  "birth": 1250,
+  "death": 1330,
+  "nat": "義大利（羅馬）"
+ },
+ "Taddeo Gaddi": {
+  "zh": "塔迪奧·加迪",
+  "birth": 1290,
+  "death": 1366,
+  "nat": "義大利（佛羅倫斯）"
+ },
+ "Correggio": {
+  "zh": "柯勒喬",
+  "birth": 1489,
+  "death": 1534,
+  "nat": "義大利（帕爾馬）"
+ },
+ "Bernardino Luini": {
+  "zh": "貝爾納迪諾·路易尼",
+  "birth": 1480,
+  "death": 1532,
+  "nat": "義大利（米蘭）"
+ },
+ "Perugino": {
+  "zh": "佩魯吉諾",
+  "birth": 1446,
+  "death": 1523,
+  "nat": "義大利（翁布里亞）"
+ },
+ "Giovanni Antonio Boltraffio": {
+  "zh": "喬凡尼·安東尼奧·博爾特拉菲奧",
+  "birth": 1466,
+  "death": 1516,
+  "nat": "義大利（米蘭）"
+ },
+ "Palma il Vecchio": {
+  "zh": "老帕爾馬",
+  "birth": 1480,
+  "death": 1528,
+  "nat": "義大利（威尼斯）"
+ },
+ "Domenico Beccafumi": {
+  "zh": "多梅尼科·貝卡富米",
+  "birth": 1486,
+  "death": 1551,
+  "nat": "義大利（錫耶納）"
+ },
+ "Francesco Salviati": {
+  "zh": "弗朗切斯科·薩爾維亞蒂",
+  "birth": 1510,
+  "death": 1563,
+  "nat": "義大利（佛羅倫斯／羅馬）"
+ },
+ "Giorgio Vasari": {
+  "zh": "喬爾喬·瓦薩里",
+  "birth": 1511,
+  "death": 1574,
+  "nat": "義大利（佛羅倫斯）"
+ },
+ "Charles Jacque": {
+  "zh": "夏爾·雅克",
+  "birth": 1813,
+  "death": 1894,
+  "nat": "法國"
+ },
+ "Paul Huet": {
+  "zh": "保羅·于埃",
+  "birth": 1803,
+  "death": 1869,
+  "nat": "法國"
+ },
+ "Henry Wallis": {
+  "zh": "亨利·沃利斯",
+  "birth": 1830,
+  "death": 1916,
+  "nat": "英國"
+ },
+ "Evelyn De Morgan": {
+  "zh": "伊芙琳·德·摩根",
+  "birth": 1855,
+  "death": 1919,
+  "nat": "英國"
+ },
+ "Giovanni Segantini": {
+  "zh": "喬凡尼·塞岡蒂尼",
+  "birth": 1858,
+  "death": 1899,
+  "nat": "義大利"
+ },
+ "Giuseppe Pellizza da Volpedo": {
+  "zh": "朱塞佩·佩利扎·達·沃爾佩多",
+  "birth": 1868,
+  "death": 1907,
+  "nat": "義大利"
+ },
+ "József Rippl-Rónai": {
+  "zh": "約瑟夫·里普爾-羅奈",
+  "birth": 1861,
+  "death": 1927,
+  "nat": "匈牙利"
+ },
+ "Georges Lacombe": {
+  "zh": "喬治·拉康",
+  "birth": 1868,
+  "death": 1916,
+  "nat": "法國"
+ },
+ "Henri-Gabriel Ibels": {
+  "zh": "亨利-加布里埃爾·伊貝爾",
+  "birth": 1867,
+  "death": 1936,
+  "nat": "法國"
+ },
+ "Ferdinand Hodler": {
+  "zh": "費迪南·霍德勒",
+  "birth": 1853,
+  "death": 1918,
+  "nat": "瑞士"
+ },
+ "Georges Rouault": {
+  "zh": "喬治·魯奧",
+  "birth": 1871,
+  "death": 1958,
+  "nat": "法國"
+ },
+ "Fortunato Depero": {
+  "zh": "福圖納托·德佩羅",
+  "birth": 1892,
+  "death": 1960,
+  "nat": "義大利"
+ },
+ "Enrico Prampolini": {
+  "zh": "恩里科·普朗波里尼",
+  "birth": 1894,
+  "death": 1956,
+  "nat": "義大利"
+ },
+ "Gerardo Dottori": {
+  "zh": "傑拉爾多·多托里",
+  "birth": 1884,
+  "death": 1977,
+  "nat": "義大利"
+ },
+ "Alberto Savinio": {
+  "zh": "阿爾貝托·薩維尼奧",
+  "birth": 1891,
+  "death": 1952,
+  "nat": "義大利"
+ },
+ "Mario Sironi": {
+  "zh": "馬里奧·西羅尼",
+  "birth": 1885,
+  "death": 1961,
+  "nat": "義大利"
+ },
+ "Filippo de Pisis": {
+  "zh": "菲利波·德·皮西斯",
+  "birth": 1896,
+  "death": 1956,
+  "nat": "義大利"
+ },
+ "Felice Casorati": {
+  "zh": "費利切·卡索拉蒂",
+  "birth": 1883,
+  "death": 1963,
+  "nat": "義大利"
+ },
+ "Cagnaccio di San Pietro": {
+  "zh": "卡尼亞喬·迪聖彼得羅",
+  "birth": 1897,
+  "death": 1946,
+  "nat": "義大利"
+ },
+ "Antonio Donghi": {
+  "zh": "安東尼奧·東吉",
+  "birth": 1897,
+  "death": 1963,
+  "nat": "義大利"
+ },
+ "Mario Tozzi": {
+  "zh": "馬里奧·托齊",
+  "birth": 1895,
+  "death": 1979,
+  "nat": "義大利"
+ },
+ "Gustav Klutsis": {
+  "zh": "古斯塔夫·克盧西斯",
+  "birth": 1895,
+  "death": 1938,
+  "nat": "拉脫維亞／蘇聯"
+ },
+ "Ilya Chashnik": {
+  "zh": "伊利亞·恰什尼克",
+  "birth": 1902,
+  "death": 1929,
+  "nat": "蘇聯（白俄羅斯）"
+ },
+ "Georges Vantongerloo": {
+  "zh": "喬治·范通格洛",
+  "birth": 1886,
+  "death": 1965,
+  "nat": "比利時"
+ },
+ "César Domela": {
+  "zh": "塞薩爾·多梅拉",
+  "birth": 1900,
+  "death": 1992,
+  "nat": "荷蘭"
+ },
+ "Friedrich Vordemberge-Gildewart": {
+  "zh": "弗里德里希·沃登貝格-吉爾德瓦特",
+  "birth": 1899,
+  "death": 1962,
+  "nat": "德國"
+ },
+ "J. J. P. Oud": {
+  "zh": "奧德",
+  "birth": 1890,
+  "death": 1963,
+  "nat": "荷蘭"
+ },
+ "Cornelis van Eesteren": {
+  "zh": "科內利斯·范埃斯特倫",
+  "birth": 1897,
+  "death": 1988,
+  "nat": "荷蘭"
+ },
+ "Herbert Bayer": {
+  "zh": "赫伯特·拜耳",
+  "birth": 1900,
+  "death": 1985,
+  "nat": "奧地利／美國"
+ },
+ "Gunta Stölzl": {
+  "zh": "貢塔·施托爾茨",
+  "birth": 1897,
+  "death": 1983,
+  "nat": "德國"
+ },
+ "Marianne Brandt": {
+  "zh": "瑪麗安娜·布蘭特",
+  "birth": 1893,
+  "death": 1983,
+  "nat": "德國"
+ },
+ "Conrad Felixmüller": {
+  "zh": "康拉德·費利克斯米勒",
+  "birth": 1897,
+  "death": 1977,
+  "nat": "德國"
+ },
+ "Franz Radziwill": {
+  "zh": "弗朗茨·拉齊維爾",
+  "birth": 1895,
+  "death": 1983,
+  "nat": "德國"
+ },
+ "Dr. Atl": {
+  "zh": "阿特博士",
+  "birth": 1875,
+  "death": 1964,
+  "nat": "墨西哥"
+ },
+ "Roberto Montenegro": {
+  "zh": "羅伯托·蒙特內格羅",
+  "birth": 1885,
+  "death": 1968,
+  "nat": "墨西哥"
+ },
+ "Juan O'Gorman": {
+  "zh": "胡安·奧戈爾曼",
+  "birth": 1905,
+  "death": 1982,
+  "nat": "墨西哥"
+ },
+ "Jean Charlot": {
+  "zh": "尚·夏洛",
+  "birth": 1898,
+  "death": 1979,
+  "nat": "法國／美國"
+ },
+ "Pablo O'Higgins": {
+  "zh": "巴勃羅·奧希金斯",
+  "birth": 1904,
+  "death": 1983,
+  "nat": "美國／墨西哥"
  }
 }
