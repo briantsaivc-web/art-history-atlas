@@ -4,7 +4,7 @@
   "zh": "華盛頓國家藝廊",
   "city": "Washington, D.C.",
   "country": "美國",
-  "count": 514
+  "count": 513
  },
  "museum_of_modern_art_new_york": {
   "en": "Museum of Modern Art, New York",
@@ -18,7 +18,7 @@
   "zh": "羅浮宮",
   "city": "Paris",
   "country": "法國",
-  "count": 184
+  "count": 182
  },
  "national_gallery_london": {
   "en": "National Gallery, London",
@@ -32,14 +32,14 @@
   "zh": "奧賽美術館",
   "city": "Paris",
   "country": "法國",
-  "count": 142
+  "count": 140
  },
  "metropolitan_museum_of_art_new_york": {
   "en": "Metropolitan Museum of Art, New York",
   "zh": "大都會藝術博物館",
   "city": "New York",
   "country": "美國",
-  "count": 115
+  "count": 116
  },
  "private_collection": {
   "en": "Private collection",
@@ -88,7 +88,7 @@
   "zh": "莫瑞泰斯皇家美術館",
   "city": "The Hague",
   "country": "荷蘭",
-  "count": 17
+  "count": 18
  },
  "tretyakov_gallery_moscow": {
   "en": "Tretyakov Gallery, Moscow",
@@ -158,7 +158,7 @@
   "zh": "比利時皇家美術館",
   "city": "Brussels",
   "country": "比利時",
-  "count": 12
+  "count": 13
  },
  "gallerie_dell_accademia_venice": {
   "en": "Gallerie dell'Accademia, Venice",
@@ -179,7 +179,7 @@
   "zh": "柏林舊國家美術館",
   "city": "Berlin",
   "country": "德國",
-  "count": 17
+  "count": 18
  },
  "kr_ller_m_ller_museum_otterlo": {
   "en": "Kröller-Müller Museum, Otterlo",
@@ -221,7 +221,7 @@
   "zh": "蓋提博物館",
   "city": "Los Angeles",
   "country": "美國",
-  "count": 14
+  "count": 13
  },
  "wadsworth_atheneum_hartford": {
   "en": "Wadsworth Atheneum, Hartford",
@@ -235,7 +235,7 @@
   "zh": "艾米塔吉博物館",
   "city": "St Petersburg",
   "country": "俄羅斯",
-  "count": 22
+  "count": 24
  },
  "museum_of_fine_arts_boston": {
   "en": "Museum of Fine Arts, Boston",
@@ -263,14 +263,14 @@
   "zh": "路德維希博物館",
   "city": "Cologne",
   "country": "德國",
-  "count": 4
+  "count": 5
  },
  "centre_pompidou_paris": {
   "en": "Centre Pompidou, Paris",
   "zh": "龐畢度中心",
   "city": "Paris",
   "country": "法國",
-  "count": 16
+  "count": 15
  },
  "neue_nationalgalerie_berlin": {
   "en": "Neue Nationalgalerie, Berlin",
@@ -372,7 +372,7 @@
   "zh": "曼徹斯特美術館",
   "city": "Manchester",
   "country": "英國",
-  "count": 6,
+  "count": 7,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "phillips_collection_washington": {
@@ -404,7 +404,7 @@
   "zh": "阿特尼姆美術館",
   "city": "Helsinki",
   "country": "芬蘭",
-  "count": 8,
+  "count": 7,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "san_francisco_museum_of_modern_art": {
@@ -899,7 +899,7 @@
   "zh": "法蘭斯·哈爾斯博物館",
   "city": "Haarlem",
   "country": "荷蘭",
-  "count": 5,
+  "count": 4,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "national_gallery_of_ireland_dublin": {
@@ -1003,7 +1003,7 @@
   "zh": "根特美術館",
   "city": "Ghent",
   "country": "比利時",
-  "count": 4,
+  "count": 3,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "fitzwilliam_museum_cambridge": {
@@ -1099,7 +1099,7 @@
   "zh": "索羅亞博物館",
   "city": "Madrid",
   "country": "西班牙",
-  "count": 3,
+  "count": 2,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "skagens_museum_denmark": {
@@ -1107,7 +1107,7 @@
   "zh": "斯卡恩美術館",
   "city": "Skagen",
   "country": "丹麥",
-  "count": 1,
+  "count": 2,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "nationalmuseum_stockholm": {
@@ -1131,7 +1131,7 @@
   "zh": "安特衛普皇家美術館",
   "city": "Antwerp",
   "country": "比利時",
-  "count": 11,
+  "count": 12,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "various_courtauld_philadelphia_mus_e_d_orsay": {
@@ -1427,7 +1427,7 @@
   "zh": "海牙美術館",
   "city": "The Hague",
   "country": "荷蘭",
-  "count": 11,
+  "count": 12,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "stedelijk_museum_amsterdam": {
@@ -1683,7 +1683,7 @@
   "zh": "國家肖像館",
   "city": "Washington, D.C.",
   "country": "美國",
-  "count": 2,
+  "count": 3,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
  "pinacoteca_ambrosiana_milan": {
@@ -1852,7 +1852,7 @@
   "zh": "施泰德美術館",
   "city": "Frankfurt",
   "country": "德國",
-  "count": 8
+  "count": 9
  },
  "six_collection_amsterdam": {
   "en": "Six Collection, Amsterdam",
@@ -1957,7 +1957,7 @@
   "zh": "克利夫蘭藝術博物館",
   "city": "Cleveland",
   "country": "美國",
-  "count": 9
+  "count": 8
  },
  "palais_des_beaux_arts_lille": {
   "en": "Palais des Beaux-Arts, Lille",
@@ -2034,7 +2034,7 @@
   "zh": "耶魯英國藝術中心",
   "city": "New Haven",
   "country": "美國",
-  "count": 7
+  "count": 8
  },
  "national_maritime_museum_greenwich_london": {
   "en": "National Maritime Museum, Greenwich, London",
@@ -2083,7 +2083,7 @@
   "zh": "法布爾博物館",
   "city": "Montpellier",
   "country": "法國",
-  "count": 5
+  "count": 6
  },
  "petit_palais_paris": {
   "en": "Petit Palais, Paris",
@@ -2097,7 +2097,7 @@
   "zh": "新嘉士伯美術館",
   "city": "Copenhagen",
   "country": "丹麥",
-  "count": 2
+  "count": 3
  },
  "kunsthalle_mannheim_mannheim": {
   "en": "Kunsthalle Mannheim, Mannheim",
@@ -2160,7 +2160,7 @@
   "zh": "普希金國家造型藝術博物館",
   "city": "Moscow",
   "country": "俄羅斯",
-  "count": 7
+  "count": 6
  },
  "museum_folkwang_essen": {
   "en": "Museum Folkwang, Essen",
@@ -2188,7 +2188,7 @@
   "zh": "舊金山美術館",
   "city": "San Francisco",
   "country": "美國",
-  "count": 4
+  "count": 5
  },
  "foundation_e_g_b_hrle_collection_zurich": {
   "en": "Foundation E.G. Bührle Collection, Zurich",
@@ -2447,7 +2447,7 @@
   "zh": "霍華德城堡",
   "city": "Yorkshire",
   "country": "英國",
-  "count": 1
+  "count": 0
  },
  "brooklyn_museum_new_york": {
   "en": "Brooklyn Museum, New York",
@@ -2461,7 +2461,7 @@
   "zh": "伯明罕博物館與美術館",
   "city": "Birmingham",
   "country": "英國",
-  "count": 11
+  "count": 10
  },
  "mus_e_des_beaux_arts_de_lyon_lyon": {
   "en": "Musée des Beaux-Arts de Lyon, Lyon",
@@ -2629,7 +2629,7 @@
   "zh": "斯圖加特州立美術館",
   "city": "Stuttgart",
   "country": "德國",
-  "count": 4
+  "count": 3
  },
  "museum_kunstpalast_d_sseldorf": {
   "en": "Museum Kunstpalast, Düsseldorf",
@@ -3035,7 +3035,7 @@
   "zh": "館藏不詳",
   "city": "",
   "country": "",
-  "count": 411
+  "count": 407
  },
  "staatliche_antikensammlungen_munich": {
   "en": "Staatliche Antikensammlungen, Munich",
@@ -3266,7 +3266,7 @@
   "zh": "雷卡納蒂市立美術館",
   "city": "Recanati",
   "country": "義大利",
-  "count": 1
+  "count": 0
  },
  "museo_civico_bassano_del_grappa": {
   "en": "Museo Civico, Bassano del Grappa",
@@ -3469,7 +3469,7 @@
   "zh": "多德雷赫特博物館",
   "city": "Dordrecht",
   "country": "荷蘭",
-  "count": 2
+  "count": 1
  },
  "germanisches_nationalmuseum_nuremberg": {
   "en": "Germanisches Nationalmuseum, Nuremberg",
@@ -3560,7 +3560,7 @@
   "zh": "普魯士宮廷與園林基金會",
   "city": "Berlin",
   "country": "德國",
-  "count": 1
+  "count": 0
  },
  "civiche_raccolte_d_arte_milan": {
   "en": "Civiche Raccolte d'Arte, Milan",
@@ -3581,7 +3581,7 @@
   "zh": "費奧多西亞艾瓦佐夫斯基美術館",
   "city": "Feodosia",
   "country": "烏克蘭",
-  "count": 3
+  "count": 2
  },
  "haggin_museum_stockton": {
   "en": "Haggin Museum, Stockton",
@@ -3616,7 +3616,7 @@
   "zh": "南特市立博物館",
   "city": "Nantes",
   "country": "法國",
-  "count": 1
+  "count": 0
  },
  "kyiv_national_museum_of_russian_art": {
   "en": "Kyiv National Museum of Russian Art",
@@ -3637,7 +3637,7 @@
   "zh": "賓夕法尼亞美術學院",
   "city": "Philadelphia",
   "country": "美國",
-  "count": 3
+  "count": 4
  },
  "forest_lawn_museum_glendale": {
   "en": "Forest Lawn Museum, Glendale",
@@ -3651,7 +3651,7 @@
   "zh": "巴爾的摩沃爾特斯藝術博物館",
   "city": "Baltimore",
   "country": "美國",
-  "count": 2
+  "count": 1
  },
  "lady_lever_art_gallery_port_sunlight": {
   "en": "Lady Lever Art Gallery, Port Sunlight",
@@ -3770,7 +3770,7 @@
   "zh": "希施普龍收藏館",
   "city": "Copenhagen",
   "country": "丹麥",
-  "count": 2
+  "count": 1
  },
  "museum_of_national_history_frederiksborg_castle_hiller_d": {
   "en": "Museum of National History, Frederiksborg Castle, Hillerød",
@@ -3987,6 +3987,69 @@
   "zh": "威尼斯托倫蒂諾聖尼古拉教堂",
   "city": "Venice",
   "country": "義大利",
+  "count": 1
+ },
+ "mus_e_courbet": {
+  "en": "Musée Courbet",
+  "zh": "庫爾貝美術館",
+  "city": "奧爾南",
+  "country": "法國",
+  "count": 1
+ },
+ "villa_colloredo_mels_museum": {
+  "en": "Villa Colloredo Mels Museum",
+  "zh": "科洛雷多—梅爾斯別墅市立博物館",
+  "city": "雷卡納蒂",
+  "country": "義大利",
+  "count": 1
+ },
+ "residenzgalerie_salzburg": {
+  "en": "Residenzgalerie Salzburg",
+  "zh": "薩爾斯堡官邸畫廊",
+  "city": "薩爾斯堡",
+  "country": "奧地利",
+  "count": 1
+ },
+ "statens_museum_for_kunst_smk": {
+  "en": "Statens Museum for Kunst (SMK)",
+  "zh": "丹麥國家美術館",
+  "city": "哥本哈根",
+  "country": "丹麥",
+  "count": 1
+ },
+ "feodosia_national_gallery": {
+  "en": "Feodosia National Gallery",
+  "zh": "費奧多西亞艾瓦佐夫斯基國家畫廊",
+  "city": "費奧多西亞",
+  "country": "克里米亞",
+  "count": 1
+ },
+ "mildred_lane_kemper_art_museum": {
+  "en": "Mildred Lane Kemper Art Museum",
+  "zh": "肯珀藝術博物館（聖路易華盛頓大學）",
+  "city": "聖路易",
+  "country": "美國",
+  "count": 1
+ },
+ "russian_museum": {
+  "en": "Russian Museum",
+  "zh": "俄羅斯博物館",
+  "city": "聖彼得堡",
+  "country": "俄羅斯",
+  "count": 1
+ },
+ "turku_art_museum": {
+  "en": "Turku Art Museum",
+  "zh": "圖爾庫藝術博物館",
+  "city": "圖爾庫",
+  "country": "芬蘭",
+  "count": 1
+ },
+ "mus_e_des_beaux_arts_de_bordeaux": {
+  "en": "Musée des Beaux-Arts de Bordeaux",
+  "zh": "波爾多美術館",
+  "city": "波爾多",
+  "country": "法國",
   "count": 1
  }
 }

@@ -24,6 +24,7 @@ async function runBatch(b){const model=document.getElementById('model').value;L(
  let r=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${K()}`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(mk())});
  let j=await r.json();
  if(!r.ok&&r.status===429&&grounded){L('grounding 配額不足（429），改以無搜尋模式重試');grounded=false;await new Promise(x=>setTimeout(x,2000));r=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${K()}`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(mk())});j=await r.json()}
+ for(let k=0;k<4&&!r.ok&&(r.status===503||r.status===429||r.status>=500);k++){L(`HTTP ${r.status}，${20*(k+1)} 秒後重試（${k+1}/4）`);await new Promise(x=>setTimeout(x,20000*(k+1)));r=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${K()}`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(mk())});j=await r.json()}
  if(!r.ok){L('錯誤：'+JSON.stringify(j).slice(0,500));return false}
  const txt=(j.candidates?.[0]?.content?.parts||[]).map(p=>p.text||'').join('');
  const grounding=j.candidates?.[0]?.groundingMetadata||null;
@@ -34,5 +35,5 @@ async function runBatch(b){const model=document.getElementById('model').value;L(
 window.runAll=async()=>{document.getElementById('all').checked=true;document.getElementById('run').click()};
 document.getElementById('run').onclick=async()=>{window.__AUD.state='running';if(!K()){L('請先儲存金鑰');return}if(!document.getElementById('model').value){L('請先列出模型');return}
  const all=document.getElementById('all').checked;const sel=+document.getElementById('batch').value;
- for(const b of B){if(!all&&b.batch!==sel)continue;const ok=await runBatch(b);if(!ok)break;await new Promise(r=>setTimeout(r,3000))}window.__AUD.state='finished';L('全部結束')};
+ for(const b of B){if(!all&&b.batch!==sel)continue;if(all&&window.__AUD.done.includes(b.batch))continue;const ok=await runBatch(b);if(!ok){L(`第 ${b.batch} 批失敗，跳過續跑下一批`);continue}await new Promise(r=>setTimeout(r,3000))}window.__AUD.state='finished';L('全部結束')};
 </script></body></html>
