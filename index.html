@@ -30,7 +30,8 @@ h1,h2,h3{font-family:var(--serif);font-weight:700;text-wrap:balance;margin:0}
 .tabs button{background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);font:inherit;font-weight:500;padding:8px 12px;cursor:pointer;white-space:nowrap}
 .tabs button[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
 .tabs button:focus-visible{outline:2px solid var(--accent2);outline-offset:-2px}
-main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:18px 60px;max-width:1240px;margin:0 auto}
+main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:18px 60px;max-width:1800px;margin:0 auto}
+#v-index,#v-movements #mlist,#v-quiz{max-width:1240px}
 .view{min-width:0}
 .lead{color:var(--muted);max-width:68ch;margin:0 0 14px}
 .lbl{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-family:var(--latin);font-weight:600}
@@ -69,7 +70,8 @@ main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px
 .ctrl select,.ctrl input{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);padding:6px 8px;border-radius:3px;min-width:0}
 .ctrl input[type=search]{flex:1 1 180px}
 .ctrl label{font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:4px}
-.wall{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.wall{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+@media (max-width:700px){.wall{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}}
 .wk{background:var(--panel);border:1px solid var(--line);padding:0;cursor:pointer;text-align:left;color:inherit;font:inherit;display:flex;flex-direction:column;min-width:0}
 .wk:hover{border-color:var(--accent)}
 .wk .ph{aspect-ratio:1;background:var(--bg2);display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
@@ -83,9 +85,14 @@ main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px
 /* lightbox */
 .lb{position:fixed;inset:0;background:rgba(10,10,12,.92);z-index:20;display:none;overflow:auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:calc(16px + env(safe-area-inset-top,0px)) calc(24px + env(safe-area-inset-bottom,0px))}
 .lb.on{display:block}
-.lbin{max-width:1100px;margin:0 auto;display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:18px;color:#ebe7df}
+.lbin{max-width:1800px;margin:0 auto;display:grid;grid-template-columns:minmax(0,7fr) minmax(0,3fr);gap:22px;color:#ebe7df}
+.lb.full .lbin{grid-template-columns:1fr;max-width:none}.lb.full .meta{display:none}
+.lb.full img{max-height:calc(100vh - 40px)}
+.hires{font-size:.78rem;color:#b9b3a7;margin-top:6px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.hires a{color:var(--accent2)}
+.hires button{background:none;border:1px solid #55555e;color:#ebe7df;font:inherit;font-size:.78rem;padding:2px 10px;cursor:pointer;border-radius:3px}
 @media (max-width:760px){.lbin{grid-template-columns:1fr}}
-.lbin img,.lbin canvas{max-width:100%;max-height:78vh;object-fit:contain;display:block;margin:0 auto;background:#000}
+.lbin img,.lbin canvas{max-width:100%;max-height:86vh;object-fit:contain;display:block;margin:0 auto;background:#000;cursor:zoom-in}
 .lbin img.pre{filter:blur(6px);opacity:.7}
 .lbin .meta h2{font-size:1.45rem;color:#ebe7df}
 .lbin .meta .en{font-family:var(--latin);font-style:italic;font-size:1.05rem;color:#b9b3a7}
@@ -248,9 +255,20 @@ const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 const az=a=>(A[a]&&A[a].zh)||a;
 const ayrs=a=>{const x=A[a];if(!x||!x.birth)return'';const f=y=>y<0?`前${-y}`:y;return `${f(x.birth)}–${x.death?f(x.death):''}`};
 const byMov={}; W.forEach(w=>{(byMov[w.m]=byMov[w.m]||[]).push(w)});
+function hiUrls(w){
+  if(!w.img_ext) return null;
+  if(w.src==='NGA'){const base=w.img_ext.split('/full/')[0];return {view:base+'/full/!2800,2800/0/default.jpg',orig:base+'/full/max/0/default.jpg'}}
+  if(w.src==='Commons'){const base=w.img_ext.split('?')[0];return {view:base+'?width=2800',orig:base}}
+  return null;
+}
 function bigImg(w,target,fallback){
-  if(!w.img){target.innerHTML=fallback;return}
-  target.innerHTML=`<img src="${esc(w.img)}" alt="${esc(w.z)}" onerror="this.outerHTML='<p class=noimg style=padding:30px>大圖載入失敗，請用右側館藏或來源連結查看。</p>'">`;
+  if(!w.img&&!w.img_ext){target.innerHTML=fallback;return}
+  const hi=hiUrls(w); const my=target.dataset.cur=w.id;
+  target.innerHTML=`<img id="lbimg" src="${esc(w.img||hi.view)}" alt="${esc(w.z)}" onerror="this.outerHTML='<p class=noimg style=padding:30px>大圖載入失敗，請用右側館藏或來源連結查看。</p>'">
+  <div class="hires" id="hires">${hi?`<span id="histat">本地 800px，載入高解析度中…</span><a href="${esc(hi.orig)}" target="_blank" rel="noopener">開啟原檔（最高解析度）</a>`:'<span>僅本地 800px</span>'}<button id="fullbtn">全螢幕看圖</button></div>`;
+  const img=target.querySelector('#lbimg'); if(img) img.onclick=()=>document.getElementById('lb').classList.toggle('full');
+  const fb=target.querySelector('#fullbtn'); if(fb) fb.onclick=()=>document.getElementById('lb').classList.toggle('full');
+  if(hi){const pre=new Image();pre.onload=()=>{if(target.dataset.cur!==my)return;const im=target.querySelector('#lbimg');if(im){im.src=hi.view;im.style.cursor='zoom-in'}const st=target.querySelector('#histat');if(st)st.textContent=`高解析度 ${pre.naturalWidth}×${pre.naturalHeight}（線上載入自 ${w.src}）`};pre.onerror=()=>{const st=target.querySelector('#histat');if(st)st.textContent='高解析度版本載入失敗，顯示本地 800px'};pre.src=hi.view}
 }
 const yearNum=s=>{const m=String(s).match(/(\d{3,4})/);if(!m)return null;let y=+m[1];if(/BC/.test(s))y=-y;return y};
 document.getElementById('stat').textContent=`${M.length} 流派 · ${Object.keys(A).length} 畫家 · ${W.length} 作品（${W.filter(w=>w.img).length} 有圖）· ${Object.keys(MU).length} 館藏`;
@@ -306,7 +324,7 @@ function openMov(id){
 }
 /* works wall */
 function card(w,list){
-  return `<button class="wk" data-id="${w.id}"><div class="ph">${w.thumb?`<img src="${esc(w.thumb)}" alt="${esc(w.z)}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=noimg>圖片載入失敗<br>點開看館藏連結</div>'">`:`<div class="noimg">${w.pd?'查無圖檔':'受著作權保護'}<br>點開看連結</div>`}<span class="tag">${esc(MI[w.m].zh)}</span></div><div class="cap"><b>${esc(w.z)}</b><span>${esc(az(w.a))} · ${esc(w.y)}</span><span class="mu">${esc(muZh(w))}</span></div></button>`;
+  return `<button class="wk" data-id="${w.id}"><div class="ph">${w.thumb?`<img src="${esc(w.img||w.thumb)}" alt="${esc(w.z)}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=noimg>圖片載入失敗<br>點開看館藏連結</div>'">`:`<div class="noimg">${w.pd?'查無圖檔':'受著作權保護'}<br>點開看連結</div>`}<span class="tag">${esc(MI[w.m].zh)}</span></div><div class="cap"><b>${esc(w.z)}</b><span>${esc(az(w.a))} · ${esc(w.y)}</span><span class="mu">${esc(muZh(w))}</span></div></button>`;
 }
 let curList=[];
 function renderWall(el,ws,list){el.innerHTML=ws.map(w=>card(w)).join('');el.querySelectorAll('.wk').forEach(b=>b.onclick=()=>openLb(b.dataset.id,list))}
@@ -322,7 +340,7 @@ function moreWall(){const el=document.getElementById('wall');const part=filtered
 /* lightbox */
 let lbList=[], lbIdx=0;
 function openLb(id,list){lbList=list;lbIdx=list.findIndex(w=>w.id===id);drawLb();document.getElementById('lb').classList.add('on');document.body.style.overflow='hidden'}
-function closeLb(){document.getElementById('lb').classList.remove('on');document.body.style.overflow=''}
+function closeLb(){document.getElementById('lb').classList.remove('on');document.getElementById('lb').classList.remove('full');document.body.style.overflow=''}
 function drawLb(){
   const w=lbList[lbIdx]; const m=MI[w.m];
   document.getElementById('lbin').innerHTML=`<div id="lbpic"></div>
