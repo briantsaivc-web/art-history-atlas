@@ -47,6 +47,8 @@ tools/validate.py   資料一致性檢查
 ## 資料品質分級
 - `tier: canon`／`nga`（v7 以前）：圖檔經人工或 API 逐件確認。
 - `tier: v8`／`v9`：題名、年代、館藏、說明由 AI 依知識整理；圖檔以 Commons 站內搜尋自動配對（抽樣 40 件正確率約 95%）。每件的 `note_src`／`verif` 欄位記錄查證狀態。有圖者另以 Wikidata 比對：`wd` 欄位存 Wikidata 的題名／年代／館藏，`wd_flag` 標出不符者（可能是同題材的另一版本或複製品），請優先人工複核這些條目。發現錯誤請直接改 works.json。
+- `tier: v10`（2026-10-19）：作品條目直接取自 Wikidata SPARQL（創作者 P170＋圖檔 P18＋P31=painting），題名／年代／館藏為 Wikidata 結構化資料（`wd.q` 為條目 Q 編號），圖檔即該條目的 P18；中文題名與 45–80 字說明由 AI 撰寫，資料稀少者照實寫短。館藏為 Wikidata 佔位值者記為館藏不詳。
+- Gemini 稽核（2026-10-19）：201 筆 `wd_flag` 條目經 gemini-3-flash-preview 稽核（未啟用 Google 搜尋，結論未經網路查證），結果存於 `audit` 欄位：`verdict` A＝圖檔為另一版本、B＝我方登錄有誤（僅在與 Wikidata 一致時套用修正，原值存 `audit.applied`）、C＝同一作品寫法差異、D＝無法判定。`audit.html` 為稽核工具頁，金鑰只存於瀏覽器 localStorage。
 - 畫家介紹（bios.json）由 AI 整理，未逐條查證原始文獻；`confidence: low` 者史料稀少。
 
 ## 資料來源與版權
