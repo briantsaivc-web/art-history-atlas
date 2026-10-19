@@ -1,0 +1,35 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>Gemini 稽核員 — 藝術史大全集</title>
+<style>body{font-family:system-ui,"Noto Sans TC",sans-serif;max-width:900px;margin:30px auto;padding:0 16px;line-height:1.6}input,select,button{font:inherit;padding:6px 10px}#log{white-space:pre-wrap;background:#f4f4f4;padding:12px;border-radius:6px;max-height:50vh;overflow:auto;font-size:13px}.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:8px 0}</style></head><body>
+<h2>Gemini 稽核員（wd_flag 201 件）</h2>
+<p>此頁由 Claude 操作執行；<b>你只需貼一次金鑰並按「儲存金鑰」</b>。金鑰只存在這個瀏覽器的 localStorage，不會傳到別處；每批 20 件，結果自動下載為 <code>gemini_audit_batchN.json</code>。</p>
+<div class="row"><label>Gemini API 金鑰 <input id="key" type="password" size="48" placeholder="AIza..."></label><button id="save">儲存金鑰</button><button id="clear">清除金鑰</button></div>
+<div class="row"><label>模型 <select id="model"></select></label><button id="models">列出模型</button>
+<label>批次 <select id="batch"></select></label><label><input type="checkbox" id="all"> 跑完全部批次</label><button id="run">開始</button></div>
+<div id="log"></div>
+<script>
+const L=m=>{const el=document.getElementById('log');el.textContent+=m+'\n';el.scrollTop=1e9};
+const K=()=>localStorage.getItem('gkey')||'';
+document.getElementById('key').value=K();
+document.getElementById('clear').onclick=()=>{localStorage.removeItem('gkey');document.getElementById('key').value='';L('金鑰已清除')};
+window.__AUD={state:'idle',done:[],results:{}};
+document.getElementById('save').onclick=()=>{localStorage.setItem('gkey',document.getElementById('key').value.trim());L('金鑰已儲存於本機')};
+const BATCH_URL='https://raw.githubusercontent.com/briantsaivc-web/art-history-atlas/main/work_gemini_batches.json';
+let B=[];
+async function loadBatches(){B=await fetch(BATCH_URL,{cache:'no-store'}).then(r=>r.json());const s=document.getElementById('batch');s.innerHTML=B.map(b=>`<option value="${b.batch}">第 ${b.batch} 批（${b.ids.length} 件）</option>`).join('');L('載入 '+B.length+' 批題目')}
+loadBatches().catch(e=>L('載入題目失敗：'+e));
+document.getElementById('models').onclick=async()=>{try{const r=await fetch('https://generativelanguage.googleapis.com/v1beta/models?key='+K()).then(r=>r.json());const ms=(r.models||[]).map(m=>m.name.replace('models/','')).filter(n=>/gemini/.test(n)&&!/embedding|tts|image|audio|live/.test(n));const s=document.getElementById('model');s.innerHTML=ms.map(n=>`<option>${n}</option>`).join('');const pref=ms.find(n=>/pro/.test(n)&&!/preview|exp/.test(n))||ms.find(n=>/pro/.test(n))||ms[0];if(pref)s.value=pref;L('模型：'+ms.join(', '))}catch(e){L('列模型失敗：'+e)}};
+async function runBatch(b){const model=document.getElementById('model').value;L(`第 ${b.batch} 批 → ${model} …`);
+ const body={contents:[{role:'user',parts:[{text:b.prompt}]}],tools:[{google_search:{}}],generationConfig:{temperature:0.1}};
+ const r=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${K()}`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+ const j=await r.json(); if(!r.ok){L('錯誤：'+JSON.stringify(j).slice(0,500));return false}
+ const txt=(j.candidates?.[0]?.content?.parts||[]).map(p=>p.text||'').join('');
+ const grounding=j.candidates?.[0]?.groundingMetadata||null;
+ let parsed=null;try{parsed=JSON.parse(txt.replace(/^```json|```$/gm,'').trim())}catch(e){}
+ const out={batch:b.batch,model,ids:b.ids,raw:txt,parsed,grounding_queries:grounding?.webSearchQueries||[],grounding_chunks:(grounding?.groundingChunks||[]).map(c=>c.web?.uri).filter(Boolean),usage:j.usageMetadata||null};
+ const blob=new Blob([JSON.stringify(out,null,1)],{type:'application/json'});const u=URL.createObjectURL(blob);const a=document.createElement('a');a.href=u;a.download=`gemini_audit_batch${b.batch}.json`;document.body.appendChild(a);a.click();a.remove();
+ window.__AUD.results[b.batch]=out;window.__AUD.done.push(b.batch);L(`第 ${b.batch} 批完成：解析 ${parsed?parsed.length:'失敗'} 筆，搜尋 ${out.grounding_queries.length} 次，來源 ${out.grounding_chunks.length} 個，tokens ${j.usageMetadata?.totalTokenCount||'?'}`);return true}
+window.runAll=async()=>{document.getElementById('all').checked=true;document.getElementById('run').click()};
+document.getElementById('run').onclick=async()=>{window.__AUD.state='running';if(!K()){L('請先儲存金鑰');return}if(!document.getElementById('model').value){L('請先列出模型');return}
+ const all=document.getElementById('all').checked;const sel=+document.getElementById('batch').value;
+ for(const b of B){if(!all&&b.batch!==sel)continue;const ok=await runBatch(b);if(!ok)break;await new Promise(r=>setTimeout(r,3000))}window.__AUD.state='finished';L('全部結束')};
+</script></body></html>
