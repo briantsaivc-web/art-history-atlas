@@ -1,0 +1,3220 @@
+{
+ "file": "works.json",
+ "key": "id",
+ "description": "art_links: pd=false 作品改用更好的來源連結並補 wd.q",
+ "set": {
+  "c0523": {
+   "wd": {
+    "q": "Q19918136",
+    "label": "The Seine at Chatou",
+    "y": [
+     1906
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   },
+   "src_url": "https://www.metmuseum.org/art/collection/search/490034"
+  },
+  "c0529": {
+   "wd": {
+    "q": "Q20268352",
+    "label": "The Last Supper",
+    "y": [
+     1909
+    ],
+    "mu": [
+     "\"degenerate art\" collection",
+     "Statens Museum for Kunst"
+    ]
+   },
+   "src_url": "https://collection.smk.dk/#/en/detail/KMS6202"
+  },
+  "c0538": {
+   "wd": {
+    "q": "Q75406658",
+    "label": "Jawlensky and Werefkin",
+    "y": [],
+    "mu": [
+     "Lenbachhaus"
+    ]
+   },
+   "src_url": "https://sammlungonline.lenbachhaus.de/objekt/jawlensky-und-werefkin-30018337.html"
+  },
+  "c0539": {
+   "wd": {
+    "q": "Q7720035",
+    "label": "The Bride of the Wind",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "\"degenerate art\" collection",
+     "Hamburger Kunsthalle",
+     "Kunstmuseum Basel"
+    ]
+   },
+   "src_url": "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=118283&viewType=detailView"
+  },
+  "c0550": {
+   "wd": {
+    "q": "Q910199",
+    "label": "Les Demoiselles d'Avignon",
+    "y": [
+     1907
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://pablo-picasso.space/obras-de-picasso/las-senoritas-de-avignon-les-demoiselles-davignon/"
+  },
+  "c0551": {
+   "wd": {
+    "q": "Q7232244",
+    "label": "Portrait de Daniel Henry Kahnweiler",
+    "y": [
+     1910
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   },
+   "src_url": "https://www.artic.edu/artworks/111060"
+  },
+  "c0552": {
+   "wd": {
+    "q": "Q175036",
+    "label": "Guernica",
+    "y": [
+     1937
+    ],
+    "mu": [
+     "Museo Nacional Centro de Arte Reina Sofía"
+    ]
+   },
+   "src_url": "http://www.museoreinasofia.es/en/collection/artwork/guernica"
+  },
+  "c0553": {
+   "wd": {
+    "q": "Q1113293",
+    "label": "Three Musicians",
+    "y": [
+     1921
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/Three_Musicians_%28Picasso%2C_New_York_City%29"
+  },
+  "c0554": {
+   "wd": {
+    "q": "Q3228112",
+    "label": "The Old Guitarist",
+    "y": [
+     1903
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   },
+   "src_url": "https://www.artic.edu/artworks/28067"
+  },
+  "c0555": {
+   "wd": {
+    "q": "Q5433371",
+    "label": "Family of Saltimbanques",
+    "y": [
+     1905
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   },
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.46665.html"
+  },
+  "c0556": {
+   "wd": {
+    "q": "Q3267954",
+    "label": "Weeping Woman",
+    "y": [
+     1937
+    ],
+    "mu": [
+     "Tate Modern",
+     "Tate"
+    ]
+   },
+   "src_url": "http://www.tate.org.uk/art/artworks/picasso-weeping-woman-t05010"
+  },
+  "c0557": {
+   "wd": {
+    "q": "Q1162671",
+    "label": "Houses at l'Estaque",
+    "y": [
+     1908
+    ],
+    "mu": [
+     "Kunstmuseum Bern"
+    ]
+   },
+   "src_url": "https://www.bridgemanimages.com/en/asset/165152"
+  },
+  "c0567": {
+   "wd": {
+    "q": "Q6508028",
+    "label": "Le goûter",
+    "y": [
+     1911
+    ],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   },
+   "src_url": "https://www.philamuseum.org/objects/51056"
+  },
+  "c0573": {
+   "wd": {
+    "q": "Q1982400",
+    "label": "The Funeral of the Anarchist Galli",
+    "y": [
+     1911
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79225"
+  },
+  "c0574": {
+   "wd": {
+    "q": "Q19883641",
+    "label": "Dynamic Hieroglyphic of the Bal Tabarin",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79419"
+  },
+  "c0575": {
+   "wd": {
+    "q": "Q26996072",
+    "label": "Cyclist",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "Russian Museum",
+     "Art Culture Museum Petrograd"
+    ]
+   },
+   "src_url": "http://rusmuseumvrm.ru/data/collections/painting/19_20/zhb_1600/index.php?lang=ru"
+  },
+  "c0576": {
+   "wd": {
+    "q": "Q1154410",
+    "label": "The Song of Love",
+    "y": [
+     1914
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/The_Song_of_Love"
+  },
+  "c0577": {
+   "wd": {
+    "q": "Q4289293",
+    "label": "Mystery and Melancholy of a Street",
+    "y": [
+     1914
+    ],
+    "mu": []
+   },
+   "src_url": "https://en.wikipedia.org/wiki/Mystery_and_Melancholy_of_a_Street"
+  },
+  "c0581": {
+   "wd": {
+    "q": "Q2720294",
+    "label": "L.H.O.O.Q.",
+    "y": [
+     1919
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   },
+   "src_url": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_199796"
+  },
+  "c0582": {
+   "wd": {
+    "q": "Q107450751",
+    "label": "Cut with the Kitchen Knife Dada through the Last Weimar Beer-Belly Cultural Epoch in Germany",
+    "y": [
+     1919
+    ],
+    "mu": [
+     "Neue Nationalgalerie"
+    ]
+   },
+   "src_url": "https://www.wikidata.org/wiki/Q107450751"
+  },
+  "c0588": {
+   "wd": {
+    "q": "Q118121590",
+    "label": "Republican Automatons",
+    "y": [
+     1920
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/34169"
+  },
+  "c0603": {
+   "wd": {
+    "q": "Q140570789",
+    "label": "RED AND BLUE",
+    "y": [
+     1923
+    ],
+    "mu": []
+   },
+   "src_url": "https://www.jeanneret-chandigarh.com"
+  },
+  "c0609": {
+   "wd": {
+    "q": "Q20192219",
+    "label": "Zirchow VII",
+    "y": [
+     1918
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   },
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.50664.html"
+  },
+  "c0614": {
+   "wd": {
+    "q": "Q25729",
+    "label": "The Persistence of Memory",
+    "y": [
+     1931
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory"
+  },
+  "c0615": {
+   "wd": {
+    "q": "Q172558",
+    "label": "Swans Reflecting Elephants",
+    "y": [
+     1937
+    ],
+    "mu": []
+   },
+   "src_url": "https://www.salvador-dali.org/en/artwork/catalogue-raisonne-paintings/colleccions/private-collection/454/swans-reflecting-elephants"
+  },
+  "c0616": {
+   "wd": {
+    "q": "Q30521",
+    "label": "The Sacrament of the Last Supper",
+    "y": [
+     1955
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   },
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.46590.html"
+  },
+  "c0617": {
+   "wd": {
+    "q": "Q1061035",
+    "label": "The Treachery of Images",
+    "y": [
+     1929
+    ],
+    "mu": [
+     "Los Angeles County Museum of Art",
+     "Mr. and Mrs. William Preston Harrison Collection"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/The_Treachery_of_Images"
+  },
+  "c0618": {
+   "wd": {
+    "q": "Q1151384",
+    "label": "The Son of Man",
+    "y": [
+     1964
+    ],
+    "mu": []
+   },
+   "src_url": "https://historia-arte.com/obras/el-hijo-del-hombre"
+  },
+  "c0619": {
+   "wd": {
+    "q": "Q3230453",
+    "label": "The lovers",
+    "y": [
+     1930,
+     1928
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/The_Lovers_%28Magritte%29"
+  },
+  "c0622": {
+   "wd": {
+    "q": "Q3211044",
+    "label": "The Birth of the World",
+    "y": [
+     1925
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/The_Birth_of_the_World"
+  },
+  "c0623": {
+   "wd": {
+    "q": "Q1052784",
+    "label": "The Elephant Celebes",
+    "y": [
+     1921
+    ],
+    "mu": [
+     "Tate"
+    ]
+   },
+   "src_url": "http://www.tate.org.uk/art/artworks/ernst-celebes-t01988"
+  },
+  "c0626": {
+   "wd": {
+    "q": "Q28549263",
+    "label": "Sleeping Venus",
+    "y": [
+     1944
+    ],
+    "mu": [
+     "Tate"
+    ]
+   },
+   "src_url": "http://www.tate.org.uk/art/artworks/delvaux-sleeping-venus-t00134"
+  },
+  "c0629": {
+   "wd": {
+    "q": "Q19917972",
+    "label": "Self-Portrait",
+    "y": [
+     1937
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   },
+   "src_url": "https://www.metmuseum.org/art/collection/search/492697"
+  },
+  "c0630": {
+   "wd": {
+    "q": "Q20816857",
+    "label": "Birthday",
+    "y": [
+     1942
+    ],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   },
+   "src_url": "https://www.philamuseum.org/objects/93232"
+  },
+  "c0632": {
+   "wd": {
+    "q": "Q19917650",
+    "label": "Tomorrow is Never",
+    "y": [
+     1955
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   },
+   "src_url": "https://www.metmuseum.org/art/collection/search/488856"
+  },
+  "c0634": {
+   "wd": {
+    "q": "Q1549584",
+    "label": "Metropolis",
+    "y": [
+     1927
+    ],
+    "mu": [
+     "Kunstmuseum Stuttgart"
+    ]
+   },
+   "src_url": "https://www.artsy.net/artwork/otto-dix-grossstadt-metropolis"
+  },
+  "c0635": {
+   "wd": {
+    "q": "Q97378866",
+    "label": "Pillars of Society",
+    "y": [
+     1926
+    ],
+    "mu": []
+   },
+   "src_url": "https://www.wikidata.org/wiki/Q97378866"
+  },
+  "c0636": {
+   "wd": {
+    "q": "Q109929965",
+    "label": "Self-Portrait",
+    "y": [
+     1927
+    ],
+    "mu": [
+     "Tate"
+    ]
+   },
+   "src_url": "https://www.tate.org.uk/art/artworks/schad-self-portrait-l01710"
+  },
+  "c0639": {
+   "wd": {
+    "q": "Q83872",
+    "label": "Nighthawks",
+    "y": [
+     1942
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   },
+   "src_url": "https://www.artic.edu/artworks/111628"
+  },
+  "c0640": {
+   "wd": {
+    "q": "Q4808020",
+    "label": "Automat",
+    "y": [
+     1927
+    ],
+    "mu": [
+     "Des Moines Art Center"
+    ]
+   },
+   "src_url": "https://emuseum.desmoinesartcenter.org/objects/41752/"
+  },
+  "c0641": {
+   "wd": {
+    "q": "Q3547037",
+    "label": "Early Sunday Morning",
+    "y": [
+     1930
+    ],
+    "mu": [
+     "Whitney Museum of American Art"
+    ]
+   },
+   "src_url": "https://whitney.org/collection/works/46345"
+  },
+  "c0642": {
+   "wd": {
+    "q": "Q20193203",
+    "label": "Cape Cod Evening",
+    "y": [
+     1939
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   },
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.61252.html"
+  },
+  "c0643": {
+   "wd": {
+    "q": "Q20193215",
+    "label": "Ground Swell",
+    "y": [
+     1939
+    ],
+    "mu": [
+     "National Gallery of Art",
+     "Corcoran Gallery of Art"
+    ]
+   },
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.131206.html"
+  },
+  "c0647": {
+   "wd": {
+    "q": "Q17332458",
+    "label": "Migration Series",
+    "y": [
+     1941
+    ],
+    "mu": []
+   },
+   "src_url": "https://en.wikipedia.org/wiki/The_Migration_Series"
+  },
+  "c0648": {
+   "wd": {
+    "q": "Q104021942",
+    "label": "Jimson Weed/White Flower No. 1",
+    "y": [
+     1932
+    ],
+    "mu": [
+     "Crystal Bridges Museum of American Art"
+    ]
+   },
+   "src_url": "https://collection.crystalbridges.org/objects/5355/jimson-weedwhite-flower-no-1"
+  },
+  "c0649": {
+   "wd": {
+    "q": "Q5179376",
+    "label": "Cow's Skull: Red, White, and Blue",
+    "y": [
+     1931
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   },
+   "src_url": "https://www.metmuseum.org/art/collection/search/488694"
+  },
+  "c0650": {
+   "wd": {
+    "q": "Q19884053",
+    "label": "American Landscape",
+    "y": [
+     1930
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79032"
+  },
+  "c0653": {
+   "wd": {
+    "q": "Q20276028",
+    "label": "Nightlife",
+    "y": [
+     1943
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   },
+   "src_url": "https://www.artic.edu/artworks/117266"
+  },
+  "c0655": {
+   "wd": {
+    "q": "Q105530002",
+    "label": "Man, Controller of the Universe",
+    "y": [
+     1934
+    ],
+    "mu": [
+     "Palace of Fine arts"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/Man%2C_Controller_of_the_Universe"
+  },
+  "c0656": {
+   "wd": {
+    "q": "Q5265945",
+    "label": "Detroit Industry Murals",
+    "y": [
+     1933
+    ],
+    "mu": [
+     "Detroit Institute of Arts"
+    ]
+   },
+   "src_url": "https://dia.org/collection/detroit-industry-murals-58537"
+  },
+  "c0660": {
+   "wd": {
+    "q": "Q19884353",
+    "label": "Echo of a Scream",
+    "y": [
+     1937
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/80144"
+  },
+  "c0661": {
+   "wd": {
+    "q": "Q19884782",
+    "label": "Animals",
+    "y": [
+     1941
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79030"
+  },
+  "c0662": {
+   "wd": {
+    "q": "Q1769529",
+    "label": "No. 5, 1948",
+    "y": [
+     1948
+    ],
+    "mu": []
+   },
+   "src_url": "https://en.wikipedia.org/wiki/No._5%2C_1948"
+  },
+  "c0663": {
+   "wd": {
+    "q": "Q2873092",
+    "label": "Autumn Rhythm (Number 30)",
+    "y": [
+     1950
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/Autumn_Rhythm_%28Number_30%29"
+  },
+  "c0664": {
+   "wd": {
+    "q": "Q3828038",
+    "label": "Number 1, 1950 (Lavender Mist)",
+    "y": [
+     1949
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/Number_1%2C_1950_%28Lavender_Mist%29"
+  },
+  "c0666": {
+   "wd": {
+    "q": "Q4540018",
+    "label": "No. 61",
+    "y": [
+     1953
+    ],
+    "mu": [
+     "Museum of Contemporary Art, Los Angeles"
+    ]
+   },
+   "src_url": "http://www.moca.org/collection/work/no-61-rust-and-blue-brown-blue-brown-on-blue"
+  },
+  "c0667": {
+   "wd": {
+    "q": "Q2956755",
+    "label": "Rothko Chapel",
+    "y": [
+     1971
+    ],
+    "mu": []
+   },
+   "src_url": "https://www.sothebys.com/en/museums/rothko-chapel"
+  },
+  "c0668": {
+   "wd": {
+    "q": "Q3355036",
+    "label": "Orange, Red, Yellow",
+    "y": [
+     1961
+    ],
+    "mu": []
+   },
+   "src_url": "http://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5559196"
+  },
+  "c0669": {
+   "wd": {
+    "q": "Q28554043",
+    "label": "Untitled",
+    "y": [
+     1951
+    ],
+    "mu": [
+     "Tate"
+    ]
+   },
+   "src_url": "http://www.tate.org.uk/art/artworks/rothko-untitled-t04148"
+  },
+  "c0672": {
+   "wd": {
+    "q": "Q19885174",
+    "label": "Chief",
+    "y": [
+     1950
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/78319"
+  },
+  "c0673": {
+   "wd": {
+    "q": "Q16986541",
+    "label": "Vir Heroicus Sublimis",
+    "y": [
+     1950,
+     1950
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79250"
+  },
+  "c0674": {
+   "wd": {
+    "q": "Q19885082",
+    "label": "Onement I",
+    "y": [
+     1948
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79601"
+  },
+  "c0676": {
+   "wd": {
+    "q": "Q19882870",
+    "label": "Elegy to the Spanish Republic No. 110",
+    "y": [],
+    "mu": [
+     "Solomon R. Guggenheim Museum"
+    ]
+   },
+   "src_url": "https://www.guggenheim.org/artwork/3047"
+  },
+  "c0677": {
+   "wd": {
+    "q": "Q64515232",
+    "label": "The Seasons",
+    "y": [
+     1957
+    ],
+    "mu": [
+     "Whitney Museum of American Art"
+    ]
+   },
+   "src_url": "https://whitney.org/collection/works/6153"
+  },
+  "c0678": {
+   "wd": {
+    "q": "Q65048093",
+    "label": "Mountains and Sea",
+    "y": [
+     1952
+    ],
+    "mu": [
+     "Helen Frankenthaler Foundation"
+    ]
+   },
+   "src_url": "https://www.frankenthalerfoundation.org/artworks/mountains-and-sea/details/all"
+  },
+  "c0680": {
+   "wd": {
+    "q": "Q20267534",
+    "label": "City Landscape",
+    "y": [
+     1955
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   },
+   "src_url": "https://www.artic.edu/artworks/86385"
+  },
+  "c0682": {
+   "wd": {
+    "q": "Q3190307",
+    "label": "Just what is it that makes today's homes so different, so appealing?",
+    "y": [
+     1956
+    ],
+    "mu": []
+   },
+   "src_url": "https://en.wikipedia.org/wiki/Just_what_is_it_that_makes_today%27s_homes_so_different%2C_so_appealing%3F"
+  },
+  "c0683": {
+   "wd": {
+    "q": "Q2697937",
+    "label": "Campbell's Soup Cans",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans"
+  },
+  "c0684": {
+   "wd": {
+    "q": "Q573949",
+    "label": "Marilyn Diptyque",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "Tate"
+    ]
+   },
+   "src_url": "http://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093"
+  },
+  "c0686": {
+   "wd": {
+    "q": "Q3567592",
+    "label": "Whaam!",
+    "y": [
+     1997,
+     1963
+    ],
+    "mu": [
+     "Tate"
+    ]
+   },
+   "src_url": "http://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897"
+  },
+  "c0687": {
+   "wd": {
+    "q": "Q5308687",
+    "label": "Drowning Girl",
+    "y": [
+     1963
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/80249"
+  },
+  "c0690": {
+   "wd": {
+    "q": "Q6901603",
+    "label": "Monogram",
+    "y": [
+     1955
+    ],
+    "mu": []
+   },
+   "src_url": "https://en.wikipedia.org/wiki/Monogram_%28artwork%29"
+  },
+  "c0692": {
+   "wd": {
+    "q": "Q97378884",
+    "label": "Floor Burger (Giant Hamburger)",
+    "y": [
+     1962
+    ],
+    "mu": []
+   },
+   "src_url": "https://www.wikidata.org/wiki/Q97378884"
+  },
+  "c0693": {
+   "wd": {
+    "q": "Q19887711",
+    "label": "F-111",
+    "y": [],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79805"
+  },
+  "c0694": {
+   "wd": {
+    "q": "Q673984",
+    "label": "A Bigger Splash",
+    "y": [
+     1967
+    ],
+    "mu": [
+     "Tate"
+    ]
+   },
+   "src_url": "http://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254"
+  },
+  "c0695": {
+   "wd": {
+    "q": "Q64517268",
+    "label": "Great American Nude, #57",
+    "y": [
+     1964
+    ],
+    "mu": [
+     "Whitney Museum of American Art"
+    ]
+   },
+   "src_url": "https://whitney.org/collection/works/3297"
+  },
+  "c0696": {
+   "wd": {
+    "q": "Q76440466",
+    "label": "Standard Station",
+    "y": [
+     1966
+    ],
+    "mu": [
+     "National Gallery of Art",
+     "Prints in the National Gallery of Art"
+    ]
+   },
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.143411.html"
+  },
+  "c0697": {
+   "wd": {
+    "q": "Q20195908",
+    "label": "Cakes",
+    "y": [
+     1963
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   },
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.72040.html"
+  },
+  "c0698": {
+   "wd": {
+    "q": "Q106815032",
+    "label": "album cover for The Beatles, Sgt. Pepper's Lonely Hearts Club Band",
+    "y": [
+     1967
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/185449"
+  },
+  "c0700": {
+   "wd": {
+    "q": "Q19883020",
+    "label": "Harran II",
+    "y": [
+     1967
+    ],
+    "mu": [
+     "Solomon R. Guggenheim Museum"
+    ]
+   },
+   "src_url": "https://www.guggenheim.org/artwork/4003"
+  },
+  "c0701": {
+   "wd": {
+    "q": "Q19887636",
+    "label": "Friendship",
+    "y": [
+     1963
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79842"
+  },
+  "c0703": {
+   "wd": {
+    "q": "Q119336426",
+    "label": "Movement in Squares",
+    "y": [
+     1961
+    ],
+    "mu": [
+     "Arts Council Collection, Southbank Centre"
+    ]
+   },
+   "src_url": "https://www.wikidata.org/wiki/Q119336426"
+  },
+  "c0704": {
+   "wd": {
+    "q": "Q19887710",
+    "label": "Current",
+    "y": [
+     1964
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79998"
+  },
+  "c0705": {
+   "wd": {
+    "q": "Q20087562",
+    "label": "Zebra",
+    "y": [
+     1939
+    ],
+    "mu": [
+     "Musée National d'Art Moderne"
+    ]
+   },
+   "src_url": "https://collection.centrepompidou.fr/#/artwork/150000000023496"
+  },
+  "c0708": {
+   "wd": {
+    "q": "Q20195538",
+    "label": "Beta Kappa",
+    "y": [
+     1961
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   },
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.52358.html"
+  },
+  "c0709": {
+   "wd": {
+    "q": "Q19887553",
+    "label": "Untitled",
+    "y": [
+     1961
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/78800"
+  },
+  "c0710": {
+   "wd": {
+    "q": "Q64515759",
+    "label": "Blanco y Verde",
+    "y": [
+     1959
+    ],
+    "mu": [
+     "Whitney Museum of American Art"
+    ]
+   },
+   "src_url": "https://whitney.org/collection/works/45126"
+  },
+  "c0712": {
+   "wd": {
+    "q": "Q98609717",
+    "label": "Big Self-Portrait",
+    "y": [
+     1967
+    ],
+    "mu": [
+     "Walker Art Center"
+    ]
+   },
+   "src_url": "https://walkerart.org/collections/artworks/big-self-portrait"
+  },
+  "c0713": {
+   "wd": {
+    "q": "Q21711742",
+    "label": "Telephone Booths",
+    "y": [
+     1967
+    ],
+    "mu": [
+     "Thyssen-Bornemisza Museum"
+    ]
+   },
+   "src_url": "http://www.museothyssen.org/en/thyssen/ficha_obra/382"
+  },
+  "c0714": {
+   "wd": {
+    "q": "Q78640464",
+    "label": "Betty",
+    "y": [
+     1988
+    ],
+    "mu": [
+     "Saint Louis Art Museum"
+    ]
+   },
+   "src_url": "https://www.slam.org/collection/objects/23250/"
+  },
+  "c0716": {
+   "wd": {
+    "q": "Q200272",
+    "label": "October 18, 1977",
+    "y": [
+     1988
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/79037"
+  },
+  "c0717": {
+   "wd": {
+    "q": "Q104859034",
+    "label": "Untitled",
+    "y": [
+     1982
+    ],
+    "mu": []
+   },
+   "src_url": "https://historia-arte.com/obras/sin-titulo-basquiat"
+  },
+  "c0719": {
+   "wd": {
+    "q": "Q50321310",
+    "label": "Margarethe",
+    "y": [
+     1981
+    ],
+    "mu": [
+     "San Francisco Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.sfmoma.org/artwork/FC.595"
+  },
+  "c0721": {
+   "wd": {
+    "q": "Q817095",
+    "label": "Benefits Supervisor Sleeping",
+    "y": [
+     1995
+    ],
+    "mu": []
+   },
+   "src_url": "http://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5074074"
+  },
+  "c0722": {
+   "wd": {
+    "q": "Q987711",
+    "label": "Three Studies for Figures at the Base of a Crucifixion",
+    "y": [
+     1944
+    ],
+    "mu": [
+     "National Gallery",
+     "Tate"
+    ]
+   },
+   "src_url": "http://www.tate.org.uk/art/artworks/bacon-three-studies-for-figures-at-the-base-of-a-crucifixion-n06171"
+  },
+  "c0723": {
+   "wd": {
+    "q": "Q3976302",
+    "label": "Study after Velázquez's Portrait of Pope Innocent X",
+    "y": [
+     1953
+    ],
+    "mu": [
+     "Des Moines Art Center"
+    ]
+   },
+   "src_url": "https://historia-arte.com/obras/estudio-del-retrato-del-papa-inocencio-x-de-velazquez"
+  },
+  "c0724": {
+   "wd": {
+    "q": "Q58791744",
+    "label": "Portrait of an Artist (Pool with Two Figures)",
+    "y": [
+     1972
+    ],
+    "mu": []
+   },
+   "src_url": "https://www.christies.com/features/David-Hockney-Portrait-of-an-Artist-Pool-with-Two-Figures-9372-3.aspx"
+  },
+  "c0725": {
+   "wd": {
+    "q": "Q19888931",
+    "label": "Painter",
+    "y": [
+     1994
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   },
+   "src_url": "https://www.moma.org/collection/works/101473"
+  },
+  "c0727": {
+   "wd": {
+    "q": "Q20195473",
+    "label": "Infinity Nets Yellow",
+    "y": [
+     1960
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   },
+   "src_url": "https://topstukken.vlaanderen.be/topstukken/topstuk/18f0e337-19c2-4853-9484-47c1f7c532b3"
+  },
+  "c0728": {
+   "wd": {
+    "q": "Q50303833",
+    "label": "President Barack Obama",
+    "y": [
+     2018
+    ],
+    "mu": [
+     "National Portrait Gallery"
+    ]
+   },
+   "src_url": "https://npg.si.edu/object/npg_NPG.2018.16"
+  },
+  "c0729": {
+   "wd": {
+    "q": "Q131161015",
+    "label": "Past Times",
+    "y": [
+     1997
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   },
+   "src_url": "https://www.metmuseum.org/art/collection/search/690093"
+  },
+  "x1107": {
+   "wd": {
+    "q": "Q119858617",
+    "label": "Urban Landscape",
+    "y": [
+     1924
+    ],
+    "mu": [
+     "Estorick Collection of Modern Italian Art"
+    ]
+   },
+   "src_url": "https://www.wikidata.org/wiki/Q119858617"
+  },
+  "y4271": {
+   "wd": {
+    "q": "Q130297847",
+    "label": "Snowy Landscape",
+    "y": [
+     1950
+    ],
+    "mu": [
+     "Museo Soumaya"
+    ]
+   }
+  },
+  "y4272": {
+   "wd": {
+    "q": "Q130297848",
+    "label": "The Two Haystacks",
+    "y": [
+     1950
+    ],
+    "mu": [
+     "Museo Soumaya"
+    ]
+   }
+  },
+  "y4280": {
+   "wd": {
+    "q": "Q20426820",
+    "label": "Trees at l'Estaque",
+    "y": [
+     1908
+    ],
+    "mu": [
+     "Statens Museum for Kunst"
+    ]
+   }
+  },
+  "y4281": {
+   "wd": {
+    "q": "Q19882452",
+    "label": "Landscape near Antwerp",
+    "y": [
+     1906
+    ],
+    "mu": [
+     "Solomon R. Guggenheim Museum"
+    ]
+   }
+  },
+  "y4371": {
+   "wd": {
+    "q": "Q30275342",
+    "label": "Snow Landscape",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Anne R. Fischer",
+     "Dr. and Mrs. Ernst Fischer",
+     "Virginia Museum of Fine Arts"
+    ]
+   }
+  },
+  "y4427": {
+   "wd": {
+    "q": "Q107630974",
+    "label": "The Cathedral in Halle",
+    "y": [
+     1931
+    ],
+    "mu": [
+     "\"degenerate art\" collection",
+     "Moritzburg Art Museum",
+     "Moritzburg"
+    ]
+   }
+  },
+  "y4428": {
+   "wd": {
+    "q": "Q19882543",
+    "label": "Gelmeroda IV",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Solomon R. Guggenheim Museum"
+    ]
+   }
+  },
+  "y4429": {
+   "wd": {
+    "q": "Q111797901",
+    "label": "Red Tower II",
+    "y": [
+     1930
+    ],
+    "mu": [
+     "\"degenerate art\" collection",
+     "Kunstmuseum Mülheim an der Ruhr"
+    ]
+   }
+  },
+  "y4430": {
+   "wd": {
+    "q": "Q5792254",
+    "label": "Mountains of Málaga",
+    "y": [
+     1896
+    ],
+    "mu": [
+     "Museu Picasso"
+    ]
+   }
+  },
+  "y4431": {
+   "wd": {
+    "q": "Q3713986",
+    "label": "Women of Algiers, O version",
+    "y": [
+     1955
+    ],
+    "mu": []
+   }
+  },
+  "y4432": {
+   "wd": {
+    "q": "Q112679010",
+    "label": "Personnage cueillant des fleurs",
+    "y": [
+     1958
+    ],
+    "mu": [
+     "Musée Picasso",
+     "Strasbourg Museum of Modern and Contemporary Art"
+    ]
+   }
+  },
+  "y4469": {
+   "wd": {
+    "q": "Q19883746",
+    "label": "Portuguese Market",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "y4470": {
+   "wd": {
+    "q": "Q134891334",
+    "label": "Composition Dancer",
+    "y": [],
+    "mu": []
+   }
+  },
+  "y4471": {
+   "wd": {
+    "q": "Q134891342",
+    "label": "Simultaneous Solar Prism",
+    "y": [
+     1914
+    ],
+    "mu": []
+   }
+  },
+  "y4484": {
+   "wd": {
+    "q": "Q6455814",
+    "label": "L'Oiseau bleu",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Musée d'art moderne de Paris"
+    ]
+   }
+  },
+  "y4485": {
+   "wd": {
+    "q": "Q5215400",
+    "label": "Danseuse au café",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Buffalo AKG Art Museum"
+    ]
+   }
+  },
+  "y4498": {
+   "wd": {
+    "q": "Q20816340",
+    "label": "Chocolate Grinder (No. 1)",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   }
+  },
+  "y4499": {
+   "wd": {
+    "q": "Q6753412",
+    "label": "The Bride",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   }
+  },
+  "y4500": {
+   "wd": {
+    "q": "Q19882531",
+    "label": "Nude (Study), Sad Young Man on a Train",
+    "y": [
+     1911,
+     1912
+    ],
+    "mu": [
+     "Solomon R. Guggenheim Museum"
+    ]
+   }
+  },
+  "y4501": {
+   "wd": {
+    "q": "Q19883612",
+    "label": "Passage from Virgin to Bride",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "y4502": {
+   "wd": {
+    "q": "Q19883709",
+    "label": "Network of Stoppages",
+    "y": [
+     1914
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "y4527": {
+   "wd": {
+    "q": "Q99937752",
+    "label": "Stations of the Cross",
+    "y": [
+     1947
+    ],
+    "mu": []
+   }
+  },
+  "y4528": {
+   "wd": {
+    "q": "Q19919006",
+    "label": "Dancer = Propeller = Sea",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "y4532": {
+   "wd": {
+    "q": "Q26996072",
+    "label": "Cyclist",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "Russian Museum",
+     "Art Culture Museum Petrograd"
+    ]
+   }
+  },
+  "y4533": {
+   "wd": {
+    "q": "Q4500028",
+    "label": "Circular Dance",
+    "y": [
+     1910
+    ],
+    "mu": [
+     "Serpukhov historical-art museum"
+    ]
+   }
+  },
+  "y4534": {
+   "wd": {
+    "q": "Q19882576",
+    "label": "Cats (rayist percep.[tion] in rose, black, and yellow)",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "Solomon R. Guggenheim Museum"
+    ]
+   }
+  },
+  "y4535": {
+   "wd": {
+    "q": "Q20200781",
+    "label": "Decor for the Ballet \"Liturgie\"",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "y4536": {
+   "wd": {
+    "q": "Q26925653",
+    "label": "Rayonist Lilies",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "Perm Art Museum"
+    ]
+   }
+  },
+  "y4537": {
+   "wd": {
+    "q": "Q89151208",
+    "label": "Reapers",
+    "y": [
+     1911
+    ],
+    "mu": [
+     "Yekaterinburg Museum of Fine Arts"
+    ]
+   }
+  },
+  "y4538": {
+   "wd": {
+    "q": "Q107340279",
+    "label": "The Weaver",
+    "y": [
+     1910
+    ],
+    "mu": [
+     "Amgueddfa Cymru – Museum Wales"
+    ]
+   }
+  },
+  "y4539": {
+   "wd": {
+    "q": "Q111821614",
+    "label": "Angel",
+    "y": [
+     1909
+    ],
+    "mu": []
+   }
+  },
+  "y4540": {
+   "wd": {
+    "q": "Q111821821",
+    "label": "Elder with Seven Stars and Seven Candlesticks (Apocalypse)",
+    "y": [
+     1910
+    ],
+    "mu": []
+   }
+  },
+  "y4541": {
+   "wd": {
+    "q": "Q130215060",
+    "label": "Wrestler",
+    "y": [
+     1900
+    ],
+    "mu": [
+     "Russian Museum",
+     "Art Culture Museum Petrograd"
+    ]
+   }
+  },
+  "y4542": {
+   "wd": {
+    "q": "Q130477553",
+    "label": "Street in Moscow",
+    "y": [
+     1909
+    ],
+    "mu": []
+   }
+  },
+  "y4543": {
+   "wd": {
+    "q": "Q19882710",
+    "label": "Glass",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Solomon R. Guggenheim Museum"
+    ]
+   }
+  },
+  "y4544": {
+   "wd": {
+    "q": "Q20881627",
+    "label": "Dancing Soldiers",
+    "y": [
+     1910
+    ],
+    "mu": [
+     "Los Angeles County Museum of Art"
+    ]
+   }
+  },
+  "y4545": {
+   "wd": {
+    "q": "Q26950200",
+    "label": "Bull's Head",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "Tretyakov Gallery"
+    ]
+   }
+  },
+  "y4546": {
+   "wd": {
+    "q": "Q26989087",
+    "label": "Red and Blue Rayonism (Beach)",
+    "y": [
+     1911
+    ],
+    "mu": [
+     "Museum Ludwig"
+    ]
+   }
+  },
+  "y4547": {
+   "wd": {
+    "q": "Q26989458",
+    "label": "Rayonist Sausages and Mackerel",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Museum Ludwig"
+    ]
+   }
+  },
+  "y4548": {
+   "wd": {
+    "q": "Q26990211",
+    "label": "Soldier on a Horse",
+    "y": [
+     1911
+    ],
+    "mu": [
+     "Tate"
+    ]
+   }
+  },
+  "y4549": {
+   "wd": {
+    "q": "Q28538465",
+    "label": "Nocturne",
+    "y": [
+     1914
+    ],
+    "mu": [
+     "National Gallery",
+     "Tate"
+    ]
+   }
+  },
+  "y4550": {
+   "wd": {
+    "q": "Q89152256",
+    "label": "Jewish Venus",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Yekaterinburg Museum of Fine Arts"
+    ]
+   }
+  },
+  "y4551": {
+   "wd": {
+    "q": "Q111987150",
+    "label": "Portrait of Natalia Goncharova",
+    "y": [
+     1903
+    ],
+    "mu": []
+   }
+  },
+  "y4552": {
+   "wd": {
+    "q": "Q113003918",
+    "label": "Barber",
+    "y": [
+     1907
+    ],
+    "mu": [
+     "Russian Museum"
+    ]
+   }
+  },
+  "y4553": {
+   "wd": {
+    "q": "Q130257190",
+    "label": "Streetcar",
+    "y": [
+     1911
+    ],
+    "mu": [
+     "Bashkir State Art Museum (Nesterov Museum)"
+    ]
+   }
+  },
+  "y4554": {
+   "wd": {
+    "q": "Q130475664",
+    "label": "Female Passerby",
+    "y": [
+     1911
+    ],
+    "mu": [
+     "Ulyanovsk Oblast Art Museum"
+    ]
+   }
+  },
+  "y4555": {
+   "wd": {
+    "q": "Q16987108",
+    "label": "The Child's Brain",
+    "y": [
+     1914
+    ],
+    "mu": [
+     "Moderna Museet"
+    ]
+   }
+  },
+  "y4556": {
+   "wd": {
+    "q": "Q114143498",
+    "label": "Resignation",
+    "y": [
+     1928
+    ],
+    "mu": [
+     "Germanisches Nationalmuseum"
+    ]
+   }
+  },
+  "y4557": {
+   "wd": {
+    "q": "Q114143738",
+    "label": "Man and Machine",
+    "y": [
+     1921
+    ],
+    "mu": [
+     "Germanisches Nationalmuseum"
+    ]
+   }
+  },
+  "y4558": {
+   "wd": {
+    "q": "Q114240156",
+    "label": "Creatures",
+    "y": [
+     1927
+    ],
+    "mu": [
+     "Germanisches Nationalmuseum"
+    ]
+   }
+  },
+  "y4559": {
+   "wd": {
+    "q": "Q115160028",
+    "label": "Dancing into the Dark",
+    "y": [
+     1919
+    ],
+    "mu": [
+     "Germanisches Nationalmuseum"
+    ]
+   }
+  },
+  "y4560": {
+   "wd": {
+    "q": "Q115160139",
+    "label": "Birth",
+    "y": [
+     1924
+    ],
+    "mu": [
+     "Germanisches Nationalmuseum"
+    ]
+   }
+  },
+  "y4569": {
+   "wd": {
+    "q": "Q115160223",
+    "label": "Porträt of Hannah Höch",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Germanisches Nationalmuseum"
+    ]
+   }
+  },
+  "y4570": {
+   "wd": {
+    "q": "Q20527532",
+    "label": "Landscape (Paysage Fauve)",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "y4571": {
+   "wd": {
+    "q": "Q27960842",
+    "label": "Man Ray 1914",
+    "y": [
+     1914
+    ],
+    "mu": [
+     "National Galleries Scotland"
+    ]
+   }
+  },
+  "y4678": {
+   "wd": {
+    "q": "Q167536",
+    "label": "The Great Masturbator",
+    "y": [
+     1929
+    ],
+    "mu": [
+     "Museo Nacional Centro de Arte Reina Sofía"
+    ]
+   }
+  },
+  "y4679": {
+   "wd": {
+    "q": "Q2663568",
+    "label": "The Face of War",
+    "y": [
+     1940
+    ],
+    "mu": [
+     "Museum Boijmans Van Beuningen"
+    ]
+   }
+  },
+  "y4680": {
+   "wd": {
+    "q": "Q211293",
+    "label": "Portrait of Luis Buñuel",
+    "y": [
+     1924
+    ],
+    "mu": [
+     "Museo Nacional Centro de Arte Reina Sofía"
+    ]
+   }
+  },
+  "y4681": {
+   "wd": {
+    "q": "Q61944806",
+    "label": "The Spectre of Sex-Appeal",
+    "y": [
+     1934
+    ],
+    "mu": [
+     "Gala-Salvador Dalí Foundation"
+    ]
+   }
+  },
+  "y4682": {
+   "wd": {
+    "q": "Q50225924",
+    "label": "The Rainbow",
+    "y": [
+     1972
+    ],
+    "mu": [
+     "M.T. Abraham Center for the Visual Arts"
+    ]
+   }
+  },
+  "y4683": {
+   "wd": {
+    "q": "Q674682",
+    "label": "Portrait of Vincent Nubiola",
+    "y": [
+     1917
+    ],
+    "mu": [
+     "Museum Folkwang"
+    ]
+   }
+  },
+  "y4684": {
+   "wd": {
+    "q": "Q51954576",
+    "label": "Dona",
+    "y": [
+     1978
+    ],
+    "mu": [
+     "Fundació Joan Miró"
+    ]
+   }
+  },
+  "y4697": {
+   "wd": {
+    "q": "Q28110225",
+    "label": "The Beautiful Night",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "Botero Museum"
+    ]
+   }
+  },
+  "y4710": {
+   "wd": {
+    "q": "Q5564463",
+    "label": "Girl at Sewing Machine",
+    "y": [
+     1921
+    ],
+    "mu": [
+     "Thyssen-Bornemisza Museum"
+    ]
+   }
+  },
+  "y4711": {
+   "wd": {
+    "q": "Q15734146",
+    "label": "House by the Railroad",
+    "y": [
+     1925
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "y4712": {
+   "wd": {
+    "q": "Q21655444",
+    "label": "Gas",
+    "y": [
+     1940
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "y4713": {
+   "wd": {
+    "q": "Q19884479",
+    "label": "New York Movie",
+    "y": [
+     1939
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "y4714": {
+   "wd": {
+    "q": "Q5911687",
+    "label": "Hotel Lobby",
+    "y": [
+     1943
+    ],
+    "mu": [
+     "Indianapolis Museum of Art"
+    ]
+   }
+  },
+  "y4715": {
+   "wd": {
+    "q": "Q7079154",
+    "label": "Office at Night",
+    "y": [
+     1940
+    ],
+    "mu": [
+     "Walker Art Center"
+    ]
+   }
+  },
+  "y4716": {
+   "wd": {
+    "q": "Q29097175",
+    "label": "Second Story Sunlight",
+    "y": [
+     1960
+    ],
+    "mu": [
+     "Whitney Museum of American Art"
+    ]
+   }
+  },
+  "y4717": {
+   "wd": {
+    "q": "Q5104805",
+    "label": "Chop Suey",
+    "y": [
+     1929
+    ],
+    "mu": []
+   }
+  },
+  "y4718": {
+   "wd": {
+    "q": "Q59342515",
+    "label": "High Noon",
+    "y": [
+     1949
+    ],
+    "mu": [
+     "Dayton Art Institute"
+    ]
+   }
+  },
+  "y4719": {
+   "wd": {
+    "q": "Q16910668",
+    "label": "Hotel by a Railroad",
+    "y": [
+     1952
+    ],
+    "mu": [
+     "Hirshhorn Museum and Sculpture Garden"
+    ]
+   }
+  },
+  "y4720": {
+   "wd": {
+    "q": "Q16914972",
+    "label": "Manhattan Bridge Loop",
+    "y": [
+     1928
+    ],
+    "mu": [
+     "Addison Gallery of American Art"
+    ]
+   }
+  },
+  "y4721": {
+   "wd": {
+    "q": "Q20191074",
+    "label": "Coast Guard Station, Two Lights, Maine",
+    "y": [
+     1927
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "y4734": {
+   "wd": {
+    "q": "Q20474080",
+    "label": "Achelous and Hercules",
+    "y": [
+     1947
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "y4735": {
+   "wd": {
+    "q": "Q132557440",
+    "label": "People of Chilmark (Figure composition)",
+    "y": [
+     1920
+    ],
+    "mu": [
+     "Hirshhorn Museum and Sculpture Garden"
+    ]
+   }
+  },
+  "y4736": {
+   "wd": {
+    "q": "Q19931379",
+    "label": "Louisiana Rice Fields",
+    "y": [
+     1928
+    ],
+    "mu": [
+     "Brooklyn Museum"
+    ]
+   }
+  },
+  "y4737": {
+   "wd": {
+    "q": "Q46093362",
+    "label": "Self-Portrait with Rita",
+    "y": [
+     1924
+    ],
+    "mu": [
+     "National Portrait Gallery"
+    ]
+   }
+  },
+  "y4738": {
+   "wd": {
+    "q": "Q64513598",
+    "label": "Poker Night (from A Streetcar Named Desire)",
+    "y": [
+     1948
+    ],
+    "mu": [
+     "Whitney Museum of American Art"
+    ]
+   }
+  },
+  "y4739": {
+   "wd": {
+    "q": "Q105497907",
+    "label": "Noon",
+    "y": [],
+    "mu": []
+   }
+  },
+  "y4740": {
+   "wd": {
+    "q": "Q132557302",
+    "label": "American Discovery Viewed by Native Americans",
+    "y": [],
+    "mu": []
+   }
+  },
+  "y4741": {
+   "wd": {
+    "q": "Q132557370",
+    "label": "Chilmark Landscape",
+    "y": [
+     1922
+    ],
+    "mu": [
+     "Hirshhorn Museum and Sculpture Garden"
+    ]
+   }
+  },
+  "y4742": {
+   "wd": {
+    "q": "Q132558825",
+    "label": "House in Cubist",
+    "y": [],
+    "mu": [
+     "Whitney Museum of American Art"
+    ]
+   }
+  },
+  "y4743": {
+   "wd": {
+    "q": "Q132566760",
+    "label": "The Cliffs",
+    "y": [
+     1921
+    ],
+    "mu": [
+     "Hirshhorn Museum and Sculpture Garden"
+    ]
+   }
+  },
+  "y4744": {
+   "wd": {
+    "q": "Q134883716",
+    "label": "Bubbles",
+    "y": [],
+    "mu": []
+   }
+  },
+  "y4753": {
+   "wd": {
+    "q": "Q111821850",
+    "label": "Frederick Douglass listened to William Lloyd Garrison denounce slavery",
+    "y": [],
+    "mu": [
+     "National Archives at College Park"
+    ]
+   }
+  },
+  "y4754": {
+   "wd": {
+    "q": "Q20537900",
+    "label": "The Riveter (mural study, Bronx, New York central postal station)",
+    "y": [
+     1938
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "y4755": {
+   "wd": {
+    "q": "Q3171842",
+    "label": "Blue and Green Music",
+    "y": [
+     1919
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   }
+  },
+  "y4756": {
+   "wd": {
+    "q": "Q20191641",
+    "label": "A Storm",
+    "y": [
+     1922
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "y4757": {
+   "wd": {
+    "q": "Q2905377",
+    "label": "Black Iris",
+    "y": [
+     1926
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "y4758": {
+   "wd": {
+    "q": "Q23939644",
+    "label": "My Shanty, Lake George",
+    "y": [
+     1922
+    ],
+    "mu": [
+     "The Phillips Collection"
+    ]
+   }
+  },
+  "y4759": {
+   "wd": {
+    "q": "Q110978879",
+    "label": "Lake George Reflection",
+    "y": [],
+    "mu": []
+   }
+  },
+  "y4760": {
+   "wd": {
+    "q": "Q124707993",
+    "label": "Ram's Head, White Hollyhock-Hills",
+    "y": [
+     1935
+    ],
+    "mu": [
+     "Brooklyn Museum"
+    ]
+   }
+  },
+  "y4761": {
+   "wd": {
+    "q": "Q20816700",
+    "label": "Red and Orange Streak",
+    "y": [
+     1919
+    ],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   }
+  },
+  "y4762": {
+   "wd": {
+    "q": "Q136825234",
+    "label": "Jawbone and Fungus",
+    "y": [
+     1931
+    ],
+    "mu": []
+   }
+  },
+  "y4763": {
+   "wd": {
+    "q": "Q63034392",
+    "label": "Light Coming on the Plains No.1",
+    "y": [
+     1917
+    ],
+    "mu": [
+     "Amon Carter Museum of American Art"
+    ]
+   }
+  },
+  "y4764": {
+   "wd": {
+    "q": "Q103967698",
+    "label": "Radiator Building—Night, New York",
+    "y": [
+     1927
+    ],
+    "mu": [
+     "Crystal Bridges Museum of American Art"
+    ]
+   }
+  },
+  "y4765": {
+   "wd": {
+    "q": "Q135416319",
+    "label": "Blue #2",
+    "y": [
+     1916
+    ],
+    "mu": [
+     "Brooklyn Museum"
+    ]
+   }
+  },
+  "y4766": {
+   "wd": {
+    "q": "Q135416338",
+    "label": "Blue #3",
+    "y": [
+     1916
+    ],
+    "mu": [
+     "Brooklyn Museum"
+    ]
+   }
+  },
+  "y4767": {
+   "wd": {
+    "q": "Q20200323",
+    "label": "American Interior",
+    "y": [
+     1935
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "y4768": {
+   "wd": {
+    "q": "Q20504653",
+    "label": "Connecticut Barns",
+    "y": [
+     1934
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "y4769": {
+   "wd": {
+    "q": "Q20816815",
+    "label": "Pertaining to Yachts and Yachting",
+    "y": [
+     1922
+    ],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   }
+  },
+  "y4770": {
+   "wd": {
+    "q": "Q60473381",
+    "label": "Church Street El",
+    "y": [
+     1920
+    ],
+    "mu": [
+     "Cleveland Museum of Art"
+    ]
+   }
+  },
+  "y4771": {
+   "wd": {
+    "q": "Q64577533",
+    "label": "Home, Sweet Home",
+    "y": [
+     1931
+    ],
+    "mu": [
+     "Detroit Institute of Arts"
+    ]
+   }
+  },
+  "y4772": {
+   "wd": {
+    "q": "Q139059733",
+    "label": "Conversation – Sky and Earth",
+    "y": [
+     1940
+    ],
+    "mu": [
+     "Amon Carter Museum of American Art"
+    ]
+   }
+  },
+  "y4786": {
+   "wd": {
+    "q": "Q20275878",
+    "label": "Self-Portrait",
+    "y": [
+     1920
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   }
+  },
+  "y4796": {
+   "wd": {
+    "q": "Q6135245",
+    "label": "Sueño de una Tarde Dominical en la Alameda Central",
+    "y": [
+     1947
+    ],
+    "mu": [
+     "Museo Mural Diego Rivera"
+    ]
+   }
+  },
+  "y4797": {
+   "wd": {
+    "q": "Q105530002",
+    "label": "Man, Controller of the Universe",
+    "y": [
+     1934
+    ],
+    "mu": [
+     "Palace of Fine arts"
+    ]
+   }
+  },
+  "y4798": {
+   "wd": {
+    "q": "Q21606628",
+    "label": "Portrait of Ramón Gómez de la Serna",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Museum of Latin American Art of Buenos Aires"
+    ]
+   }
+  },
+  "y4799": {
+   "wd": {
+    "q": "Q115329547",
+    "label": "The creation",
+    "y": [
+     1922
+    ],
+    "mu": []
+   }
+  },
+  "y4800": {
+   "wd": {
+    "q": "Q19883636",
+    "label": "Cubist Landscape",
+    "y": [
+     1912
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "y4801": {
+   "wd": {
+    "q": "Q19922336",
+    "label": "The Café Terrace",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "y4802": {
+   "wd": {
+    "q": "Q20191555",
+    "label": "Montserrat",
+    "y": [
+     1911
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4803": {
+   "wd": {
+    "q": "Q20191928",
+    "label": "No. 9, Nature Morte Espagnole",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4804": {
+   "wd": {
+    "q": "Q20276030",
+    "label": "Portrait of Marevna",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   }
+  },
+  "y4805": {
+   "wd": {
+    "q": "Q21725211",
+    "label": "Still Life",
+    "y": [
+     1913
+    ],
+    "mu": [
+     "Hermitage Museum"
+    ]
+   }
+  },
+  "y4806": {
+   "wd": {
+    "q": "Q24018777",
+    "label": "Still Life with a Liqueur Bottle",
+    "y": [
+     1915
+    ],
+    "mu": [
+     "Kröller-Müller Museum"
+    ]
+   }
+  },
+  "y4807": {
+   "wd": {
+    "q": "Q24059893",
+    "label": "The Meager Table",
+    "y": [
+     1917
+    ],
+    "mu": [
+     "Stedelijk Museum Amsterdam"
+    ]
+   }
+  },
+  "y4820": {
+   "wd": {
+    "q": "Q115330296",
+    "label": "The Apotheosis of Cuauhtémoc",
+    "y": [
+     1951
+    ],
+    "mu": [
+     "Palace of Fine arts",
+     "Instituto Nacional de Bellas Artes y Literatura"
+    ]
+   }
+  },
+  "y4821": {
+   "wd": {
+    "q": "Q107392170",
+    "label": "Patricians and Patricides",
+    "y": [
+     1944
+    ],
+    "mu": []
+   }
+  },
+  "y4822": {
+   "wd": {
+    "q": "Q19873508",
+    "label": "Black Fire I",
+    "y": [
+     1961
+    ],
+    "mu": []
+   }
+  },
+  "y4823": {
+   "wd": {
+    "q": "Q20195030",
+    "label": "First Station",
+    "y": [
+     1958
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4824": {
+   "wd": {
+    "q": "Q20195081",
+    "label": "Second Station",
+    "y": [
+     1958
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4825": {
+   "wd": {
+    "q": "Q20195455",
+    "label": "Fourth Station",
+    "y": [
+     1960
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4826": {
+   "wd": {
+    "q": "Q20195511",
+    "label": "Third Station",
+    "y": [
+     1960
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4827": {
+   "wd": {
+    "q": "Q20195530",
+    "label": "Be II",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4828": {
+   "wd": {
+    "q": "Q20195722",
+    "label": "Fifth Station",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4829": {
+   "wd": {
+    "q": "Q20195782",
+    "label": "Sixth Station",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4830": {
+   "wd": {
+    "q": "Q20196031",
+    "label": "Eighth Station",
+    "y": [
+     1964
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4831": {
+   "wd": {
+    "q": "Q20196078",
+    "label": "Ninth Station",
+    "y": [
+     1964
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4832": {
+   "wd": {
+    "q": "Q20196179",
+    "label": "Seventh Station",
+    "y": [
+     1964
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4833": {
+   "wd": {
+    "q": "Q20196364",
+    "label": "Eleventh Station",
+    "y": [
+     1965
+    ],
+    "mu": [
+     "National Gallery of Art"
+    ]
+   }
+  },
+  "y4846": {
+   "wd": {
+    "q": "Q20489189",
+    "label": "Early Mail Service and Construction of Railroads (mural study, Commerce, Georgia Post Office)",
+    "y": [
+     1938
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "y4847": {
+   "wd": {
+    "q": "Q20489047",
+    "label": "Sun Deck",
+    "y": [
+     1936
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "y4848": {
+   "wd": {
+    "q": "Q20267365",
+    "label": "Red Yellow Blue White and Black",
+    "y": [
+     1953
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   }
+  },
+  "y5205": {
+   "wd": {
+    "q": "Q89373129",
+    "label": "The Abandoned",
+    "y": [
+     1937
+    ],
+    "mu": [
+     "Memorial Art Gallery"
+    ]
+   }
+  },
+  "y5206": {
+   "wd": {
+    "q": "Q130297844",
+    "label": "Passion",
+    "y": [
+     1939
+    ],
+    "mu": [
+     "Museo Soumaya"
+    ]
+   }
+  },
+  "y5207": {
+   "wd": {
+    "q": "Q130297845",
+    "label": "Saint John the Baptist",
+    "y": [
+     1935
+    ],
+    "mu": [
+     "Museo Soumaya"
+    ]
+   }
+  },
+  "y5210": {
+   "wd": {
+    "q": "Q30887699",
+    "label": "Convent",
+    "y": [
+     1928
+    ],
+    "mu": [
+     "Art collections of Fondazione Cariplo"
+    ]
+   }
+  },
+  "y5214": {
+   "wd": {
+    "q": "Q61753276",
+    "label": "Vista Panorámica de la ciudad de Puebla",
+    "y": [
+     1924
+    ],
+    "mu": [
+     "Museo Nacional de Historia"
+    ]
+   }
+  },
+  "y5215": {
+   "wd": {
+    "q": "Q140366116",
+    "label": "La conquista del aire por el hombre",
+    "y": [
+     1938
+    ],
+    "mu": []
+   }
+  }
+ },
+ "evidence": {
+  "c0523": "https://www.wikidata.org/wiki/Q19918136 ；連結來源：Wikidata The Met object ID",
+  "c0529": "https://www.wikidata.org/wiki/Q20268352 ；連結來源：Wikidata P973（described at URL）",
+  "c0538": "https://www.wikidata.org/wiki/Q75406658 ；連結來源：Wikidata P973（described at URL）",
+  "c0539": "https://www.wikidata.org/wiki/Q7720035 ；連結來源：Wikidata P973（described at URL）",
+  "c0550": "https://www.wikidata.org/wiki/Q910199 ；連結來源：Wikidata P973（described at URL）",
+  "c0551": "https://www.wikidata.org/wiki/Q7232244 ；連結來源：Wikidata ARTIC artwork ID",
+  "c0552": "https://www.wikidata.org/wiki/Q175036 ；連結來源：Wikidata P973（described at URL）",
+  "c0553": "https://www.wikidata.org/wiki/Q1113293 ；連結來源：en.wikipedia 條目",
+  "c0554": "https://www.wikidata.org/wiki/Q3228112 ；連結來源：Wikidata ARTIC artwork ID",
+  "c0555": "https://www.wikidata.org/wiki/Q5433371 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "c0556": "https://www.wikidata.org/wiki/Q3267954 ；連結來源：Wikidata P973（described at URL）",
+  "c0557": "https://www.wikidata.org/wiki/Q1162671 ；連結來源：Wikidata P973（described at URL）",
+  "c0567": "https://www.wikidata.org/wiki/Q6508028 ；連結來源：Wikidata Philadelphia Museum of Art work ID",
+  "c0573": "https://www.wikidata.org/wiki/Q1982400 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0574": "https://www.wikidata.org/wiki/Q19883641 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0575": "https://www.wikidata.org/wiki/Q26996072 ；連結來源：Wikidata P973（described at URL）",
+  "c0576": "https://www.wikidata.org/wiki/Q1154410 ；連結來源：en.wikipedia 條目",
+  "c0577": "https://www.wikidata.org/wiki/Q4289293 ；連結來源：en.wikipedia 條目",
+  "c0581": "https://www.wikidata.org/wiki/Q2720294 ；連結來源：Wikidata P973（described at URL）",
+  "c0582": "https://www.wikidata.org/wiki/Q107450751 ；連結來源：Wikidata 頁面",
+  "c0588": "https://www.wikidata.org/wiki/Q118121590 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0603": "https://www.wikidata.org/wiki/Q140570789 ；連結來源：Wikidata P973（described at URL）",
+  "c0609": "https://www.wikidata.org/wiki/Q20192219 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "c0614": "https://www.wikidata.org/wiki/Q25729 ；連結來源：en.wikipedia 條目",
+  "c0615": "https://www.wikidata.org/wiki/Q172558 ；連結來源：Wikidata P973（described at URL）",
+  "c0616": "https://www.wikidata.org/wiki/Q30521 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "c0617": "https://www.wikidata.org/wiki/Q1061035 ；連結來源：en.wikipedia 條目",
+  "c0618": "https://www.wikidata.org/wiki/Q1151384 ；連結來源：Wikidata HA! artwork ID",
+  "c0619": "https://www.wikidata.org/wiki/Q3230453 ；連結來源：en.wikipedia 條目",
+  "c0622": "https://www.wikidata.org/wiki/Q3211044 ；連結來源：en.wikipedia 條目",
+  "c0623": "https://www.wikidata.org/wiki/Q1052784 ；連結來源：Wikidata P973（described at URL）",
+  "c0626": "https://www.wikidata.org/wiki/Q28549263 ；連結來源：Wikidata P973（described at URL）",
+  "c0629": "https://www.wikidata.org/wiki/Q19917972 ；連結來源：Wikidata The Met object ID",
+  "c0630": "https://www.wikidata.org/wiki/Q20816857 ；連結來源：Wikidata Philadelphia Museum of Art work ID",
+  "c0632": "https://www.wikidata.org/wiki/Q19917650 ；連結來源：Wikidata The Met object ID",
+  "c0634": "https://www.wikidata.org/wiki/Q1549584 ；連結來源：Wikidata P973（described at URL）",
+  "c0635": "https://www.wikidata.org/wiki/Q97378866 ；連結來源：Wikidata 頁面",
+  "c0636": "https://www.wikidata.org/wiki/Q109929965 ；連結來源：Wikidata P973（described at URL）",
+  "c0639": "https://www.wikidata.org/wiki/Q83872 ；連結來源：Wikidata P973（described at URL）",
+  "c0640": "https://www.wikidata.org/wiki/Q4808020 ；連結來源：Wikidata P973（described at URL）",
+  "c0641": "https://www.wikidata.org/wiki/Q3547037 ；連結來源：Wikidata Whitney Museum of American Art artwork ID",
+  "c0642": "https://www.wikidata.org/wiki/Q20193203 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "c0643": "https://www.wikidata.org/wiki/Q20193215 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "c0647": "https://www.wikidata.org/wiki/Q17332458 ；連結來源：en.wikipedia 條目",
+  "c0648": "https://www.wikidata.org/wiki/Q104021942 ；連結來源：Wikidata P973（described at URL）",
+  "c0649": "https://www.wikidata.org/wiki/Q5179376 ；連結來源：Wikidata The Met object ID",
+  "c0650": "https://www.wikidata.org/wiki/Q19884053 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0653": "https://www.wikidata.org/wiki/Q20276028 ；連結來源：Wikidata ARTIC artwork ID",
+  "c0655": "https://www.wikidata.org/wiki/Q105530002 ；連結來源：en.wikipedia 條目",
+  "c0656": "https://www.wikidata.org/wiki/Q5265945 ；連結來源：Wikidata P973（described at URL）",
+  "c0660": "https://www.wikidata.org/wiki/Q19884353 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0661": "https://www.wikidata.org/wiki/Q19884782 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0662": "https://www.wikidata.org/wiki/Q1769529 ；連結來源：en.wikipedia 條目",
+  "c0663": "https://www.wikidata.org/wiki/Q2873092 ；連結來源：en.wikipedia 條目",
+  "c0664": "https://www.wikidata.org/wiki/Q3828038 ；連結來源：en.wikipedia 條目",
+  "c0666": "https://www.wikidata.org/wiki/Q4540018 ；連結來源：Wikidata P973（described at URL）",
+  "c0667": "https://www.wikidata.org/wiki/Q2956755 ；連結來源：Wikidata Sotheby's Museum Network ID",
+  "c0668": "https://www.wikidata.org/wiki/Q3355036 ；連結來源：Wikidata Christie's object ID",
+  "c0669": "https://www.wikidata.org/wiki/Q28554043 ；連結來源：Wikidata P973（described at URL）",
+  "c0672": "https://www.wikidata.org/wiki/Q19885174 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0673": "https://www.wikidata.org/wiki/Q16986541 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0674": "https://www.wikidata.org/wiki/Q19885082 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0676": "https://www.wikidata.org/wiki/Q19882870 ；連結來源：Wikidata Solomon R. Guggenheim Foundation artwork ID",
+  "c0677": "https://www.wikidata.org/wiki/Q64515232 ；連結來源：Wikidata Whitney Museum of American Art artwork ID",
+  "c0678": "https://www.wikidata.org/wiki/Q65048093 ；連結來源：Wikidata P973（described at URL）",
+  "c0680": "https://www.wikidata.org/wiki/Q20267534 ；連結來源：Wikidata ARTIC artwork ID",
+  "c0682": "https://www.wikidata.org/wiki/Q3190307 ；連結來源：en.wikipedia 條目",
+  "c0683": "https://www.wikidata.org/wiki/Q2697937 ；連結來源：en.wikipedia 條目",
+  "c0684": "https://www.wikidata.org/wiki/Q573949 ；連結來源：Wikidata P973（described at URL）",
+  "c0686": "https://www.wikidata.org/wiki/Q3567592 ；連結來源：Wikidata P973（described at URL）",
+  "c0687": "https://www.wikidata.org/wiki/Q5308687 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0690": "https://www.wikidata.org/wiki/Q6901603 ；連結來源：en.wikipedia 條目",
+  "c0692": "https://www.wikidata.org/wiki/Q97378884 ；連結來源：Wikidata 頁面",
+  "c0693": "https://www.wikidata.org/wiki/Q19887711 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0694": "https://www.wikidata.org/wiki/Q673984 ；連結來源：Wikidata P973（described at URL）",
+  "c0695": "https://www.wikidata.org/wiki/Q64517268 ；連結來源：Wikidata Whitney Museum of American Art artwork ID",
+  "c0696": "https://www.wikidata.org/wiki/Q76440466 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "c0697": "https://www.wikidata.org/wiki/Q20195908 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "c0698": "https://www.wikidata.org/wiki/Q106815032 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0700": "https://www.wikidata.org/wiki/Q19883020 ；連結來源：Wikidata Solomon R. Guggenheim Foundation artwork ID",
+  "c0701": "https://www.wikidata.org/wiki/Q19887636 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0703": "https://www.wikidata.org/wiki/Q119336426 ；連結來源：Wikidata 頁面",
+  "c0704": "https://www.wikidata.org/wiki/Q19887710 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0705": "https://www.wikidata.org/wiki/Q20087562 ；連結來源：Wikidata MNAM artwork ID",
+  "c0708": "https://www.wikidata.org/wiki/Q20195538 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "c0709": "https://www.wikidata.org/wiki/Q19887553 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0710": "https://www.wikidata.org/wiki/Q64515759 ；連結來源：Wikidata Whitney Museum of American Art artwork ID",
+  "c0712": "https://www.wikidata.org/wiki/Q98609717 ；連結來源：Wikidata P973（described at URL）",
+  "c0713": "https://www.wikidata.org/wiki/Q21711742 ；連結來源：Wikidata P973（described at URL）",
+  "c0714": "https://www.wikidata.org/wiki/Q78640464 ；連結來源：Wikidata Saint Louis Art Museum artwork ID",
+  "c0716": "https://www.wikidata.org/wiki/Q200272 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0717": "https://www.wikidata.org/wiki/Q104859034 ；連結來源：Wikidata HA! artwork ID",
+  "c0719": "https://www.wikidata.org/wiki/Q50321310 ；連結來源：Wikidata P973（described at URL）",
+  "c0721": "https://www.wikidata.org/wiki/Q817095 ；連結來源：Wikidata Christie's object ID",
+  "c0722": "https://www.wikidata.org/wiki/Q987711 ；連結來源：Wikidata P973（described at URL）",
+  "c0723": "https://www.wikidata.org/wiki/Q3976302 ；連結來源：Wikidata HA! artwork ID",
+  "c0724": "https://www.wikidata.org/wiki/Q58791744 ；連結來源：Wikidata P973（described at URL）",
+  "c0725": "https://www.wikidata.org/wiki/Q19888931 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "c0727": "https://www.wikidata.org/wiki/Q20195473 ；連結來源：Wikidata P973（described at URL）",
+  "c0728": "https://www.wikidata.org/wiki/Q50303833 ；連結來源：Wikidata National Portrait Gallery (United States) object ID",
+  "c0729": "https://www.wikidata.org/wiki/Q131161015 ；連結來源：Wikidata The Met object ID",
+  "x1107": "https://www.wikidata.org/wiki/Q119858617 ；連結來源：Wikidata 頁面",
+  "y4271": "https://www.wikidata.org/wiki/Q130297847 ；連結來源：Wikidata P973（described at URL）",
+  "y4272": "https://www.wikidata.org/wiki/Q130297848 ；連結來源：Wikidata 頁面",
+  "y4280": "https://www.wikidata.org/wiki/Q20426820 ；連結來源：Wikidata P973（described at URL）",
+  "y4281": "https://www.wikidata.org/wiki/Q19882452 ；連結來源：Wikidata Solomon R. Guggenheim Foundation artwork ID",
+  "y4371": "https://www.wikidata.org/wiki/Q30275342 ；連結來源：Wikidata P973（described at URL）",
+  "y4427": "https://www.wikidata.org/wiki/Q107630974 ；連結來源：Wikidata P973（described at URL）",
+  "y4428": "https://www.wikidata.org/wiki/Q19882543 ；連結來源：Wikidata Solomon R. Guggenheim Foundation artwork ID",
+  "y4429": "https://www.wikidata.org/wiki/Q111797901 ；連結來源：Wikidata P973（described at URL）",
+  "y4430": "https://www.wikidata.org/wiki/Q5792254 ；連結來源：Wikidata P973（described at URL）",
+  "y4431": "https://www.wikidata.org/wiki/Q3713986 ；連結來源：Wikidata P973（described at URL）",
+  "y4432": "https://www.wikidata.org/wiki/Q112679010 ；連結來源：Wikidata 頁面",
+  "y4469": "https://www.wikidata.org/wiki/Q19883746 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "y4470": "https://www.wikidata.org/wiki/Q134891334 ；連結來源：Wikidata 頁面",
+  "y4471": "https://www.wikidata.org/wiki/Q134891342 ；連結來源：Wikidata 頁面",
+  "y4484": "https://www.wikidata.org/wiki/Q6455814 ；連結來源：Wikidata P973（described at URL）",
+  "y4485": "https://www.wikidata.org/wiki/Q5215400 ；連結來源：Wikidata P973（described at URL）",
+  "y4498": "https://www.wikidata.org/wiki/Q20816340 ；連結來源：Wikidata Philadelphia Museum of Art work ID",
+  "y4499": "https://www.wikidata.org/wiki/Q6753412 ；連結來源：Wikidata 頁面",
+  "y4500": "https://www.wikidata.org/wiki/Q19882531 ；連結來源：Wikidata Solomon R. Guggenheim Foundation artwork ID",
+  "y4501": "https://www.wikidata.org/wiki/Q19883612 ；連結來源：fr.wikipedia 條目",
+  "y4502": "https://www.wikidata.org/wiki/Q19883709 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "y4527": "https://www.wikidata.org/wiki/Q99937752 ；連結來源：it.wikipedia 條目",
+  "y4528": "https://www.wikidata.org/wiki/Q19919006 ；連結來源：Wikidata The Met object ID",
+  "y4532": "https://www.wikidata.org/wiki/Q26996072 ；連結來源：Wikidata P973（described at URL）",
+  "y4533": "https://www.wikidata.org/wiki/Q4500028 ；連結來源：fr.wikipedia 條目",
+  "y4534": "https://www.wikidata.org/wiki/Q19882576 ；連結來源：Wikidata P973（described at URL）",
+  "y4535": "https://www.wikidata.org/wiki/Q20200781 ；連結來源：Wikidata The Met object ID",
+  "y4536": "https://www.wikidata.org/wiki/Q26925653 ；連結來源：Wikidata P973（described at URL）",
+  "y4537": "https://www.wikidata.org/wiki/Q89151208 ；連結來源：Wikidata State Catalogue of the Museum Fund of Russia artwork ID",
+  "y4538": "https://www.wikidata.org/wiki/Q107340279 ；連結來源：Wikidata 頁面",
+  "y4539": "https://www.wikidata.org/wiki/Q111821614 ；連結來源：Wikidata 頁面",
+  "y4540": "https://www.wikidata.org/wiki/Q111821821 ；連結來源：Wikidata 頁面",
+  "y4541": "https://www.wikidata.org/wiki/Q130215060 ；連結來源：Wikidata 頁面",
+  "y4542": "https://www.wikidata.org/wiki/Q130477553 ；連結來源：Wikidata 頁面",
+  "y4543": "https://www.wikidata.org/wiki/Q19882710 ；連結來源：Wikidata Solomon R. Guggenheim Foundation artwork ID",
+  "y4544": "https://www.wikidata.org/wiki/Q20881627 ；連結來源：Wikidata 頁面",
+  "y4545": "https://www.wikidata.org/wiki/Q26950200 ；連結來源：Wikidata P973（described at URL）",
+  "y4546": "https://www.wikidata.org/wiki/Q26989087 ；連結來源：Wikidata Kulturelles Erbe Köln object ID",
+  "y4547": "https://www.wikidata.org/wiki/Q26989458 ；連結來源：Wikidata Kulturelles Erbe Köln object ID",
+  "y4548": "https://www.wikidata.org/wiki/Q26990211 ；連結來源：Wikidata P973（described at URL）",
+  "y4549": "https://www.wikidata.org/wiki/Q28538465 ；連結來源：Wikidata P973（described at URL）",
+  "y4550": "https://www.wikidata.org/wiki/Q89152256 ；連結來源：Wikidata State Catalogue of the Museum Fund of Russia artwork ID",
+  "y4551": "https://www.wikidata.org/wiki/Q111987150 ；連結來源：Wikidata 頁面",
+  "y4552": "https://www.wikidata.org/wiki/Q113003918 ；連結來源：Wikidata P973（described at URL）",
+  "y4553": "https://www.wikidata.org/wiki/Q130257190 ；連結來源：Wikidata 頁面",
+  "y4554": "https://www.wikidata.org/wiki/Q130475664 ；連結來源：Wikidata 頁面",
+  "y4555": "https://www.wikidata.org/wiki/Q16987108 ；連結來源：Wikidata P973（described at URL）",
+  "y4556": "https://www.wikidata.org/wiki/Q114143498 ；連結來源：Wikidata 頁面",
+  "y4557": "https://www.wikidata.org/wiki/Q114143738 ；連結來源：Wikidata 頁面",
+  "y4558": "https://www.wikidata.org/wiki/Q114240156 ；連結來源：Wikidata 頁面",
+  "y4559": "https://www.wikidata.org/wiki/Q115160028 ；連結來源：Wikidata P973（described at URL）",
+  "y4560": "https://www.wikidata.org/wiki/Q115160139 ；連結來源：Wikidata 頁面",
+  "y4569": "https://www.wikidata.org/wiki/Q115160223 ；連結來源：Wikidata 頁面",
+  "y4570": "https://www.wikidata.org/wiki/Q20527532 ；連結來源：Wikidata Smithsonian American Art Museum artwork ID",
+  "y4571": "https://www.wikidata.org/wiki/Q27960842 ；連結來源：Wikidata 頁面",
+  "y4678": "https://www.wikidata.org/wiki/Q167536 ；連結來源：Wikidata P973（described at URL）",
+  "y4679": "https://www.wikidata.org/wiki/Q2663568 ；連結來源：Wikidata Boijmans work ID",
+  "y4680": "https://www.wikidata.org/wiki/Q211293 ；連結來源：Wikidata P973（described at URL）",
+  "y4681": "https://www.wikidata.org/wiki/Q61944806 ；連結來源：fr.wikipedia 條目",
+  "y4682": "https://www.wikidata.org/wiki/Q50225924 ；連結來源：Wikidata 頁面",
+  "y4683": "https://www.wikidata.org/wiki/Q674682 ；連結來源：Wikidata P973（described at URL）",
+  "y4684": "https://www.wikidata.org/wiki/Q51954576 ；連結來源：Wikidata P973（described at URL）",
+  "y4697": "https://www.wikidata.org/wiki/Q28110225 ；連結來源：fr.wikipedia 條目",
+  "y4710": "https://www.wikidata.org/wiki/Q5564463 ；連結來源：Wikidata P973（described at URL）",
+  "y4711": "https://www.wikidata.org/wiki/Q15734146 ；連結來源：en.wikipedia 條目",
+  "y4712": "https://www.wikidata.org/wiki/Q21655444 ；連結來源：en.wikipedia 條目",
+  "y4713": "https://www.wikidata.org/wiki/Q19884479 ；連結來源：en.wikipedia 條目",
+  "y4714": "https://www.wikidata.org/wiki/Q5911687 ；連結來源：en.wikipedia 條目",
+  "y4715": "https://www.wikidata.org/wiki/Q7079154 ；連結來源：Wikidata P973（described at URL）",
+  "y4716": "https://www.wikidata.org/wiki/Q29097175 ；連結來源：Wikidata Whitney Museum of American Art artwork ID",
+  "y4717": "https://www.wikidata.org/wiki/Q5104805 ；連結來源：en.wikipedia 條目",
+  "y4718": "https://www.wikidata.org/wiki/Q59342515 ；連結來源：Wikidata P973（described at URL）",
+  "y4719": "https://www.wikidata.org/wiki/Q16910668 ；連結來源：en.wikipedia 條目",
+  "y4720": "https://www.wikidata.org/wiki/Q16914972 ；連結來源：Wikidata P973（described at URL）",
+  "y4721": "https://www.wikidata.org/wiki/Q20191074 ；連結來源：Wikidata The Met object ID",
+  "y4734": "https://www.wikidata.org/wiki/Q20474080 ；連結來源：Wikidata Smithsonian American Art Museum artwork ID",
+  "y4735": "https://www.wikidata.org/wiki/Q132557440 ；連結來源：Wikidata P973（described at URL）",
+  "y4736": "https://www.wikidata.org/wiki/Q19931379 ；連結來源：Wikidata Brooklyn Museum artwork ID",
+  "y4737": "https://www.wikidata.org/wiki/Q46093362 ；連結來源：Wikidata National Portrait Gallery (United States) object ID",
+  "y4738": "https://www.wikidata.org/wiki/Q64513598 ；連結來源：Wikidata Whitney Museum of American Art artwork ID",
+  "y4739": "https://www.wikidata.org/wiki/Q105497907 ；連結來源：Wikidata 頁面",
+  "y4740": "https://www.wikidata.org/wiki/Q132557302 ；連結來源：Wikidata 頁面",
+  "y4741": "https://www.wikidata.org/wiki/Q132557370 ；連結來源：Wikidata 頁面",
+  "y4742": "https://www.wikidata.org/wiki/Q132558825 ；連結來源：Wikidata 頁面",
+  "y4743": "https://www.wikidata.org/wiki/Q132566760 ；連結來源：Wikidata 頁面",
+  "y4744": "https://www.wikidata.org/wiki/Q134883716 ；連結來源：Wikidata P973（described at URL）",
+  "y4753": "https://www.wikidata.org/wiki/Q111821850 ；連結來源：Wikidata 頁面",
+  "y4754": "https://www.wikidata.org/wiki/Q20537900 ；連結來源：Wikidata Smithsonian American Art Museum artwork ID",
+  "y4755": "https://www.wikidata.org/wiki/Q3171842 ；連結來源：Wikidata ARTIC artwork ID",
+  "y4756": "https://www.wikidata.org/wiki/Q20191641 ；連結來源：Wikidata The Met object ID",
+  "y4757": "https://www.wikidata.org/wiki/Q2905377 ；連結來源：Wikidata P973（described at URL）",
+  "y4758": "https://www.wikidata.org/wiki/Q23939644 ；連結來源：Wikidata P973（described at URL）",
+  "y4759": "https://www.wikidata.org/wiki/Q110978879 ；連結來源：Wikidata Christie's object ID",
+  "y4760": "https://www.wikidata.org/wiki/Q124707993 ；連結來源：Wikidata Brooklyn Museum artwork ID",
+  "y4761": "https://www.wikidata.org/wiki/Q20816700 ；連結來源：Wikidata Philadelphia Museum of Art work ID",
+  "y4762": "https://www.wikidata.org/wiki/Q136825234 ；連結來源：Wikidata P973（described at URL）",
+  "y4763": "https://www.wikidata.org/wiki/Q63034392 ；連結來源：Wikidata 頁面",
+  "y4764": "https://www.wikidata.org/wiki/Q103967698 ；連結來源：Wikidata P973（described at URL）",
+  "y4765": "https://www.wikidata.org/wiki/Q135416319 ；連結來源：Wikidata 頁面",
+  "y4766": "https://www.wikidata.org/wiki/Q135416338 ；連結來源：Wikidata 頁面",
+  "y4767": "https://www.wikidata.org/wiki/Q20200323 ；連結來源：Wikidata The Met object ID",
+  "y4768": "https://www.wikidata.org/wiki/Q20504653 ；連結來源：Wikidata Smithsonian American Art Museum artwork ID",
+  "y4769": "https://www.wikidata.org/wiki/Q20816815 ；連結來源：Wikidata Philadelphia Museum of Art work ID",
+  "y4770": "https://www.wikidata.org/wiki/Q60473381 ；連結來源：Wikidata P973（described at URL）",
+  "y4771": "https://www.wikidata.org/wiki/Q64577533 ；連結來源：Wikidata 頁面",
+  "y4772": "https://www.wikidata.org/wiki/Q139059733 ；連結來源：Wikidata 頁面",
+  "y4786": "https://www.wikidata.org/wiki/Q20275878 ；連結來源：Wikidata ARTIC artwork ID",
+  "y4796": "https://www.wikidata.org/wiki/Q6135245 ；連結來源：en.wikipedia 條目",
+  "y4797": "https://www.wikidata.org/wiki/Q105530002 ；連結來源：en.wikipedia 條目",
+  "y4798": "https://www.wikidata.org/wiki/Q21606628 ；連結來源：Wikidata P973（described at URL）",
+  "y4799": "https://www.wikidata.org/wiki/Q115329547 ；連結來源：es.wikipedia 條目",
+  "y4800": "https://www.wikidata.org/wiki/Q19883636 ；連結來源：Wikidata Museum of Modern Art work ID",
+  "y4801": "https://www.wikidata.org/wiki/Q19922336 ；連結來源：Wikidata The Met object ID",
+  "y4802": "https://www.wikidata.org/wiki/Q20191555 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4803": "https://www.wikidata.org/wiki/Q20191928 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4804": "https://www.wikidata.org/wiki/Q20276030 ；連結來源：Wikidata ARTIC artwork ID",
+  "y4805": "https://www.wikidata.org/wiki/Q21725211 ；連結來源：Wikidata Hermitage Museum work ID",
+  "y4806": "https://www.wikidata.org/wiki/Q24018777 ；連結來源：Wikidata P973（described at URL）",
+  "y4807": "https://www.wikidata.org/wiki/Q24059893 ；連結來源：Wikidata P973（described at URL）",
+  "y4820": "https://www.wikidata.org/wiki/Q115330296 ；連結來源：en.wikipedia 條目",
+  "y4821": "https://www.wikidata.org/wiki/Q107392170 ；連結來源：es.wikipedia 條目",
+  "y4822": "https://www.wikidata.org/wiki/Q19873508 ；連結來源：Wikidata Christie's object ID",
+  "y4823": "https://www.wikidata.org/wiki/Q20195030 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4824": "https://www.wikidata.org/wiki/Q20195081 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4825": "https://www.wikidata.org/wiki/Q20195455 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4826": "https://www.wikidata.org/wiki/Q20195511 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4827": "https://www.wikidata.org/wiki/Q20195530 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4828": "https://www.wikidata.org/wiki/Q20195722 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4829": "https://www.wikidata.org/wiki/Q20195782 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4830": "https://www.wikidata.org/wiki/Q20196031 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4831": "https://www.wikidata.org/wiki/Q20196078 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4832": "https://www.wikidata.org/wiki/Q20196179 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4833": "https://www.wikidata.org/wiki/Q20196364 ；連結來源：Wikidata National Gallery of Art artwork ID",
+  "y4846": "https://www.wikidata.org/wiki/Q20489189 ；連結來源：Wikidata Smithsonian American Art Museum artwork ID",
+  "y4847": "https://www.wikidata.org/wiki/Q20489047 ；連結來源：Wikidata Smithsonian American Art Museum artwork ID",
+  "y4848": "https://www.wikidata.org/wiki/Q20267365 ；連結來源：Wikidata ARTIC artwork ID",
+  "y5205": "https://www.wikidata.org/wiki/Q89373129 ；連結來源：Wikidata P973（described at URL）",
+  "y5206": "https://www.wikidata.org/wiki/Q130297844 ；連結來源：Wikidata 頁面",
+  "y5207": "https://www.wikidata.org/wiki/Q130297845 ；連結來源：Wikidata 頁面",
+  "y5210": "https://www.wikidata.org/wiki/Q30887699 ；連結來源：it.wikipedia 條目",
+  "y5214": "https://www.wikidata.org/wiki/Q61753276 ；連結來源：es.wikipedia 條目",
+  "y5215": "https://www.wikidata.org/wiki/Q140366116 ；連結來源：Wikidata 頁面"
+ }
+}

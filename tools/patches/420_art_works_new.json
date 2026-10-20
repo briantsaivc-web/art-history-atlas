@@ -1,0 +1,236 @@
+{
+  "file": "works.json",
+  "key": "id",
+  "description": "為 14 位有畫家傳記但尚無作品的畫家增補代表名作，確保畫家清單與作品集 100% 關聯覆蓋",
+  "add": [
+    {
+      "id": "x1153",
+      "m": "greek",
+      "a": "Apelles",
+      "t": "Calumny of Apelles (description)",
+      "z": "阿佩萊斯的誹謗（古代文獻記載）",
+      "y": "c. 330 BC",
+      "mu": "Unknown / not recorded",
+      "mu_id": "unknown",
+      "th": [
+        "神話／寓言",
+        "歷史／戰爭"
+      ],
+      "n": "古希臘傳奇宮廷畫家阿佩萊斯名作，原件失傳。琉善記載其象徵無辜、誹謗、陰謀與真理，波提切利依此重構傳世。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "x1154",
+      "m": "expressionism",
+      "a": "Karl Schmidt-Rottluff",
+      "t": "Self-Portrait with Monocle",
+      "z": "戴單片眼鏡的自畫像",
+      "y": "1910",
+      "mu": "Nationalgalerie, Staatliche Museen zu Berlin",
+      "mu_id": "alte_nationalgalerie_berlin",
+      "th": [
+        "肖像"
+      ],
+      "n": "橋社核心創始人的經典自畫像。大塊未調和的純色對比與木刻般粗厚剛勁的稜角輪廓，體現早期表現主義的直率生命力。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "x1155",
+      "m": "suprematism",
+      "a": "Naum Gabo",
+      "t": "Linear Construction in Space No. 1",
+      "z": "空間中的線條構成第一號",
+      "y": "1942–1943",
+      "mu": "Tate, London",
+      "mu_id": "tate_britain_london",
+      "th": [
+        "抽象／非具象"
+      ],
+      "n": "構成主義先鋒以透明有機玻璃板與緊繃尼龍線交織，使空間本身成為量體與光學載體，實踐1920年《現實主義宣言》美學。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "x1156",
+      "m": "destijl",
+      "a": "Vilmos Huszár",
+      "t": "Composition II (The Skaters)",
+      "z": "構成二號（滑冰者）",
+      "y": "1917",
+      "mu": "Kunstmuseum Den Haag",
+      "mu_id": "kunstmuseum_den_haag",
+      "th": [
+        "人物／風俗"
+      ],
+      "n": "荷蘭風格派（De Stijl）創始成員的重要繪畫。將溜冰者的動態形體極度簡化為嚴密幾何色塊網格，是具象邁向純粹抽象的典範。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "x1157",
+      "m": "surrealism",
+      "a": "André Masson",
+      "t": "Battle of Fishes",
+      "z": "魚之戰",
+      "y": "1926",
+      "mu": "Museum of Modern Art, New York",
+      "mu_id": "museum_of_modern_art_new_york",
+      "th": [
+        "動物",
+        "神話／寓言"
+      ],
+      "n": "超現實主義「自動性繪畫」奠基之作。在畫布灑膠水與海沙，順隨沙粒軌跡以筆墨勾勒狂暴撕咬的魚群，象徵自然殘酷的生存慾望。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "x1158",
+      "m": "surrealism",
+      "a": "Leonor Fini",
+      "t": "The Ideal Life",
+      "z": "理想的生活",
+      "y": "1936",
+      "mu": "Private collection",
+      "mu_id": "private_collection",
+      "th": [
+        "肖像",
+        "神話／寓言"
+      ],
+      "n": "超現實主義女性大師代表作。融合斯芬克斯與強大獨立的女性形象，筆法細膩冷冽，顛覆傳統男性凝視與神話符碼。",
+      "pd": false,
+      "tier": "canon"
+    },
+    {
+      "id": "x1159",
+      "m": "surrealism",
+      "a": "Hans Bellmer",
+      "t": "The Doll (La Poupée)",
+      "z": "人偶",
+      "y": "1935–1936",
+      "mu": "Centre Pompidou, Paris",
+      "mu_id": "centre_pompidou_paris",
+      "th": [
+        "人物／風俗"
+      ],
+      "n": "以可拆卸重組的球關節人偶拍照與手繪上色，藉由扭曲肢體反抗納粹極權體制下的健全肉體神話，探索潛意識的解構與慾望。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "x1160",
+      "m": "surrealism",
+      "a": "Victor Brauner",
+      "t": "Self-Portrait with Enucleated Eye",
+      "z": "摘除眼球的自畫像",
+      "y": "1931",
+      "mu": "Centre Pompidou, Paris",
+      "mu_id": "centre_pompidou_paris",
+      "th": [
+        "肖像"
+      ],
+      "n": "超現實主義史上最震撼的預言自畫像。布勞納在1931年畫下自己右眼殘缺流血的模樣，七年後在勸架中不幸真被玻璃割去右眼。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "x1161",
+      "m": "neuesachlichkeit",
+      "a": "Karl Hubbuch",
+      "t": "Hilde Is Sitting on the Table",
+      "z": "坐在桌上的希爾德",
+      "y": "1927",
+      "mu": "Staatliche Kunsthalle Karlsruhe",
+      "mu_id": "staatliche_kunsthalle_karlsruhe",
+      "th": [
+        "肖像",
+        "人物／風俗"
+      ],
+      "n": "威瑪共和時期新即物主義代表作。以冷靜精準的輪廓線描繪妻子希爾德，呈現摩登女郎的俐落髮型與獨立神情，記錄戰間期都會氣質。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "x1162",
+      "m": "abex",
+      "a": "Hans Hofmann",
+      "t": "The Gate",
+      "z": "門",
+      "y": "1959–1960",
+      "mu": "Solomon R. Guggenheim Museum, New York",
+      "mu_id": "solomon_r_guggenheim_museum_new_york",
+      "th": [
+        "抽象／非具象"
+      ],
+      "n": "抽象表現主義教父「推與拉」（Push and Pull）理論巔峰。純色矩形色塊與狂放筆觸並置，利用冷暖前進後退營造深邃空間律動。",
+      "pd": false,
+      "tier": "canon"
+    },
+    {
+      "id": "x1163",
+      "m": "pop",
+      "a": "Eduardo Paolozzi",
+      "t": "I Was a Rich Man's Plaything",
+      "z": "我曾是富人的玩物",
+      "y": "1947",
+      "mu": "Tate, London",
+      "mu_id": "tate_britain_london",
+      "th": [
+        "人物／風俗"
+      ],
+      "n": "普普藝術史公認的第一件原型作品。剪貼美國大眾雜誌封面與廣告，畫面左方左輪手槍噴出鮮明「POP!」字樣，奠定普普視覺語言。",
+      "pd": false,
+      "tier": "canon"
+    },
+    {
+      "id": "x1164",
+      "m": "minimalism",
+      "a": "Sol LeWitt",
+      "t": "Wall Drawing No. 118",
+      "z": "牆上繪畫第118號",
+      "y": "1971",
+      "mu": "Museum of Modern Art, New York",
+      "mu_id": "museum_of_modern_art_new_york",
+      "th": [
+        "抽象／非具象"
+      ],
+      "n": "極簡與觀念藝術里程碑。只提供簡明指令：「在牆面上以均勻隨機方式手繪五萬條不相交線條」，使觀念本身凌駕於物理執行之上。",
+      "pd": false,
+      "tier": "canon"
+    },
+    {
+      "id": "x1165",
+      "m": "minimalism",
+      "a": "Dan Flavin",
+      "t": "the diagonal of May 25, 1963 (to Constantin Brancusi)",
+      "z": "1963年5月25日的對角線（致康斯坦丁·布朗庫西）",
+      "y": "1963",
+      "mu": "Museum of Modern Art, New York",
+      "mu_id": "museum_of_modern_art_new_york",
+      "th": [
+        "抽象／非具象"
+      ],
+      "n": "極簡燈光雕塑開端。以45度角斜置於牆面的黃色螢光燈管，光芒彌漫擴散重新塑造建築邊界，將工業現成物轉化為純粹光的精神空間。",
+      "pd": false,
+      "tier": "canon"
+    },
+    {
+      "id": "x1166",
+      "m": "postmodern",
+      "a": "Julian Schnabel",
+      "t": "The Patients and the Doctors",
+      "z": "病患與醫生",
+      "y": "1978",
+      "mu": "Private collection",
+      "mu_id": "private_collection",
+      "th": [
+        "人物／風俗",
+        "神話／寓言"
+      ],
+      "n": "新表現主義成名作「盤子畫」（Plate Painting）。在黏滿破碎瓷盤的厚木板上狂放塗抹油彩，粗糲尖銳的觸覺肌理喚醒史詩般的傷痛力量。",
+      "pd": false,
+      "tier": "canon"
+    }
+  ]
+}

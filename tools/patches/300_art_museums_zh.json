@@ -1,0 +1,88 @@
+{
+ "file": "museums.json",
+ "key": "id",
+ "description": "300_art_museums_zh: 補齊 museums.json 中 14 個中文名稱空白的館藏與私人收藏名稱",
+ "set": {
+  "saffron_collection": {
+   "zh": "藏紅花收藏",
+   "city": "倫敦",
+   "country": "英國"
+  },
+  "concept_of_unknown_value_in_wikibase": {
+   "zh": "下落不明／失竊",
+   "city": "未知",
+   "country": "未知"
+  },
+  "cittadella_duomo": {
+   "zh": "奇塔代拉主教座堂",
+   "city": "奇塔代拉",
+   "country": "義大利"
+  },
+  "heritage_fund": {
+   "zh": "國家遺產紀念基金會",
+   "city": "倫敦",
+   "country": "英國"
+  },
+  "kabinet_van_heteren_gevers": {
+   "zh": "範海特倫·赫弗斯藏畫室",
+   "city": "海牙",
+   "country": "荷蘭"
+  },
+  "gebruder_douwes": {
+   "zh": "杜維斯兄弟畫廊",
+   "city": "阿姆斯特丹",
+   "country": "荷蘭"
+  },
+  "aurora_trust": {
+   "zh": "奧羅拉信託基金會",
+   "city": "倫敦",
+   "country": "英國"
+  },
+  "complesso_di_santa_caterina": {
+   "zh": "聖卡特琳娜修道院建築群（特雷維索市立博物館）",
+   "city": "特雷維索",
+   "country": "義大利"
+  },
+  "dr_and_mrs_ernst_fischer": {
+   "zh": "恩斯特·費雪爾博士夫婦收藏",
+   "city": "紐約",
+   "country": "美國"
+  },
+  "nepip": {
+   "zh": "英格蘭東北肖像倡議信託",
+   "city": "新堡",
+   "country": "英國"
+  },
+  "brett_gorvy": {
+   "zh": "布雷特·戈維私人收藏",
+   "city": "紐約",
+   "country": "美國"
+  },
+  "m_t_abraham_center_for_the_visual_arts": {
+   "zh": "M.T. 亞伯拉罕視覺藝術中心",
+   "city": "巴黎",
+   "country": "法國"
+  },
+  "campagnola_cremasca": {
+   "zh": "坎帕尼奧拉克雷馬斯卡堂區聖堂",
+   "city": "克雷馬",
+   "country": "義大利"
+  },
+  "collection_lavalard_fr_res_de_roye": {
+   "zh": "羅亞拉瓦拉爾兄弟收藏（皮卡第博物館）",
+   "city": "亞眠",
+   "country": "法國"
+  }
+ },
+ "evidence": {
+  "saffron_collection": "倫敦著名私人當代藝術信託 Saffron Collection",
+  "concept_of_unknown_value_in_wikibase": "Wikidata 屬性之 unknown value 佔位項",
+  "cittadella_duomo": "Duomo di Cittadella（義大利帕多瓦省）",
+  "heritage_fund": "英國 National Heritage Memorial Fund",
+  "kabinet_van_heteren_gevers": "荷蘭歷史知名藏畫室 Adriaan Leonard van Heteren Gevers",
+  "gebruder_douwes": "阿姆斯特丹歷史藝術經紀商 Gebr. Douwes Fine Art",
+  "complesso_di_santa_caterina": "Musei Civici di Treviso - Complesso di Santa Caterina",
+  "m_t_abraham_center_for_the_visual_arts": "M.T. Abraham Group Visual Arts Center",
+  "collection_lavalard_fr_res_de_roye": "Musée de Picardie historical donation"
+ }
+}

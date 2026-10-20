@@ -1672,9 +1672,9 @@
  },
  "saffron_collection": {
   "en": "Saffron Collection",
-  "zh": "",
-  "city": "",
-  "country": "",
+  "zh": "藏紅花收藏",
+  "city": "倫敦",
+  "country": "英國",
   "count": 1,
   "zh_status": "UNKNOWN（尚未補中文名）"
  },
@@ -4817,9 +4817,9 @@
  },
  "concept_of_unknown_value_in_wikibase": {
   "en": "concept of unknown value in Wikibase",
-  "zh": "",
-  "city": "UNKNOWN",
-  "country": "UNKNOWN",
+  "zh": "下落不明／失竊",
+  "city": "未知",
+  "country": "未知",
   "count": 1
  },
  "charles_sedelmeyer_collection": {
@@ -5027,8 +5027,8 @@
  },
  "cittadella_duomo": {
   "en": "Cittadella Duomo",
-  "zh": "",
-  "city": "UNKNOWN",
+  "zh": "奇塔代拉主教座堂",
+  "city": "奇塔代拉",
   "country": "義大利",
   "count": 1
  },
@@ -5398,9 +5398,9 @@
  },
  "heritage_fund": {
   "en": "Heritage Fund",
-  "zh": "",
-  "city": "UNKNOWN",
-  "country": "UNKNOWN",
+  "zh": "國家遺產紀念基金會",
+  "city": "倫敦",
+  "country": "英國",
   "count": 2
  },
  "royal_monastery_of_san_lorenzo_de_el_escorial": {
@@ -5643,8 +5643,8 @@
  },
  "kabinet_van_heteren_gevers": {
   "en": "Kabinet van Heteren Gevers",
-  "zh": "",
-  "city": "UNKNOWN",
+  "zh": "範海特倫·赫弗斯藏畫室",
+  "city": "海牙",
   "country": "荷蘭",
   "count": 4
  },
@@ -5734,8 +5734,8 @@
  },
  "gebruder_douwes": {
   "en": "Gebruder Douwes",
-  "zh": "",
-  "city": "UNKNOWN",
+  "zh": "杜維斯兄弟畫廊",
+  "city": "阿姆斯特丹",
   "country": "荷蘭",
   "count": 1
  },
@@ -5832,9 +5832,9 @@
  },
  "aurora_trust": {
   "en": "Aurora Trust",
-  "zh": "",
-  "city": "UNKNOWN",
-  "country": "UNKNOWN",
+  "zh": "奧羅拉信託基金會",
+  "city": "倫敦",
+  "country": "英國",
   "count": 1
  },
  "national_trust": {
@@ -6126,7 +6126,7 @@
  },
  "complesso_di_santa_caterina": {
   "en": "Complesso di santa Caterina",
-  "zh": "",
+  "zh": "聖卡特琳娜修道院建築群（特雷維索市立博物館）",
   "city": "特雷維索",
   "country": "義大利",
   "count": 2
@@ -8044,9 +8044,9 @@
  },
  "dr_and_mrs_ernst_fischer": {
   "en": "Dr. and Mrs. Ernst Fischer",
-  "zh": "",
-  "city": "UNKNOWN",
-  "country": "UNKNOWN",
+  "zh": "恩斯特·費雪爾博士夫婦收藏",
+  "city": "紐約",
+  "country": "美國",
   "count": 1
  },
  "w_rth_collection": {
@@ -8093,9 +8093,9 @@
  },
  "nepip": {
   "en": "NEPIP",
-  "zh": "",
-  "city": "UNKNOWN",
-  "country": "UNKNOWN",
+  "zh": "英格蘭東北肖像倡議信託",
+  "city": "新堡",
+  "country": "英國",
   "count": 1
  },
  "national_gallery_of_australia": {
@@ -8191,9 +8191,9 @@
  },
  "brett_gorvy": {
   "en": "Brett Gorvy",
-  "zh": "",
-  "city": "UNKNOWN",
-  "country": "UNKNOWN",
+  "zh": "布雷特·戈維私人收藏",
+  "city": "紐約",
+  "country": "美國",
   "count": 1
  },
  "radishchev_art_museum": {
@@ -8282,9 +8282,9 @@
  },
  "m_t_abraham_center_for_the_visual_arts": {
   "en": "M.T. Abraham Center for the Visual Arts",
-  "zh": "",
-  "city": "UNKNOWN",
-  "country": "美國",
+  "zh": "M.T. 亞伯拉罕視覺藝術中心",
+  "city": "巴黎",
+  "country": "法國",
   "count": 1
  },
  "fundaci_joan_mir": {
@@ -8506,8 +8506,8 @@
  },
  "campagnola_cremasca": {
   "en": "Campagnola Cremasca",
-  "zh": "",
-  "city": "UNKNOWN",
+  "zh": "坎帕尼奧拉克雷馬斯卡堂區聖堂",
+  "city": "克雷馬",
   "country": "義大利",
   "count": 1
  },
@@ -8576,9 +8576,9 @@
  },
  "collection_lavalard_fr_res_de_roye": {
   "en": "collection Lavalard Frères de Roye",
-  "zh": "",
-  "city": "UNKNOWN",
-  "country": "UNKNOWN",
+  "zh": "羅亞拉瓦拉爾兄弟收藏（皮卡第博物館）",
+  "city": "亞眠",
+  "country": "法國",
   "count": 1
  },
  "biblioth_que_municipale_de_besan_on": {
