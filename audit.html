@@ -11,7 +11,7 @@ const L=m=>{const el=document.getElementById('log');el.textContent+=m+'\n';el.sc
 const K=()=>localStorage.getItem('gkey')||'';
 document.getElementById('key').value=K();
 document.getElementById('clear').onclick=()=>{localStorage.removeItem('gkey');document.getElementById('key').value='';L('金鑰已清除')};
-window.__AUD={state:'idle',done:[],results:{}};
+window.__AUD={state:'idle',done:[],results:{}};try{const sv=JSON.parse(localStorage.getItem('aud_art-history-atlas')||'{}');window.__AUD.results=sv;window.__AUD.done=Object.keys(sv).map(Number);if(window.__AUD.done.length)setTimeout(()=>L('已從本機還原 '+window.__AUD.done.length+' 批先前結果（可用 dumpAll() 下載；清除請執行 localStorage.removeItem("'aud_art-history-atlas'")）'),500)}catch(e){}
 document.getElementById('save').onclick=()=>{localStorage.setItem('gkey',document.getElementById('key').value.trim());L('金鑰已儲存於本機')};
 const BATCH_URL='https://raw.githubusercontent.com/briantsaivc-web/art-history-atlas/main/work_gemini_batches.json';
 let B=[];
@@ -31,7 +31,8 @@ async function runBatch(b){const model=document.getElementById('model').value;L(
  let parsed=null;try{parsed=JSON.parse(txt.replace(/^```json|```$/gm,'').trim())}catch(e){}
  const out={batch:b.batch,model,grounded,ids:b.ids,raw:txt,parsed,grounding_queries:grounding?.webSearchQueries||[],grounding_chunks:(grounding?.groundingChunks||[]).map(c=>c.web?.uri).filter(Boolean),usage:j.usageMetadata||null};
  const blob=new Blob([JSON.stringify(out,null,1)],{type:'application/json'});const u=URL.createObjectURL(blob);const a=document.createElement('a');a.href=u;a.download=`gemini_audit_batch${b.batch}.json`;document.body.appendChild(a);a.click();a.remove();
- window.__AUD.results[b.batch]=out;window.__AUD.done.push(b.batch);L(`第 ${b.batch} 批完成（${grounded?'有搜尋':'無搜尋'}）：解析 ${parsed?parsed.length:'失敗'} 筆，搜尋 ${out.grounding_queries.length} 次，來源 ${out.grounding_chunks.length} 個，tokens ${j.usageMetadata?.totalTokenCount||'?'}`);return true}
+ window.__AUD.results[b.batch]=out;window.__AUD.done.push(b.batch);try{localStorage.setItem('aud_art-history-atlas',JSON.stringify(window.__AUD.results))}catch(e){}L(`第 ${b.batch} 批完成（${grounded?'有搜尋':'無搜尋'}）：解析 ${parsed?parsed.length:'失敗'} 筆，搜尋 ${out.grounding_queries.length} 次，來源 ${out.grounding_chunks.length} 個，tokens ${j.usageMetadata?.totalTokenCount||'?'}`);return true}
+window.dumpAll=()=>{const blob=new Blob([JSON.stringify(window.__AUD.results)],{type:'application/json'});const u=URL.createObjectURL(blob);const a=document.createElement('a');a.href=u;a.download='gemini_audit_all.json';document.body.appendChild(a);a.click();a.remove()};
 window.runAll=async()=>{document.getElementById('all').checked=true;document.getElementById('run').click()};
 document.getElementById('run').onclick=async()=>{window.__AUD.state='running';if(!K()){L('請先儲存金鑰');return}if(!document.getElementById('model').value){L('請先列出模型');return}
  const all=document.getElementById('all').checked;const sel=+document.getElementById('batch').value;
