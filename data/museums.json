@@ -4817,9 +4817,9 @@
  },
  "concept_of_unknown_value_in_wikibase": {
   "en": "concept of unknown value in Wikibase",
-  "zh": "下落不明／失竊",
-  "city": "未知",
-  "country": "未知",
+  "zh": "",
+  "city": "UNKNOWN",
+  "country": "UNKNOWN",
   "count": 1
  },
  "charles_sedelmeyer_collection": {
