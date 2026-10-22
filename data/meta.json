@@ -1,11 +1,11 @@
 {
  "version": "v10",
- "updated": "2026-10-19",
+ "updated": "2026-10-22",
  "counts": {
   "movements": 43,
   "artists": 542,
-  "works": 7364,
-  "with_image": 6420,
+  "works": 7377,
+  "with_image": 6675,
   "museums": 1226
  },
  "notes": [
