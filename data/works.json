@@ -12217,7 +12217,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/490034",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0524",
@@ -12240,7 +12242,9 @@
   "mu_id": "national_gallery_of_art_washington",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q20192955",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0525",
@@ -12263,7 +12267,9 @@
   "mu_id": "private_collection",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q121774990",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0526",
@@ -12369,7 +12375,9 @@
     "\"degenerate art\" collection",
     "Statens Museum for Kunst"
    ]
-  }
+  },
+  "link": "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=121797&viewType=detailView",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0530",
@@ -12588,7 +12596,9 @@
    "mu": [
     "Lenbachhaus"
    ]
-  }
+  },
+  "link": "https://sammlungonline.lenbachhaus.de/objekt/jawlensky-und-werefkin-30018337.html",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0539",
@@ -12623,7 +12633,9 @@
     "Hamburger Kunsthalle",
     "Kunstmuseum Basel"
    ]
-  }
+  },
+  "link": "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=118283&viewType=detailView",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0540",
@@ -12887,7 +12899,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79766",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0551",
@@ -12920,7 +12934,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/111060",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0552",
@@ -12953,7 +12969,9 @@
    "mu": [
     "Museo Nacional Centro de Arte Reina Sofía"
    ]
-  }
+  },
+  "link": "http://www.museoreinasofia.es/en/collection/artwork/guernica",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0553",
@@ -12986,7 +13004,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/78630",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0554",
@@ -13020,7 +13040,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/28067",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0555",
@@ -13053,7 +13075,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q5433371",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0556",
@@ -13087,7 +13111,9 @@
     "Tate Modern",
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/picasso-weeping-woman-t05010",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0557",
@@ -13121,7 +13147,9 @@
    "mu": [
     "Kunstmuseum Bern"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q1162671",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0558",
@@ -13144,7 +13172,9 @@
   "mu_id": "san_francisco_museum_of_modern_art",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q61467015",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0559",
@@ -13167,7 +13197,9 @@
   "mu_id": "private_collection",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.metmuseum.org/art/collection/search/490612",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0560",
@@ -13307,7 +13339,9 @@
   "mu_id": "centre_pompidou_paris",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q134884820",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0566",
@@ -13331,7 +13365,9 @@
   "mu_id": "philadelphia_museum_of_art",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q421716",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0567",
@@ -13364,7 +13400,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q6508028",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0568",
@@ -13460,7 +13498,9 @@
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.albrightknox.org/collection/search/piece:505/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0572",
@@ -13484,7 +13524,9 @@
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.moma.org/collection/works/78382",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0573",
@@ -13518,7 +13560,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79225",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0574",
@@ -13552,7 +13596,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79419",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0575",
@@ -13586,7 +13632,9 @@
     "Russian Museum",
     "Art Culture Museum Petrograd"
    ]
-  }
+  },
+  "link": "http://rusmuseumvrm.ru/data/collections/painting/19_20/zhb_1600/index.php?lang=ru",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0576",
@@ -13619,7 +13667,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/80419",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0577",
@@ -13650,7 +13700,9 @@
     1914
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q4289293",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0578",
@@ -13673,7 +13725,9 @@
   "mu_id": "private_collection",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q7730357",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0579",
@@ -13696,7 +13750,9 @@
   "mu_id": "museo_morandi_bologna",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.moma.org/collection/works/79411",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0580",
@@ -13720,7 +13776,9 @@
   "mu_id": "various_tate_philadelphia_pompidou",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_193771",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0581",
@@ -13753,7 +13811,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_199796",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0582",
@@ -13786,7 +13846,9 @@
    "mu": [
     "Neue Nationalgalerie"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q107450751",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0583",
@@ -13935,7 +13997,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/34169",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0589",
@@ -14258,7 +14322,9 @@
   "mu_id": "kr_ller_m_ller_museum_otterlo",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.gemeentemuseum.nl/nl/collectie/compositie-nr-8",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0603",
@@ -14289,7 +14355,9 @@
     1923
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.jeanneret-chandigarh.com",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0604",
@@ -14440,7 +14508,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20192219",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0610",
@@ -14463,7 +14533,9 @@
   "mu_id": "various",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q134435026",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0611",
@@ -14566,7 +14638,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79018",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0615",
@@ -14598,7 +14672,9 @@
     1937
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.salvador-dali.org/en/artwork/catalogue-raisonne-paintings/colleccions/private-collection/454/swans-reflecting-elephants",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0616",
@@ -14632,7 +14708,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q30521",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0617",
@@ -14666,7 +14744,9 @@
     "Los Angeles County Museum of Art",
     "Mr. and Mrs. William Preston Harrison Collection"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:La_Trahison_des_images",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "c0618",
@@ -14697,7 +14777,9 @@
     1964
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q1151384",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0619",
@@ -14732,7 +14814,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79933",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0620",
@@ -14755,7 +14839,9 @@
   "mu_id": "various_guggenheim_venice_brussels",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q19882743",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0621",
@@ -14778,7 +14864,9 @@
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.albrightknox.org/artworks/rca19408-carnaval-darlequin-carnival-harlequin",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0622",
@@ -14811,7 +14899,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79321",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0623",
@@ -14844,7 +14934,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/ernst-celebes-t01988",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0624",
@@ -14924,7 +15016,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/delvaux-sleeping-venus-t00134",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0627",
@@ -14947,7 +15041,9 @@
   "mu_id": "museo_de_arte_moderno_mexico_city",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.fridakahlo.org/the-two-fridas.jsp",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0628",
@@ -14970,7 +15066,9 @@
   "mu_id": "harry_ransom_center_austin",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.fridakahlo.org/self-portrait-with-thorn-necklace-and-hummingbird.jsp",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0629",
@@ -15005,7 +15103,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/492697",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0630",
@@ -15039,7 +15139,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20816857",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0631",
@@ -15097,7 +15199,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/488856",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0633",
@@ -15120,7 +15224,9 @@
   "mu_id": "centre_pompidou_paris",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q3399478",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0634",
@@ -15154,7 +15260,9 @@
    "mu": [
     "Kunstmuseum Stuttgart"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q1549584",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0635",
@@ -15186,7 +15294,9 @@
     1926
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q97378866",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0636",
@@ -15219,7 +15329,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "https://www.tate.org.uk/art/artworks/schad-self-portrait-l01710",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0637",
@@ -15255,17 +15367,19 @@
   "n": "新即物主義的「田園」支脈，靜止如壁畫。",
   "pd": true,
   "tier": "canon",
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Georg%20Schrimpf%20Girl%20on%20a%20Balcony",
-  "verif": "查無：已搜尋 1–2 次未找到可確認的 Commons 檔名，僅提供連結",
+  "thumb": "img/thumb/c0638.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Georg_Schrimpf_-_Auf_dem_Balkon_%281927%29.jpg",
+  "verif": "Wikidata 條目 Q111801364 之 P18 圖檔，2026-10-22 下載並經目視比對",
   "th": [
    "人物／風俗"
   ],
   "mu_id": "neue_nationalgalerie_berlin",
-  "local": false,
-  "img_ext": null,
-  "img": null
+  "local": true,
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Schrimpf_-_Auf_dem_Balkon_%281927%29.jpg?width=1000",
+  "img": "img/800/c0638.webp",
+  "link": "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=124482&viewType=detailView",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0639",
@@ -15299,7 +15413,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/111628",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0640",
@@ -15332,7 +15448,9 @@
    "mu": [
     "Des Moines Art Center"
    ]
-  }
+  },
+  "link": "https://emuseum.desmoinesartcenter.org/objects/41752/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0641",
@@ -15365,7 +15483,9 @@
    "mu": [
     "Whitney Museum of American Art"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Early_Sunday_Morning",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "c0642",
@@ -15398,7 +15518,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20193203",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0643",
@@ -15432,7 +15554,9 @@
     "National Gallery of Art",
     "Corcoran Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20193215",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0644",
@@ -15479,7 +15603,9 @@
   "mu_id": "national_gallery_of_art_washington",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q20193218",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0646",
@@ -15535,7 +15661,9 @@
     1941
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q17332458",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0648",
@@ -15568,7 +15696,9 @@
    "mu": [
     "Crystal Bridges Museum of American Art"
    ]
-  }
+  },
+  "link": "https://collection.crystalbridges.org/objects/5355/jimson-weedwhite-flower-no-1",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0649",
@@ -15602,7 +15732,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/488694",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0650",
@@ -15635,7 +15767,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79032",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0651",
@@ -15683,7 +15817,9 @@
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.moma.org/collection/works/78455",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0653",
@@ -15716,7 +15852,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/117266",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0654",
@@ -15773,7 +15911,9 @@
    "mu": [
     "Palace of Fine arts"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:El_hombre_controlador_del_universo",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "c0656",
@@ -15807,7 +15947,9 @@
    "mu": [
     "Detroit Institute of Arts"
    ]
-  }
+  },
+  "link": "https://dia.org/collection/detroit-industry-murals-58537",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0657",
@@ -15912,7 +16054,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/80144",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0661",
@@ -15945,7 +16089,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79030",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0662",
@@ -15976,7 +16122,9 @@
     1948
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q1769529",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0663",
@@ -16009,7 +16157,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/488978",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0664",
@@ -16042,7 +16192,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3828038",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0665",
@@ -16065,7 +16217,9 @@
   "mu_id": "university_of_iowa_stanley_museum_of_art",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "http://www.getty.edu/art/exhibitions/pollock/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0666",
@@ -16098,7 +16252,9 @@
    "mu": [
     "Museum of Contemporary Art, Los Angeles"
    ]
-  }
+  },
+  "link": "http://www.moca.org/collection/work/no-61-rust-and-blue-brown-blue-brown-on-blue",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0667",
@@ -16130,7 +16286,9 @@
     1971
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Rothko_Chapel",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "c0668",
@@ -16161,7 +16319,9 @@
     1961
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3355036",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0669",
@@ -16194,7 +16354,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/rothko-untitled-t04148",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0670",
@@ -16217,7 +16379,9 @@
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q64636033",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0671",
@@ -16240,7 +16404,9 @@
   "mu_id": "art_institute_of_chicago",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.artic.edu/artworks/76244",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0672",
@@ -16273,7 +16439,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/78319",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0673",
@@ -16307,7 +16475,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79250",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0674",
@@ -16340,7 +16510,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79601",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0675",
@@ -16363,7 +16535,9 @@
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.albrightknox.org/artworks/k195926-1957-d-no-1",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0676",
@@ -16394,7 +16568,9 @@
    "mu": [
     "Solomon R. Guggenheim Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19882870",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0677",
@@ -16427,7 +16603,9 @@
    "mu": [
     "Whitney Museum of American Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q64515232",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0678",
@@ -16461,7 +16639,9 @@
    "mu": [
     "Helen Frankenthaler Foundation"
    ]
-  }
+  },
+  "link": "https://www.frankenthalerfoundation.org/artworks/mountains-and-sea/details/all",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0679",
@@ -16518,7 +16698,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/86385",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0681",
@@ -16572,7 +16754,9 @@
     1956
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3190307",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0683",
@@ -16605,7 +16789,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79809",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0684",
@@ -16638,7 +16824,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0685",
@@ -16661,7 +16849,9 @@
   "mu_id": "various_private_collections",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q20882128",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0686",
@@ -16695,7 +16885,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0687",
@@ -16728,7 +16920,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/80249",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0688",
@@ -16752,7 +16946,9 @@
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.moma.org/collection/works/78805",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0689",
@@ -16775,7 +16971,9 @@
   "mu_id": "museum_of_modern_art_new_york",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.moma.org/collection/works/66143",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0690",
@@ -16806,7 +17004,9 @@
     1955
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q6901603",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0691",
@@ -16861,7 +17061,9 @@
     1962
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q97378884",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0693",
@@ -16892,7 +17094,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79805",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0694",
@@ -16925,7 +17129,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0695",
@@ -16958,7 +17164,9 @@
    "mu": [
     "Whitney Museum of American Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q64517268",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0696",
@@ -16992,7 +17200,9 @@
     "National Gallery of Art",
     "Prints in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q76440466",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0697",
@@ -17025,7 +17235,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195908",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0698",
@@ -17058,7 +17270,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/185449",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0699",
@@ -17081,7 +17295,9 @@
   "mu_id": "whitney_museum_of_american_art_new_york",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q5274343",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0700",
@@ -17114,7 +17330,9 @@
    "mu": [
     "Solomon R. Guggenheim Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19883020",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0701",
@@ -17147,7 +17365,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79842",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0702",
@@ -17170,7 +17390,9 @@
   "mu_id": "museum_of_contemporary_art_san_diego",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q64517232",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0703",
@@ -17203,7 +17425,9 @@
    "mu": [
     "Arts Council Collection, Southbank Centre"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q119336426",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0704",
@@ -17236,7 +17460,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79998",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0705",
@@ -17269,7 +17495,9 @@
    "mu": [
     "Musée National d'Art Moderne"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20087562",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0706",
@@ -17292,7 +17520,9 @@
   "mu_id": "albright_knox_art_gallery_buffalo",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.albrightknox.org/artworks/k196929-vega-nor",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0707",
@@ -17348,7 +17578,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195538",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0709",
@@ -17381,7 +17613,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/78800",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0710",
@@ -17414,7 +17648,9 @@
    "mu": [
     "Whitney Museum of American Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q64515759",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0711",
@@ -17438,7 +17674,9 @@
   "mu_id": "solomon_r_guggenheim_museum_new_york",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q19882164",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0712",
@@ -17471,7 +17709,9 @@
    "mu": [
     "Walker Art Center"
    ]
-  }
+  },
+  "link": "https://walkerart.org/collections/artworks/big-self-portrait",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0713",
@@ -17504,7 +17744,9 @@
    "mu": [
     "Thyssen-Bornemisza Museum"
    ]
-  }
+  },
+  "link": "http://www.museothyssen.org/en/thyssen/ficha_obra/382",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0714",
@@ -17537,7 +17779,9 @@
    "mu": [
     "Saint Louis Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q78640464",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0715",
@@ -17560,7 +17804,9 @@
   "mu_id": "private_collection",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://clevelandart.org/art/1995.74",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0716",
@@ -17594,7 +17840,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79037",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0717",
@@ -17626,7 +17874,9 @@
     1982
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q104859034",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0718",
@@ -17649,7 +17899,9 @@
   "mu_id": "private_collection_yusaku_maezawa",
   "local": false,
   "img_ext": null,
-  "img": null
+  "img": null,
+  "link": "https://www.wikidata.org/wiki/Q27210922",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0719",
@@ -17683,7 +17935,9 @@
    "mu": [
     "San Francisco Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.sfmoma.org/artwork/FC.595",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0720",
@@ -17737,7 +17991,9 @@
     1995
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q817095",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0722",
@@ -17772,7 +18028,9 @@
     "National Gallery",
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/bacon-three-studies-for-figures-at-the-base-of-a-crucifixion-n06171",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0723",
@@ -17805,7 +18063,9 @@
    "mu": [
     "Des Moines Art Center"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3976302",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0724",
@@ -17837,7 +18097,9 @@
     1972
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q58791744",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0725",
@@ -17870,7 +18132,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/101473",
+  "link_label": "館方作品頁"
  },
  {
   "id": "c0726",
@@ -17926,7 +18190,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://topstukken.vlaanderen.be/topstukken/topstuk/18f0e337-19c2-4853-9484-47c1f7c532b3",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "c0728",
@@ -17959,7 +18225,9 @@
    "mu": [
     "National Portrait Gallery"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q50303833",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "c0729",
@@ -17993,7 +18261,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/690093",
+  "link_label": "館方作品頁"
  },
  {
   "id": "n177795",
@@ -35428,7 +35698,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=J.+M.+W.+Turner+Interior+at+Petworth",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q18558543",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x0290",
@@ -38924,14 +39196,16 @@
   "th": [
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Edgar+Degas+Blue+Dancers",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0391.webp",
+  "thumb": "img/thumb/x0391.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Edgar_Germain_Hilaire_Degas_076.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar_Germain_Hilaire_Degas_076.jpg?width=1000",
+  "verif": "Wikidata 條目 Q3633419 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://www.arts-museum.ru/data/fonds/europe_and_america/j/2001_3000/6177_Golubye_tancovschicy/index.php",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "x0392",
@@ -44531,14 +44805,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Masaccio+Crucifixion+(Pisa+Altarpiece)",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0559.webp",
+  "thumb": "img/thumb/x0559.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Masaccio_-_Crocifissione_%28Cuspide_di_Polittico_di_Pisa%29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Masaccio_-_Crocifissione_%28Cuspide_di_Polittico_di_Pisa%29.jpg?width=1000",
+  "verif": "Wikidata 條目 Q1054459 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Crucifixion_by_Masaccio",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "x0560",
@@ -45678,14 +45954,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Fra+Angelico+Christ+in+Judgement",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0592.webp",
+  "thumb": "img/thumb/x0592.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Christ_the_Judge_-_WGA00679.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Fra_Angelico_-_Christ_the_Judge_-_WGA00679.jpg?width=1000",
+  "verif": "Wikidata 條目 Q111821757 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q111821757",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x0593",
@@ -45932,14 +46210,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Giovanni+Bellini+Pesaro+Altarpiece+(Coronation+of+the+Virgin)",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0600.webp",
+  "thumb": "img/thumb/x0600.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Pala_di_pesaro_01.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pala_di_pesaro_01.jpg?width=1000",
+  "verif": "Wikidata 條目 Q3889247 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Pala_di_Pesaro_by_Giovanni_Bellini",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "x0601",
@@ -49064,14 +49344,16 @@
    "裸體",
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=François+Boucher+Reclining+Girl+(Louise+O'Murphy)",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0693.webp",
+  "thumb": "img/thumb/x0693.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Boucher%2C_Ruhendes_M%C3%A4dchen_%281751%2C_Wallraf-Richartz_Museum%29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois_Boucher%2C_Ruhendes_M%C3%A4dchen_%281751%2C_Wallraf-Richartz_Museum%29.jpg?width=1000",
+  "verif": "Wikidata 條目 Q95683812 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wallraf.museum/en/collections/baroque/masterpieces/francois-boucher-resting-girl-louise-o-murphy-1751/the-highlight/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "x0694",
@@ -50687,14 +50969,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Thomas+Gainsborough+The+Hon.+Mrs+Graham",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0741.webp",
+  "thumb": "img/thumb/x0741.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_-_The_Honourable_Mrs_Graham_%281757_-_1792%29_-_Google_Art_Project.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_-_The_Honourable_Mrs_Graham_%281757_-_1792%29_-_Google_Art_Project.jpg?width=1000",
+  "verif": "Wikidata 條目 Q4373352 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q4373352",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x0742",
@@ -56555,7 +56839,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Piet+Mondrian+Place+de+la+Concorde",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Place_de_la_Concorde_%281982.22.FA%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "x0920",
@@ -56653,14 +56939,16 @@
   "th": [
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Piet+Mondrian+Windmill+in+Sunlight",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0922.webp",
+  "thumb": "img/thumb/x0922.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Mondriaan_Molen_bij_zonlicht.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Mondriaan_Molen_bij_zonlicht.jpg?width=1000",
+  "verif": "Wikidata 條目 Q18710647 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.gemeentemuseum.nl/nl/collectie/molen-molen-bij-zonlicht",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "x0923",
@@ -56677,14 +56965,16 @@
   "th": [
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Piet+Mondrian+Woods+near+Oele",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0923.webp",
+  "thumb": "img/thumb/x0923.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan_-_Forest.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondriaan_-_Forest.jpg?width=1000",
+  "verif": "Wikidata 條目 Q18710655 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://www.gemeentemuseum.nl/collection/item/1009",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "x0924",
@@ -57001,14 +57291,16 @@
   "th": [
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Kazimir+Malevich+Woman+with+Buckets:+Dynamic+Arrangement",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0932.webp",
+  "thumb": "img/thumb/x0932.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Woman_with_Pails_%28Malevich%2C_1912%29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Woman_with_Pails_%28Malevich%2C_1912%29.jpg?width=1000",
+  "verif": "Wikidata 條目 Q19883621 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.moma.org/collection/works/80381",
+  "link_label": "館方作品頁"
  },
  {
   "id": "x0933",
@@ -57790,14 +58082,16 @@
    "動物",
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Franz+Marc+Deer+in+the+Forest+II",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x0957.webp",
+  "thumb": "img/thumb/x0957.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Franz_Marc_020.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc_020.jpg?width=1000",
+  "verif": "Wikidata 條目 Q52087054 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q52087054",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x0958",
@@ -59977,14 +60271,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Nicholas+of+Verdun+Shrine+of+the+Three+Kings",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x1037.webp",
+  "thumb": "img/thumb/x1037.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:K%C3%B6ln_Dreik%C3%B6nigsschrein.JPG",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6ln_Dreik%C3%B6nigsschrein.JPG?width=1000",
+  "verif": "Wikidata 條目 Q662314 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Shrine_of_the_Three_Magi%2C_Cologne",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "x1038",
@@ -61366,14 +61662,16 @@
    "人物／風俗",
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Camille+Pissarro+The+Pea+Harvest",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/x1079.webp",
+  "thumb": "img/thumb/x1079.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Pissarro_-_La_cueillette_des_pois.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pissarro_-_La_cueillette_des_pois.jpg?width=1000",
+  "verif": "Wikidata 條目 Q29842733 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q29842733",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x1080",
@@ -62165,7 +62463,9 @@
    "mu": [
     "Estorick Collection of Modern Italian Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q119858617",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x1108",
@@ -62587,7 +62887,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=César+Domela+Composition+No.+2",
   "img_ext": null,
   "verif": "受著作權保護，不嵌圖",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://www.stedelijk.nl/en/artwork/6907-composition-no-3-c",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "x1125",
@@ -62635,7 +62937,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Friedrich+Vordemberge-Gildewart+Composition+No.+37",
   "img_ext": null,
   "verif": "受著作權保護，不嵌圖",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://www.kunstmuseum.nl/collection/item/905",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "x1127",
@@ -62659,7 +62963,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Friedrich+Vordemberge-Gildewart+Composition+No.+100",
   "img_ext": null,
   "verif": "受著作權保護，不嵌圖",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q19883075",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x1128",
@@ -63088,7 +63394,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Roberto+Montenegro+Árbol+de+la+vida",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:%C3%81rbol_de_la_Vida_%28Roberto_Montenegro%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "x1145",
@@ -65999,14 +66307,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Antonello+da+Messina+Saint+Sebastian",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0091.webp",
+  "thumb": "img/thumb/y0091.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Antonello_da_Messina_-_St._Sebastian_-_Google_Art_Project.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonello_da_Messina_-_St._Sebastian_-_Google_Art_Project.jpg?width=1000",
+  "verif": "Wikidata 條目 Q444078 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Martyrdom_of_Saint_Sebastian_by_Antonello_da_Messina",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0092",
@@ -66057,14 +66367,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Pietro+Perugino+Vision+of+Saint+Bernard",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0093.webp",
+  "thumb": "img/thumb/y0093.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:PIETRO-PERUGINO-1445_VISION-DES-HL-BERNHARD-WAF-764_714142_BSTGS.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/PIETRO-PERUGINO-1445_VISION-DES-HL-BERNHARD-WAF-764_714142_BSTGS.jpg?width=1000",
+  "verif": "Wikidata 條目 Q11129389 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Apparition_of_the_Virgin_to_Saint_Bernard_%28Perugino%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0094",
@@ -67063,14 +67375,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Robert+Campin+Portrait+of+a+Man",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0124.webp",
+  "thumb": "img/thumb/y0124.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Robert_Campin_013.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Campin_013.jpg?width=1000",
+  "verif": "Wikidata 條目 Q18508787 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q18508787",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0125",
@@ -67087,14 +67401,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Robert+Campin+Portrait+of+a+Woman",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0125.webp",
+  "thumb": "img/thumb/y0125.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Robert_Campin_012.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Campin_012.jpg?width=1000",
+  "verif": "Wikidata 條目 Q18508788 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Portrait_of_a_Woman_%28Robert_Campin_-_National_Gallery%2C_London%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0126",
@@ -68280,14 +68596,16 @@
    "神話／寓言",
    "裸體"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Jan+Gossaert+Danaë",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0162.webp",
+  "thumb": "img/thumb/y0162.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Jan_Gossaert_003.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Gossaert_003.jpg?width=1000",
+  "verif": "Wikidata 條目 Q4892475 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Danae_by_Jan_Gossaert",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0163",
@@ -71546,14 +71864,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Guercino+Christ+and+the+Woman+Taken+in+Adultery",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0261.webp",
+  "thumb": "img/thumb/y0261.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Guercino_-_The_Woman_taken_in_Adultery_-_Google_Art_Project.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Guercino_-_The_Woman_taken_in_Adultery_-_Google_Art_Project.jpg?width=1000",
+  "verif": "Wikidata 條目 Q23928877 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://www.dulwichpicturegallery.org.uk/explore-the-collection/251-300/the-woman-taken-in-adultery/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0262",
@@ -72381,14 +72701,16 @@
   "th": [
    "靜物"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Francisco+de+Zurbarán+Still+Life+with+Pottery+Jars",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0286.webp",
+  "thumb": "img/thumb/y0286.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Bodeg%C3%B3n_de_recipientes_%28Zurbar%C3%A1n%29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bodeg%C3%B3n_de_recipientes_%28Zurbar%C3%A1n%29.jpg?width=1000",
+  "verif": "Wikidata 條目 Q6038780 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q6038780",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0287",
@@ -75046,14 +75368,16 @@
   "th": [
    "靜物"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Pieter+Claesz+Still+Life+with+Peacock+Pie",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0370.webp",
+  "thumb": "img/thumb/y0370.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:CLAESZ_Still_life_with_a_peacock_pie.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/CLAESZ_Still_life_with_a_peacock_pie.jpg?width=1000",
+  "verif": "Wikidata 條目 Q20177074 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q20177074",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0371",
@@ -75299,14 +75623,16 @@
   "th": [
    "靜物"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Jan+Davidsz+de+Heem+Still+Life+with+Books",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0378.webp",
+  "thumb": "img/thumb/y0378.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg?width=1000",
+  "verif": "Wikidata 條目 Q17330042 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.rijksmuseum.nl/nl/collectie/SK-A-2565",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0379",
@@ -75459,7 +75785,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Ambrosius+Bosschaert+Flowers+in+a+Wan-Li+Vase",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q124048493",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0384",
@@ -76189,14 +76517,16 @@
    "風景",
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Hendrick+Avercamp+Winter+Scene+on+a+Frozen+Canal",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0404.webp",
+  "thumb": "img/thumb/y0404.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Hendrick_Avercamp_-_Winter_Scene_on_a_Frozen_Canal_-_Google_Art_Project.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hendrick_Avercamp_-_Winter_Scene_on_a_Frozen_Canal_-_Google_Art_Project.jpg?width=1000",
+  "verif": "Wikidata 條目 Q20880035 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q20880035",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0405",
@@ -76608,14 +76938,16 @@
   "th": [
    "城市／建築"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Emanuel+de+Witte+Interior+of+a+Protestant+Gothic+Church",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0417.webp",
+  "thumb": "img/thumb/y0417.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Interieur_van_een_protestantse_gotische_kerk_Rijksmuseum_SK-C-270.jpeg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Interieur_van_een_protestantse_gotische_kerk_Rijksmuseum_SK-C-270.jpeg?width=1000",
+  "verif": "Wikidata 條目 Q17342382 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.rijksmuseum.nl/nl/collectie/SK-C-270",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0418",
@@ -76793,14 +77125,16 @@
   "th": [
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Adriaen+Brouwer+Peasants+Fighting+over+Cards",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0423.webp",
+  "thumb": "img/thumb/y0423.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Adriaen_Brouwer_-_Peasants_Brawling_over_Cards.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Adriaen_Brouwer_-_Peasants_Brawling_over_Cards.jpg?width=1000",
+  "verif": "Wikidata 條目 Q50323992 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q50323992",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0424",
@@ -78437,14 +78771,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Maurice+Quentin+de+La+Tour+Portrait+of+Gabriel+Bernard+de+Rieux",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0470.webp",
+  "thumb": "img/thumb/y0470.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Gabriel_Bernard_de_Rieux_00106501.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Gabriel_Bernard_de_Rieux_00106501.jpg?width=1000",
+  "verif": "Wikidata 條目 Q20181182 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Gabriel_Bernard_de_Rieux_%28Maurice_Quentin_de_La_Tour_-_Getty_Center%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0471",
@@ -79004,7 +79340,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Pietro+Longhi+The+Concert",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://art.famsf.org/pietro-longhi/concert-mandolin-recital-196471",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0488",
@@ -79172,14 +79510,16 @@
   "th": [
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=William+Hogarth+Gin+Lane",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0493.webp",
+  "thumb": "img/thumb/y0493.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:William_Hogarth%2C_Gin_Lane%2C_1751%2C_NGA_30433.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Hogarth%2C_Gin_Lane%2C_1751%2C_NGA_30433.jpg?width=1000",
+  "verif": "Wikidata 條目 Q65026919 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q65026919",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0494",
@@ -80059,14 +80399,16 @@
   "th": [
    "神話／寓言"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Angelica+Kauffman+Penelope+Weeping+over+the+Bow+of+Ulysses",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0520.webp",
+  "thumb": "img/thumb/y0520.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Angelica_Kauffmann_%281741-1807%29_-_Penelope_Weeping_over_the_Bow_of_Ulysses_-_OP531_-_Wolverhampton_Art_Gallery.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Angelica_Kauffmann_%281741-1807%29_-_Penelope_Weeping_over_the_Bow_of_Ulysses_-_OP531_-_Wolverhampton_Art_Gallery.jpg?width=1000",
+  "verif": "Wikidata 條目 Q119011479 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q119011479",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0521",
@@ -80115,14 +80457,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Anton+Raphael+Mengs+Self-Portrait",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0522.webp",
+  "thumb": "img/thumb/y0522.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Mengs%2C_Selbstbildnis.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Mengs%2C_Selbstbildnis.jpg?width=1000",
+  "verif": "Wikidata 條目 Q52338215 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://fotoinventari.uffizi.it/it/ricerca-opere?isPostBack=1&numero_opera=1927&id_inventario=1",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0523",
@@ -81790,7 +82134,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Samuel+Palmer+Coming+from+Evening+Church",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q120115849",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0572",
@@ -82384,14 +82730,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Karl+Bryullov+Portrait+of+Countess+Yulia+Samoylova+with+Giovannina+Pacini+and+the+Arab+Boy",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0590.webp",
+  "thumb": "img/thumb/y0590.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Countess_Samoilova_with_Giovanina_Pacini_by_K.Brullov_%281832-4%2C_Hillwood%29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Countess_Samoilova_with_Giovanina_Pacini_by_K.Brullov_%281832-4%2C_Hillwood%29.jpg?width=1000",
+  "verif": "Wikidata 條目 Q123055327 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q123055327",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0591",
@@ -82408,14 +82756,16 @@
   "th": [
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Karl+Bryullov+Italian+Midday",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0591.webp",
+  "thumb": "img/thumb/y0591.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Brjullov_Italianskij_Poldenj.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Brjullov_Italianskij_Poldenj.jpg?width=1000",
+  "verif": "Wikidata 條目 Q4205253 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Italian_Midday_%28Briullov%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0592",
@@ -82978,14 +83328,16 @@
   "th": [
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Asher+B.+Durand+Study+from+Nature:+Rocks+and+Trees",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0608.webp",
+  "thumb": "img/thumb/y0608.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Study_from_Nature-_Rocks_and_Trees_1907_26.jpeg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Study_from_Nature-_Rocks_and_Trees_1907_26.jpeg?width=1000",
+  "verif": "Wikidata 條目 Q108694286 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://emuseum.nyhistory.org/objects/21798/study-from-nature-rocks-and-trees",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0609",
@@ -83551,14 +83903,16 @@
   "th": [
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Jasper+Francis+Cropsey+The+Backwoods+of+America",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0625.webp",
+  "thumb": "img/thumb/y0625.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:The_Backwoods_of_America_by_Jasper_Francis_Cropsey.JPG",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Backwoods_of_America_by_Jasper_Francis_Cropsey.JPG?width=1000",
+  "verif": "Wikidata 條目 Q103957715 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://collection.crystalbridges.org/objects/339/the-backwoods-of-america",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0626",
@@ -83633,14 +83987,16 @@
   "th": [
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Sanford+Robinson+Gifford+Hook+Mountain,+Near+Nyack,+on+the+Hudson",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0628.webp",
+  "thumb": "img/thumb/y0628.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Hook_Mountain%2C_Near_Nyack%2C_on_the_Hudson_-_1969.113.3_-_Yale_University_Art_Gallery.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanford_Robinson_Gifford_-_Hook_Mountain%2C_Near_Nyack%2C_on_the_Hudson_-_1969.113.3_-_Yale_University_Art_Gallery.jpg?width=1000",
+  "verif": "Wikidata 條目 Q49189328 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q49189328",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0629",
@@ -84242,14 +84598,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Wilhelm+Leibl+Portrait+of+Mina+Gedon",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0648.webp",
+  "thumb": "img/thumb/y0648.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Wilhelm_Maria_Hubertus_Leibl_021.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Maria_Hubertus_Leibl_021.jpg?width=1000",
+  "verif": "Wikidata 條目 Q29914507 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q29914507",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0649",
@@ -85195,7 +85553,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Théodore+Rousseau+Under+the+Birches,+Evening",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://emuseum.toledomuseum.org/objects/55229/under-the-birches-evening",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0679",
@@ -85379,14 +85739,16 @@
   "th": [
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Narcisse+Virgilio+Díaz+Forest+of+Fontainebleau",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0684.webp",
+  "thumb": "img/thumb/y0684.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:%27Forest_of_Fontainebleau%27_by_Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a%2C_oil_on_canvas.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/%27Forest_of_Fontainebleau%27_by_Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a%2C_oil_on_canvas.jpg?width=1000",
+  "verif": "Wikidata 條目 Q111963961 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q111963961",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0685",
@@ -85435,7 +85797,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Narcisse+Virgilio+Díaz+Venus+and+Adonis",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://art.famsf.org/narcisse-virgile-diaz-de-la-pena/venus-and-cupids-194016",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0687",
@@ -86176,14 +86540,16 @@
    "人物／風俗",
    "裸體"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Jean-Léon+Gérôme+The+Slave+Market",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0709.webp",
+  "thumb": "img/thumb/y0709.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_March%C3%A9_d%27esclaves.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_March%C3%A9_d%27esclaves.jpg?width=1000",
+  "verif": "Wikidata 條目 Q3224275 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://www.clarkart.edu/Collection/5538",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0710",
@@ -86305,14 +86671,16 @@
    "宗教",
    "歷史／戰爭"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Lawrence+Alma-Tadema+The+Finding+of+Moses",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0713.webp",
+  "thumb": "img/thumb/y0713.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:The_finding_of_Moses%2C_by_Lawrence_Alma_Tadema.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The_finding_of_Moses%2C_by_Lawrence_Alma_Tadema.jpg?width=1000",
+  "verif": "Wikidata 條目 Q125023180 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q125023180",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0714",
@@ -86401,14 +86769,16 @@
    "城市／建築",
    "歷史／戰爭"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Lawrence+Alma-Tadema+The+Coliseum",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0716.webp",
+  "thumb": "img/thumb/y0716.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Alma-Tadema%2C_Lawrence_-_The_Colosseum_-_1896.png",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Alma-Tadema%2C_Lawrence_-_The_Colosseum_-_1896.png?width=1000",
+  "verif": "Wikidata 條目 Q125022587 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q125022587",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0717",
@@ -86896,14 +87266,16 @@
   "th": [
    "歷史／戰爭"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Paul+Delaroche+Charles+I+Insulted+by+Cromwell's+Soldiers",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0731.webp",
+  "thumb": "img/thumb/y0731.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Charles_I_Insulted_by_Cromwell%27s_Soldiers.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_I_Insulted_by_Cromwell%27s_Soldiers.jpg?width=1000",
+  "verif": "Wikidata 條目 Q2959421 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q2959421",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0732",
@@ -87055,7 +87427,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Hans+Makart+The+Plague+in+Florence",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Die_Pest_in_Florenz_%28Hans_Makart%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0737",
@@ -87316,14 +87690,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Franz+Xaver+Winterhalter+Portrait+of+Napoleon+III",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0745.webp",
+  "thumb": "img/thumb/y0745.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Franz_Xaver_Winterhalter_Napoleon_III.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Xaver_Winterhalter_Napoleon_III.jpg?width=1000",
+  "verif": "Wikidata 條目 Q62476202 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://www.simart.comune.roma.it/dettaglio-bene/-833999486",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0746",
@@ -89660,14 +90036,16 @@
    "海景",
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Eugène+Boudin+Fashionable+Figures+on+the+Beach",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0814.webp",
+  "thumb": "img/thumb/y0814.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Louis_Boudin_-_Fashionable_Figures_on_the_Beach_-_1974.565_-_Museum_of_Fine_Arts.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne_Louis_Boudin_-_Fashionable_Figures_on_the_Beach_-_1974.565_-_Museum_of_Fine_Arts.jpg?width=1000",
+  "verif": "Wikidata 條目 Q20539501 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q20539501",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0815",
@@ -90220,14 +90598,16 @@
    "城市／建築",
    "歷史／戰爭"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Childe+Hassam+Flag+Day+/+Avenue+of+the+Allies:+Great+Britain",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0831.webp",
+  "thumb": "img/thumb/y0831.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Avenue_of_the_Allies%2C_Great_Britain%2C_1918_MET_DT5573.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Avenue_of_the_Allies%2C_Great_Britain%2C_1918_MET_DT5573.jpg?width=1000",
+  "verif": "Wikidata 條目 Q19924347 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.metmuseum.org/art/collection/search/11028",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y0832",
@@ -90603,7 +90983,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Max+Liebermann+The+Parrot+Man",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://sammlung-online.museum-folkwang.de:443/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=3140&viewType=detailView",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0845",
@@ -90834,14 +91216,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Lovis+Corinth+Portrait+of+Eduard+Graf+von+Keyserling",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0851.webp",
+  "thumb": "img/thumb/y0851.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Lovis_Corinth_-_Eduard_von_Keyserling.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Lovis_Corinth_-_Eduard_von_Keyserling.jpg?width=1000",
+  "verif": "Wikidata 條目 Q30068106 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q30068106",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y0852",
@@ -91423,14 +91807,16 @@
    "肖像",
    "人物／風俗"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Peder+Severin+Krøyer+A+Meeting+in+the+Royal+Danish+Academy+of+Sciences+and+Letters",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0868.webp",
+  "thumb": "img/thumb/y0868.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:P.S._Kr%C3%B8yer%2C_Et_m%C3%B8de_i_Videnskabernes_Selskab%2C_1897%2C_Det_Kongelige_Danske_Videnskaberners_Selskab.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/P.S._Kr%C3%B8yer%2C_Et_m%C3%B8de_i_Videnskabernes_Selskab%2C_1897%2C_Det_Kongelige_Danske_Videnskaberners_Selskab.jpg?width=1000",
+  "verif": "Wikidata 條目 Q37454273 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:A_Meeting_in_the_Royal_Danish_Academy_of_Sciences_and_Letters_by_Peder_Severin_Kr%C3%B8yer",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0869",
@@ -92209,14 +92595,16 @@
   "th": [
    "肖像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Émile+Bernard+Portrait+of+Père+Tanguy",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0894.webp",
+  "thumb": "img/thumb/y0894.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Bernard_-_Portrait_du_P%C3%A8re_Tanguy%2C_1887.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard_-_Portrait_du_P%C3%A8re_Tanguy%2C_1887.jpg?width=1000",
+  "verif": "Wikidata 條目 Q94636867 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Portrait_du_p%C3%A8re_Tanguy",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0895",
@@ -93270,14 +93658,16 @@
    "神話／寓言",
    "海景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Arnold+Böcklin+Play+of+the+Waves",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0926.webp",
+  "thumb": "img/thumb/y0926.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Arnold_B%C3%B6cklin_-_Im_Spiel_der_Wellen_%281883%29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnold_B%C3%B6cklin_-_Im_Spiel_der_Wellen_%281883%29.jpg?width=1000",
+  "verif": "Wikidata 條目 Q30068812 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Im_Spiel_der_Wellen_%287754%29_by_Arnold_B%C3%B6cklin",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y0927",
@@ -94279,14 +94669,16 @@
   "th": [
    "神話／寓言"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Hugo+Simberg+The+Garden+of+Death",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0959.webp",
+  "thumb": "img/thumb/y0959.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Hugo_Simberg_-_The_Garden_of_Death_-_Google_Art_Project.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Simberg_-_The_Garden_of_Death_-_Google_Art_Project.jpg?width=1000",
+  "verif": "Wikidata 條目 Q1659383 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://kokoelmat.fng.fi/app?si=A+II+968%3A16",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0960",
@@ -94303,14 +94695,16 @@
   "th": [
    "神話／寓言"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Hugo+Simberg+Death+Listens",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y0960.webp",
+  "thumb": "img/thumb/y0960.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Hugo_Simberg_-_Death_Listens_-_A_II_968-25_-_Finnish_National_Gallery.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Simberg_-_Death_Listens_-_A_II_968-25_-_Finnish_National_Gallery.jpg?width=1000",
+  "verif": "Wikidata 條目 Q20800411 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://kokoelmat.fng.fi/app?si=A+II+968%3A25",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y0961",
@@ -95664,7 +96058,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=André+Derain+The+Turning+Road,+L'Estaque",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q28042433",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1007",
@@ -95712,7 +96108,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=André+Derain+Portrait+of+Matisse",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q20816318",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1009",
@@ -95798,7 +96196,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Raoul+Dufy+Fairy+Electricity+(La+Fée+Électricité)",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q64577879",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1012",
@@ -96627,7 +97027,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Chaim+Soutine+Dead+Fowl",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.moma.org/collection/works/78750",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1039",
@@ -96837,7 +97239,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Käthe+Kollwitz+The+Mothers",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q64591943",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1046",
@@ -96878,14 +97282,16 @@
   "th": [
    "歷史／戰爭"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Käthe+Kollwitz+Grieving+Parents",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y1047.webp",
+  "thumb": "img/thumb/y1047.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Deutscher_Soldatenfriedhof_Vladslo_-_Trauernde_Eltern.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutscher_Soldatenfriedhof_Vladslo_-_Trauernde_Eltern.jpg?width=1000",
+  "verif": "Wikidata 條目 Q56825917 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://topstukken.vlaanderen.be/topstukken/topstuk/d7c04229-cadd-40a0-a646-305c1bb76bb4",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y1048",
@@ -96951,14 +97357,16 @@
   "th": [
    "靜物"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Juan+Gris+Still+Life+with+Checked+Tablecloth",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y1050.webp",
+  "thumb": "img/thumb/y1050.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Juan_Gris_-_Nature_morte_%C3%A0_la_nappe_%C3%A0_carreaux.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan_Gris_-_Nature_morte_%C3%A0_la_nappe_%C3%A0_carreaux.jpg?width=1000",
+  "verif": "Wikidata 條目 Q20189849 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.metmuseum.org/art/collection/search/646469",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1051",
@@ -97157,7 +97565,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Fernand+Léger+The+Builders",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.menil.org/collection/objects/1846-the-builders-les-constructeurs",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y1058",
@@ -97208,14 +97618,16 @@
   "th": [
    "城市／建築"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Robert+Delaunay+Eiffel+Tower",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y1059.webp",
+  "thumb": "img/thumb/y1059.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay%2C_Der_Eiffelturm%2C_1910.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Delaunay%2C_Der_Eiffelturm%2C_1910.jpg?width=1000",
+  "verif": "Wikidata 條目 Q19018512 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.kunsthalle-karlsruhe.de/kunstwerke/Robert-Delaunay/Der-Eiffel-Turm/368C36DB48FAC5A29447A883E00FA597/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y1060",
@@ -97273,7 +97685,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Robert+Delaunay+Circular+Forms",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q28086308",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1062",
@@ -97316,14 +97730,16 @@
    "城市／建築",
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Robert+Delaunay+Saint-Séverin",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y1063.webp",
+  "thumb": "img/thumb/y1063.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay_-_Saint_S%C3%A9verin_-_1909_-_Boston_Museum_of_Fine_Arts.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Delaunay_-_Saint_S%C3%A9verin_-_1909_-_Boston_Museum_of_Fine_Arts.jpg?width=1000",
+  "verif": "Wikidata 條目 Q28058959 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:Saint-S%C3%A9verin_by_Robert_Delaunay",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y1064",
@@ -97414,14 +97830,16 @@
    "人物／風俗",
    "風景"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Albert+Gleizes+Harvest+Threshing",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y1067.webp",
+  "thumb": "img/thumb/y1067.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Albert_Gleizes%2C_1912%2C_Le_D%C3%A9piquage_des_Moissons%2C_Harvest_Threshing%2C_oil_on_canvas%2C_269_x_353_cm%2C_National_Museum_of_Western_Art%2C_Tokyo%2C_Japan.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Gleizes%2C_1912%2C_Le_D%C3%A9piquage_des_Moissons%2C_Harvest_Threshing%2C_oil_on_canvas%2C_269_x_353_cm%2C_National_Museum_of_Western_Art%2C_Tokyo%2C_Japan.jpg?width=1000",
+  "verif": "Wikidata 條目 Q5676845 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://collection.nmwa.go.jp/P.2004-0001.html",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y1068",
@@ -98140,7 +98558,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=El+Lissitzky+Proun+1C",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.moma.org/collection/works/165513",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1093",
@@ -98678,7 +99098,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=László+Moholy-Nagy+Composition+A+XX",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q20879226",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1112",
@@ -98726,7 +99148,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=László+Moholy-Nagy+Q+I+Suprematist",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.moma.org/collection/works/80514",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1114",
@@ -98959,7 +99383,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Frida+Kahlo+Henry+Ford+Hospital",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q118190557",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1122",
@@ -98983,7 +99409,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Frida+Kahlo+The+Broken+Column",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "http://learner.org/courses/globalart/work/57/index.html",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y1123",
@@ -99007,7 +99435,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Frida+Kahlo+Self-Portrait+with+Cropped+Hair",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.moma.org/collection/works/78333",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1124",
@@ -99057,7 +99487,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Frida+Kahlo+The+Wounded+Deer",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.fridakahlo.org/the-wounded-deer.jsp",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y1126",
@@ -99553,7 +99985,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=John+Steuart+Curry+Hogs+Killing+a+Rattlesnake",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.artic.edu/artworks/60510",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1144",
@@ -99709,7 +100143,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Reginald+Marsh+Twenty+Cent+Movie",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q64511941",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1150",
@@ -99734,7 +100170,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Reginald+Marsh+Why+Not+Use+the+El?",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q64508079",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1151",
@@ -99759,7 +100197,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Reginald+Marsh+Coney+Island+Beach",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q20491263",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1152",
@@ -99808,7 +100248,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Reginald+Marsh+The+Bowery",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.metmuseum.org/art/collection/search/487717",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1154",
@@ -99866,7 +100308,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Horace+Pippin+The+Barracks",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.phillipscollection.org/collection/browse-the-collection?id=1572",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y1156",
@@ -99926,7 +100370,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Horace+Pippin+Cabin+in+the+Cotton",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.artic.edu/artworks/111617",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1158",
@@ -99950,7 +100396,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Horace+Pippin+Mr.+Prejudice",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q20816749",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1159",
@@ -99967,14 +100415,16 @@
   "th": [
    "神話／寓言"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=José+Clemente+Orozco+Man+of+Fire",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y1159.webp",
+  "thumb": "img/thumb/y1159.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Orozco_hombre_de_fuego_GDL.JPG",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Orozco_hombre_de_fuego_GDL.JPG?width=1000",
+  "verif": "Wikidata 條目 Q66092142 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q66092142",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1160",
@@ -100081,7 +100531,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=José+Clemente+Orozco+Dive+Bomber+and+Tank",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.moma.org/collection/works/80681",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1164",
@@ -100105,7 +100557,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Arshile+Gorky+Garden+in+Sochi",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.moma.org/collection/works/79474",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y1165",
@@ -100231,7 +100685,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Arshile+Gorky+The+Betrothal+II",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://www.wikidata.org/wiki/Q64513323",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y1169",
@@ -101560,14 +102016,16 @@
    "人物／風俗",
    "靜物"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Bernardo+Strozzi+The+Cook",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "local": true,
+  "img": "img/800/y1209.webp",
+  "thumb": "img/thumb/y1209.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Bernardo_Strozzi_-_The_Cook_-_Google_Art_Project.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernardo_Strozzi_-_The_Cook_-_Google_Art_Project.jpg?width=1000",
+  "verif": "Wikidata 條目 Q28803572 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "link": "https://commons.wikimedia.org/wiki/Category:The_cook_by_Bernardo_Strozzi_%28Palazzo_Rosso%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y1210",
@@ -204976,7 +205434,9 @@
    "mu": [
     "Museo Soumaya"
    ]
-  }
+  },
+  "link": "https://myopenmuseum.com/en/artwork/snowy-landscape-130297847",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4272",
@@ -205010,7 +205470,9 @@
    "mu": [
     "Museo Soumaya"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q130297848",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4273",
@@ -205287,7 +205749,9 @@
    "mu": [
     "Statens Museum for Kunst"
    ]
-  }
+  },
+  "link": "https://collection.smk.dk/#/en/detail/KMSr7",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4281",
@@ -205321,7 +205785,9 @@
    "mu": [
     "Solomon R. Guggenheim Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19882452",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4282",
@@ -208415,7 +208881,9 @@
     "Dr. and Mrs. Ernst Fischer",
     "Virginia Museum of Fine Arts"
    ]
-  }
+  },
+  "link": "https://vmfa.museum/collections/art/snow-landscape-schneelandschaft/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4372",
@@ -210317,7 +210785,9 @@
     "Moritzburg Art Museum",
     "Moritzburg"
    ]
-  }
+  },
+  "link": "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113307&viewType=detailView",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4428",
@@ -210351,7 +210821,9 @@
    "mu": [
     "Solomon R. Guggenheim Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19882543",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4429",
@@ -210386,7 +210858,9 @@
     "\"degenerate art\" collection",
     "Kunstmuseum Mülheim an der Ruhr"
    ]
-  }
+  },
+  "link": "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113306&viewType=detailView",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4430",
@@ -210420,7 +210894,9 @@
    "mu": [
     "Museu Picasso"
    ]
-  }
+  },
+  "link": "https://museupicassobcn.cat/en/collection/artwork/mountains-malaga-1",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4431",
@@ -210453,7 +210929,9 @@
     1955
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3713986",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4432",
@@ -210488,7 +210966,9 @@
     "Musée Picasso",
     "Strasbourg Museum of Modern and Contemporary Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q112679010",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4433",
@@ -211754,7 +212234,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79091",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4470",
@@ -211785,7 +212267,9 @@
    "label": "Composition Dancer",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q134891334",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4471",
@@ -211817,7 +212301,9 @@
     1914
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q134891342",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4472",
@@ -212257,7 +212743,9 @@
    "mu": [
     "Musée d'art moderne de Paris"
    ]
-  }
+  },
+  "link": "http://parismuseescollections.paris.fr/en/node/206469",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4485",
@@ -212291,7 +212779,9 @@
    "mu": [
     "Buffalo AKG Art Museum"
    ]
-  }
+  },
+  "link": "https://www.albrightknox.org/artworks/19571-danseuse-au-caf%C3%A9-dancer-caf%C3%A9",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4486",
@@ -212736,7 +213226,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20816340",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4499",
@@ -212770,7 +213262,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q6753412",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4500",
@@ -212805,7 +213299,9 @@
    "mu": [
     "Solomon R. Guggenheim Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19882531",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4501",
@@ -212839,7 +213335,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79044",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4502",
@@ -212873,7 +213371,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79600",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4503",
@@ -213716,7 +214216,9 @@
     1947
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Cortona_Via_Crucis_by_Gino_Severini",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4528",
@@ -213750,7 +214252,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/488472",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4529",
@@ -213885,7 +214389,9 @@
     "Russian Museum",
     "Art Culture Museum Petrograd"
    ]
-  }
+  },
+  "link": "http://rusmuseumvrm.ru/data/collections/painting/19_20/zhb_1600/index.php?lang=ru",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4533",
@@ -213919,7 +214425,9 @@
    "mu": [
     "Serpukhov historical-art museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q4500028",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4534",
@@ -213953,7 +214461,9 @@
    "mu": [
     "Solomon R. Guggenheim Museum"
    ]
-  }
+  },
+  "link": "https://www.guggenheim.org/artwork/1500",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4535",
@@ -213987,7 +214497,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/480990",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4536",
@@ -214021,7 +214533,9 @@
    "mu": [
     "Perm Art Museum"
    ]
-  }
+  },
+  "link": "http://www.permartmuseum.ru/gallery/show/image/129",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4537",
@@ -214055,7 +214569,9 @@
    "mu": [
     "Yekaterinburg Museum of Fine Arts"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q89151208",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4538",
@@ -214089,7 +214605,9 @@
    "mu": [
     "Amgueddfa Cymru – Museum Wales"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q107340279",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4539",
@@ -214121,7 +214639,9 @@
     1909
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q111821614",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4540",
@@ -214153,7 +214673,9 @@
     1910
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q111821821",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4541",
@@ -214188,7 +214710,9 @@
     "Russian Museum",
     "Art Culture Museum Petrograd"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q130215060",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4542",
@@ -214220,7 +214744,9 @@
     1909
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q130477553",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4543",
@@ -214254,7 +214780,9 @@
    "mu": [
     "Solomon R. Guggenheim Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19882710",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4544",
@@ -214288,7 +214816,9 @@
    "mu": [
     "Los Angeles County Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20881627",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4545",
@@ -214322,7 +214852,9 @@
    "mu": [
     "Tretyakov Gallery"
    ]
-  }
+  },
+  "link": "http://www.tretyakovgallery.ru/ru/collection/_show/image/_id/2444",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4546",
@@ -214356,7 +214888,9 @@
    "mu": [
     "Museum Ludwig"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q26989087",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4547",
@@ -214390,7 +214924,9 @@
    "mu": [
     "Museum Ludwig"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q26989458",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4548",
@@ -214424,7 +214960,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/larionov-soldier-on-a-horse-t00767",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4549",
@@ -214459,7 +214997,9 @@
     "National Gallery",
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/larionov-nocturne-n06192",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4550",
@@ -214493,7 +215033,9 @@
    "mu": [
     "Yekaterinburg Museum of Fine Arts"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q89152256",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4551",
@@ -214525,7 +215067,9 @@
     1903
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q111987150",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4552",
@@ -214559,7 +215103,9 @@
    "mu": [
     "Russian Museum"
    ]
-  }
+  },
+  "link": "https://rusmuseumvrm.ru/data/collections/painting/19_20/zhb_1366/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4553",
@@ -214593,7 +215139,9 @@
    "mu": [
     "Bashkir State Art Museum (Nesterov Museum)"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q130257190",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4554",
@@ -214627,7 +215175,9 @@
    "mu": [
     "Ulyanovsk Oblast Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q130475664",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4555",
@@ -214661,7 +215211,9 @@
    "mu": [
     "Moderna Museet"
    ]
-  }
+  },
+  "link": "https://sis.modernamuseet.se/objects/105413",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4556",
@@ -214696,7 +215248,9 @@
    "mu": [
     "Germanisches Nationalmuseum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q114143498",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4557",
@@ -214730,7 +215284,9 @@
    "mu": [
     "Germanisches Nationalmuseum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q114143738",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4558",
@@ -214765,7 +215321,9 @@
    "mu": [
     "Germanisches Nationalmuseum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q114240156",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4559",
@@ -214799,7 +215357,9 @@
    "mu": [
     "Germanisches Nationalmuseum"
    ]
-  }
+  },
+  "link": "https://www.kunstbeziehung.de/work.php?wCode=5f565dcf0eb08",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4560",
@@ -214834,7 +215394,9 @@
    "mu": [
     "Germanisches Nationalmuseum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q115160139",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4561",
@@ -215134,7 +215696,9 @@
    "mu": [
     "Germanisches Nationalmuseum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q115160223",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4570",
@@ -215168,7 +215732,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20527532",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4571",
@@ -215202,7 +215768,9 @@
    "mu": [
     "National Galleries Scotland"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q27960842",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4572",
@@ -218812,7 +219380,9 @@
    "mu": [
     "Museo Nacional Centro de Arte Reina Sofía"
    ]
-  }
+  },
+  "link": "http://www.museoreinasofia.es/en/collection/artwork/visage-du-grand-masturbateur-face-great-masturbator",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4679",
@@ -218846,7 +219416,9 @@
    "mu": [
     "Museum Boijmans Van Beuningen"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q2663568",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4680",
@@ -218880,7 +219452,9 @@
    "mu": [
     "Museo Nacional Centro de Arte Reina Sofía"
    ]
-  }
+  },
+  "link": "http://www.museoreinasofia.es/en/collection/artwork/retrato-luis-bunuel-portrait-luis-bunuel",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4681",
@@ -218914,7 +219488,9 @@
    "mu": [
     "Gala-Salvador Dalí Foundation"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q61944806",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4682",
@@ -218949,7 +219525,9 @@
    "mu": [
     "M.T. Abraham Center for the Visual Arts"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q50225924",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4683",
@@ -218983,7 +219561,9 @@
    "mu": [
     "Museum Folkwang"
    ]
-  }
+  },
+  "link": "http://sammlung-online.museum-folkwang.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=3403&viewType=detailView",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4684",
@@ -219017,7 +219597,9 @@
    "mu": [
     "Fundació Joan Miró"
    ]
-  }
+  },
+  "link": "https://www.parlament.cat/document/documents/150310.pdf",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4685",
@@ -219459,7 +220041,9 @@
    "mu": [
     "Botero Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q28110225",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4698",
@@ -219901,7 +220485,9 @@
    "mu": [
     "Thyssen-Bornemisza Museum"
    ]
-  }
+  },
+  "link": "http://www.museothyssen.org/en/thyssen/ficha_obra/1059",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4711",
@@ -219935,7 +220521,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/78330",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4712",
@@ -219969,7 +220557,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/80000",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4713",
@@ -220003,7 +220593,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/79616",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4714",
@@ -220037,7 +220629,9 @@
    "mu": [
     "Indianapolis Museum of Art"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Hotel_Lobby_%28Edward_Hopper%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4715",
@@ -220071,7 +220665,9 @@
    "mu": [
     "Walker Art Center"
    ]
-  }
+  },
+  "link": "http://www.walkerart.org/collections/artworks/office-at-night",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4716",
@@ -220105,7 +220701,9 @@
    "mu": [
     "Whitney Museum of American Art"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Second_Story_Sunlight",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4717",
@@ -220137,7 +220735,9 @@
     1929
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Chop_Suey",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4718",
@@ -220171,7 +220771,9 @@
    "mu": [
     "Dayton Art Institute"
    ]
-  }
+  },
+  "link": "http://www.daytonartinstitute.org/art/collection-highlights/american/high-noon",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4719",
@@ -220205,7 +220807,9 @@
    "mu": [
     "Hirshhorn Museum and Sculpture Garden"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Hotel_by_a_Railroad",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4720",
@@ -220239,7 +220843,9 @@
    "mu": [
     "Addison Gallery of American Art"
    ]
-  }
+  },
+  "link": "http://accessaddison.andover.edu/Obj1594?sid=11956&x=80849",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4721",
@@ -220273,7 +220879,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/481213",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4722",
@@ -220714,7 +221322,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20474080",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4735",
@@ -220748,7 +221358,9 @@
    "mu": [
     "Hirshhorn Museum and Sculpture Garden"
    ]
-  }
+  },
+  "link": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_66.468",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4736",
@@ -220782,7 +221394,9 @@
    "mu": [
     "Brooklyn Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19931379",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4737",
@@ -220816,7 +221430,9 @@
    "mu": [
     "National Portrait Gallery"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q46093362",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4738",
@@ -220850,7 +221466,9 @@
    "mu": [
     "Whitney Museum of American Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q64513598",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4739",
@@ -220881,7 +221499,9 @@
    "label": "Noon",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q105497907",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4740",
@@ -220911,7 +221531,9 @@
    "label": "American Discovery Viewed by Native Americans",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q132557302",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4741",
@@ -220945,7 +221567,9 @@
    "mu": [
     "Hirshhorn Museum and Sculpture Garden"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q132557370",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4742",
@@ -220977,7 +221601,9 @@
    "mu": [
     "Whitney Museum of American Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q132558825",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4743",
@@ -221011,7 +221637,9 @@
    "mu": [
     "Hirshhorn Museum and Sculpture Garden"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q132566760",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4744",
@@ -221041,7 +221669,9 @@
    "label": "Bubbles",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://collection.artbma.org/objects/37388/bubbles",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4745",
@@ -221338,7 +221968,9 @@
    "mu": [
     "National Archives at College Park"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q111821850",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4754",
@@ -221372,7 +222004,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20537900",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4755",
@@ -221406,7 +222040,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/24306",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4756",
@@ -221440,7 +222076,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/482299",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4757",
@@ -221474,7 +222112,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/489813",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4758",
@@ -221508,7 +222148,9 @@
    "mu": [
     "The Phillips Collection"
    ]
-  }
+  },
+  "link": "https://www.phillipscollection.org/collection/browse-the-collection?id=1448",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4759",
@@ -221538,7 +222180,9 @@
    "label": "Lake George Reflection",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q110978879",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4760",
@@ -221572,7 +222216,9 @@
    "mu": [
     "Brooklyn Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q124707993",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4761",
@@ -221606,7 +222252,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20816700",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4762",
@@ -221638,7 +222286,9 @@
     1931
    ],
    "mu": []
-  }
+  },
+  "link": "https://collections.okeeffemuseum.org/object/8793/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4763",
@@ -221672,7 +222322,9 @@
    "mu": [
     "Amon Carter Museum of American Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q63034392",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4764",
@@ -221706,7 +222358,9 @@
    "mu": [
     "Crystal Bridges Museum of American Art"
    ]
-  }
+  },
+  "link": "https://collection.crystalbridges.org/objects/3013/radiator-buildingnight-new-york",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4765",
@@ -221740,7 +222394,9 @@
    "mu": [
     "Brooklyn Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q135416319",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4766",
@@ -221774,7 +222430,9 @@
    "mu": [
     "Brooklyn Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q135416338",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4767",
@@ -221808,7 +222466,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/487999",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4768",
@@ -221842,7 +222502,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20504653",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4769",
@@ -221876,7 +222538,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20816815",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4770",
@@ -221910,7 +222574,9 @@
    "mu": [
     "Cleveland Museum of Art"
    ]
-  }
+  },
+  "link": "https://clevelandart.org/art/1977.43",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4771",
@@ -221945,7 +222611,9 @@
    "mu": [
     "Detroit Institute of Arts"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q64577533",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4772",
@@ -221979,7 +222647,9 @@
    "mu": [
     "Amon Carter Museum of American Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q139059733",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4773",
@@ -222455,7 +223125,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/140644",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4787",
@@ -222793,7 +223465,9 @@
    "mu": [
     "Museo Mural Diego Rivera"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Dream_of_a_Sunday_Afternoon_in_the_Alameda",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4797",
@@ -222827,7 +223501,9 @@
    "mu": [
     "Palace of Fine arts"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:El_hombre_controlador_del_universo",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4798",
@@ -222861,7 +223537,9 @@
    "mu": [
     "Museum of Latin American Art of Buenos Aires"
    ]
-  }
+  },
+  "link": "https://coleccion.malba.org.ar/retrato-de-ramon-gomez-de-la-serna/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4799",
@@ -222893,7 +223571,9 @@
     1922
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:La_Creaci%C3%B3n_%28Diego_Rivera%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4800",
@@ -222927,7 +223607,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/82208",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4801",
@@ -222961,7 +223643,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/488496",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4802",
@@ -222995,7 +223679,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20191555",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4803",
@@ -223029,7 +223715,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20191928",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4804",
@@ -223063,7 +223751,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/7021",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4805",
@@ -223097,7 +223787,9 @@
    "mu": [
     "Hermitage Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q21725211",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4806",
@@ -223131,7 +223823,9 @@
    "mu": [
     "Kröller-Müller Museum"
    ]
-  }
+  },
+  "link": "http://www.kmm.nl/object/KM%20100.848",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4807",
@@ -223165,7 +223859,9 @@
    "mu": [
     "Stedelijk Museum Amsterdam"
    ]
-  }
+  },
+  "link": "http://www.stedelijk.nl/en/artwork/936-la-table-mince",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y4808",
@@ -223601,7 +224297,9 @@
     "Palace of Fine arts",
     "Instituto Nacional de Bellas Artes y Literatura"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q115330296",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4821",
@@ -223633,7 +224331,9 @@
     1944
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Patricios_y_Patricidas",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "y4822",
@@ -223665,7 +224365,9 @@
     1961
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19873508",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4823",
@@ -223699,7 +224401,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195030",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4824",
@@ -223733,7 +224437,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195081",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4825",
@@ -223767,7 +224473,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195455",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4826",
@@ -223801,7 +224509,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195511",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4827",
@@ -223835,7 +224545,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195530",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4828",
@@ -223869,7 +224581,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195722",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4829",
@@ -223903,7 +224617,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20195782",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4830",
@@ -223937,7 +224653,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20196031",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4831",
@@ -223971,7 +224689,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20196078",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4832",
@@ -224005,7 +224725,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20196179",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4833",
@@ -224039,7 +224761,9 @@
    "mu": [
     "National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20196364",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4834",
@@ -224479,7 +225203,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20489189",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4847",
@@ -224513,7 +225239,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20489047",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y4848",
@@ -224547,7 +225275,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/157156",
+  "link_label": "館方作品頁"
  },
  {
   "id": "y4849",
@@ -235921,7 +236651,9 @@
    "mu": [
     "Memorial Art Gallery"
    ]
-  }
+  },
+  "link": "http://magart.rochester.edu/Obj5223",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "y5206",
@@ -235955,7 +236687,9 @@
    "mu": [
     "Museo Soumaya"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q130297844",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y5207",
@@ -235989,7 +236723,9 @@
    "mu": [
     "Museo Soumaya"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q130297845",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y5208",
@@ -236091,7 +236827,9 @@
    "mu": [
     "Art collections of Fondazione Cariplo"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q30887699",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y5211",
@@ -236226,7 +236964,9 @@
    "mu": [
     "Museo Nacional de Historia"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q61753276",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "y5215",
@@ -236259,7 +236999,9 @@
     1938
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q140366116",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x1153",
@@ -236292,7 +237034,9 @@
   ],
   "n": "橋社核心創始人的經典自畫像。大塊未調和的純色對比與木刻般粗厚剛勁的稜角輪廓，體現早期表現主義的直率生命力。",
   "pd": false,
-  "tier": "canon"
+  "tier": "canon",
+  "link": "https://www.wikidata.org/wiki/Q63881141",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x1155",
@@ -236324,7 +237068,9 @@
   ],
   "n": "荷蘭風格派（De Stijl）創始成員的重要繪畫。將溜冰者的動態形體極度簡化為嚴密幾何色塊網格，是具象邁向純粹抽象的典範。",
   "pd": false,
-  "tier": "canon"
+  "tier": "canon",
+  "link": "http://www.museothyssen.org/en/thyssen/ficha_obra/1069",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "x1157",
@@ -236341,7 +237087,9 @@
   ],
   "n": "超現實主義「自動性繪畫」奠基之作。在畫布灑膠水與海沙，順隨沙粒軌跡以筆墨勾勒狂暴撕咬的魚群，象徵自然殘酷的生存慾望。",
   "pd": false,
-  "tier": "canon"
+  "tier": "canon",
+  "link": "https://www.moma.org/collection/works/79309",
+  "link_label": "館方作品頁"
  },
  {
   "id": "x1158",
@@ -236406,7 +237154,9 @@
   ],
   "n": "抽象表現主義教父「推與拉」（Push and Pull）理論巔峰。純色矩形色塊與狂放筆觸並置，利用冷暖前進後退營造深邃空間律動。",
   "pd": false,
-  "tier": "canon"
+  "tier": "canon",
+  "link": "https://www.wikidata.org/wiki/Q19882607",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x1163",
@@ -236422,7 +237172,9 @@
   ],
   "n": "普普藝術史公認的第一件原型作品。剪貼美國大眾雜誌封面與廣告，畫面左方左輪手槍噴出鮮明「POP!」字樣，奠定普普視覺語言。",
   "pd": false,
-  "tier": "canon"
+  "tier": "canon",
+  "link": "https://www.wikidata.org/wiki/Q85394510",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x1164",
@@ -236438,7 +237190,9 @@
   ],
   "n": "極簡與觀念藝術里程碑。作品只提供簡明指令：「在牆上隨機布置50個點，並以直線兩兩相連」，由他人依指令在牆面上執行，使觀念本身凌駕於物理執行之上。",
   "pd": false,
-  "tier": "canon"
+  "tier": "canon",
+  "link": "https://www.wikidata.org/wiki/Q20776032",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "x1165",
@@ -236454,7 +237208,9 @@
   ],
   "n": "極簡燈管裝置（雕塑性作品）的開端。以45度角斜置於牆面的黃色螢光燈管，光芒彌漫擴散重新塑造建築邊界，將工業現成物轉化為純粹光的精神空間。",
   "pd": false,
-  "tier": "canon"
+  "tier": "canon",
+  "link": "http://resolver.smak.be/collection/work/data/586",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "x1166",
