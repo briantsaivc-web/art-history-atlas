@@ -26106,7 +26106,7 @@
  {
   "id": "x0013",
   "m": "high_ren",
-  "a": "Leonardo da Vinci",
+  "a": "Andrea del Verrocchio and Leonardo da Vinci",
   "t": "The Baptism of Christ",
   "z": "基督受洗",
   "y": "c. 1475",
@@ -26137,7 +26137,16 @@
    "mu": [
     "Uffizi Gallery"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "a": "Leonardo da Vinci"
+    }
+   }
+  ]
  },
  {
   "id": "x0014",
@@ -29022,7 +29031,7 @@
   "a": "Diego Velázquez",
   "t": "The Coronation of the Virgin",
   "z": "聖母加冕",
-  "y": "c. 1641–1644",
+  "y": "c. 1635–1636",
   "mu": "Museo del Prado, Madrid",
   "mu_id": "museo_del_prado_madrid",
   "n": "聖母跪受聖父與基督共同加冕，色調溫暖，衣袍色彩鮮豔而明亮。宗教題材在委拉斯奎茲的作品中並不多見，此作可看出他在宗教畫中的色彩處理。",
@@ -29057,7 +29066,16 @@
    "model": "gemini-3-flash-preview",
    "grounded": false,
    "date": "2026-10-19"
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "y": "c. 1641–1644"
+    }
+   }
+  ]
  },
  {
   "id": "x0099",
@@ -36069,7 +36087,7 @@
   "m": "romanticism",
   "a": "John Constable",
   "t": "The Cornfield",
-  "z": "玉米田",
+  "z": "麥田",
   "y": "1826",
   "mu": "National Gallery, London",
   "mu_id": "national_gallery_london",
@@ -36086,7 +36104,16 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Cornfield_-_1826.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20The%20Cornfield%20-%201826.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-18 實際下載",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "z": "玉米田"
+    }
+   }
+  ]
  },
  {
   "id": "x0302",
@@ -36198,7 +36225,7 @@
   "t": "Cross in the Mountains (Tetschen Altar)",
   "z": "山中十字架（泰琛祭壇）",
   "y": "1808",
-  "mu": "Gemäldegalerie Alte Meister, Dresden",
+  "mu": "Galerie Neue Meister, Dresden",
   "mu_id": "gem_ldegalerie_alte_meister_dresden",
   "n": "將風景畫置於祭壇之上，夕陽下山頂的十字架被松樹包圍，此舉在當時引起爭議，標誌浪漫風景宗教化。",
   "pd": true,
@@ -36223,7 +36250,16 @@
    "mu": [
     "Staatliche Kunstsammlungen Dresden"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": "Gemäldegalerie Alte Meister, Dresden"
+    }
+   }
+  ]
  },
  {
   "id": "x0306",
@@ -36301,7 +36337,7 @@
   "t": "Two Men Contemplating the Moon",
   "z": "兩人凝視月亮",
   "y": "c. 1819–1820",
-  "mu": "Gemäldegalerie Alte Meister, Dresden",
+  "mu": "Galerie Neue Meister, Dresden",
   "mu_id": "gem_ldegalerie_alte_meister_dresden",
   "n": "兩個男人倚靠在橡樹旁望著月亮，背影沉靜。畫面被視為友誼與對未來的沉思，是浪漫主義的經典意象，也是弗里德里希常見的背影構圖。",
   "pd": true,
@@ -36326,7 +36362,16 @@
    "mu": [
     "Staatliche Kunstsammlungen Dresden"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": "Gemäldegalerie Alte Meister, Dresden"
+    }
+   }
+  ]
  },
  {
   "id": "x0309",
@@ -36334,7 +36379,7 @@
   "a": "Caspar David Friedrich",
   "t": "Moonrise over the Sea",
   "z": "海上月升",
-  "y": "1821",
+  "y": "1822",
   "mu": "Alte Nationalgalerie, Berlin",
   "mu_id": "alte_nationalgalerie_berlin",
   "n": "岸邊三位人物凝望月亮升起，船隻遠遠駛來，畫面寂靜而充滿渴望。弗里德里希以背影人物與水面微光，營造出悠遠的氣氛。",
@@ -36360,7 +36405,16 @@
    "mu": [
     "Alte Nationalgalerie"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "y": "1821"
+    }
+   }
+  ]
  },
  {
   "id": "x0310",
@@ -36548,7 +36602,7 @@
   "t": "The Large Enclosure near Dresden",
   "z": "德累斯頓附近的大圍場",
   "y": "1832",
-  "mu": "Gemäldegalerie Alte Meister, Dresden",
+  "mu": "Galerie Neue Meister, Dresden",
   "mu_id": "gem_ldegalerie_alte_meister_dresden",
   "n": "平坦的易北河氾濫平原，天空佔據大部分畫面，水面倒映天色，構圖簡練。氣氛平靜而空曠，是弗里德里希以極簡風景傳達內省情感的作品。",
   "pd": true,
@@ -36574,7 +36628,16 @@
    "mu": [
     "Staatliche Kunstsammlungen Dresden"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": "Gemäldegalerie Alte Meister, Dresden"
+    }
+   }
+  ]
  },
  {
   "id": "x0316",
@@ -41760,7 +41823,7 @@
   "t": "Woman with a Monkey",
   "z": "女子與猴子",
   "y": "1884",
-  "mu": "Private collection",
+  "mu": "Smith College Museum of Art, Northampton",
   "mu_id": "private_collection",
   "n": "大碗島上牽猴子的女子，與《大碗島》的構想相關，是修拉1880年代中期的小幅作品。",
   "pd": true,
@@ -41785,7 +41848,16 @@
    "mu": [
     "Smith College Museum of Art"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": "Private collection"
+    }
+   }
+  ]
  },
  {
   "id": "x0470",
@@ -58508,7 +58580,7 @@
   "t": "Hydria with the Sack of Troy",
   "z": "特洛伊陷落水罐",
   "y": -480,
-  "mu": "",
+  "mu": "National Archaeological Museum, Naples",
   "mu_id": "unknown",
   "n": "水罐上描繪特洛伊城陷落時的殺戮場面，人物肌肉緊繃、情緒激烈，紅繪線條有力，屬古風晚期的陶畫風格。",
   "pd": true,
@@ -58524,7 +58596,16 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Kleophrades+Painter+Hydria+with+the+Sack+of+Troy",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x0971",
@@ -58587,7 +58668,7 @@
   "t": "Bell krater with Ganymede",
   "z": "蓋尼米德鐘形雙耳喇叭瓶",
   "y": -490,
-  "mu": "",
+  "mu": "Louvre Museum, Paris",
   "mu_id": "unknown",
   "n": "畫中描繪被宙斯擄走的少年蓋尼米德，形體流暢、線條細緻，展現紅繪陶畫早期古典階段的優雅特質。",
   "pd": true,
@@ -58622,7 +58703,16 @@
    "grounded": false,
    "date": "2026-10-19",
    "applied": null
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x0974",
@@ -58631,7 +58721,7 @@
   "t": "Dionysus and maenads amphora",
   "z": "狄俄尼索斯與女信徒雙耳瓶",
   "y": -540,
-  "mu": "",
+  "mu": "Bibliothèque nationale de France, Paris",
   "mu_id": "unknown",
   "n": "黑繪式雙耳瓶，描繪酒神與女信徒，衣紋刻線細緻，人物神態含蓄親切，體現阿馬西斯畫師的細膩手法。",
   "pd": true,
@@ -58646,7 +58736,16 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Amasis+Painter+Dionysus+and+maenads+amphora",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x0975",
@@ -58655,7 +58754,7 @@
   "t": "Wedding procession",
   "z": "婚禮行列",
   "y": -540,
-  "mu": "",
+  "mu": "Metropolitan Museum of Art, New York",
   "mu_id": "unknown",
   "n": "畫面描繪婚禮車隊與賓客，人物排列活潑、細節豐富，黑繪輪廓搭配刻線，呈現古希臘的婚禮習俗與日常生活。",
   "pd": true,
@@ -58670,7 +58769,16 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Amasis_Ptr_cat_47_lekythos_MMA_56.11.1_wedding_procession_2.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Amasis%20Ptr%20cat%2047%20lekythos%20MMA%2056.11.1%20wedding%20procession%202.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-18 實際下載",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x0976",
@@ -58882,7 +58990,7 @@
   "src": null,
   "src_url": "https://en.wikipedia.org/w/index.php?search=Parrhasius+Parrhasius+sketches",
   "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "verif": "Commons 搜尋未找到可信配對；2026-10-25 交叉查證建議移除（待 Brian 決定）：「帕拉修斯素描線稿」並非特定作品，只是對其線條風格的泛述，無法修正。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -58938,7 +59046,7 @@
   "src": "Commons",
   "src_url": "https://commons.wikimedia.org/wiki/File:Fresco_of_Seaside_Villa.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Fresco%20of%20Seaside%20Villa.jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-18 實際下載",
+  "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-18 實際下載；2026-10-25 交叉查證存疑，待查：題名泛指別墅海濱景致，無法對應普林尼提到的任何具體作品，待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -58962,7 +59070,7 @@
   "src": "Commons",
   "src_url": "https://commons.wikimedia.org/wiki/File:Villa_of_Livia_-_Garden_fresco_005.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20of%20Livia%20-%20Garden%20fresco%20005.jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-18 實際下載",
+  "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-18 實際下載；2026-10-25 交叉查證存疑，待查：羅馬花園壁畫（疑指利維亞別墅）並非斯圖狄烏斯作品，作者歸屬有誤，待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
   "wd": {
    "q": "Q1238926",
@@ -59149,7 +59257,7 @@
   "src": null,
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gaius+Fabius+Pictor+Fabius+Pictor+signature+fresco",
   "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "verif": "Commons 搜尋未找到可信配對；2026-10-25 交叉查證建議移除（待 Brian 決定）：「法比烏斯家族壁畫（簽名）」查無此作，與薩盧斯神廟壁畫重複，應刪除。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -59198,7 +59306,7 @@
   "src": null,
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marcus+Pacuvius+Roman+tragedy+scene",
   "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "verif": "Commons 搜尋未找到可信配對；2026-10-25 交叉查證建議移除（待 Brian 決定）：「羅馬悲劇場景」非有文獻依據的具體畫作，無法修正。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -59500,7 +59608,7 @@
   "src": null,
   "src_url": "https://en.wikipedia.org/w/index.php?search=Manuel+Panselinos+Frescoes+of+the+Holy+Apostles",
   "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "verif": "Commons 搜尋未找到可信配對；2026-10-25 交叉查證存疑，待查：潘塞利諾斯傳世壁畫為阿索斯山 Protaton，薩洛尼基聖使徒教堂壁畫非其作，題名與作者不符，待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -59582,7 +59690,7 @@
   "t": "Frescoes of Saint Nicetas",
   "z": "聖尼塞塔斯教堂壁畫",
   "y": 1316,
-  "mu": "",
+  "mu": "Church of St. Nicetas, Čučer (North Macedonia)",
   "mu_id": "unknown",
   "n": "與阿斯特拉帕斯合作完成的塞爾維亞壁畫，人物優雅，建築背景空間感強，屬晚期拜占庭的壁畫傳統。",
   "pd": true,
@@ -59597,7 +59705,16 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Eutychios+Frescoes+of+Saint+Nicetas",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x1012",
@@ -59798,7 +59915,7 @@
   "id": "x1019",
   "m": "byzantine",
   "a": "Daniil Chorny",
-  "t": "Frescoes of Trinity Sergius Lavra",
+  "t": "Iconostasis of the Trinity Cathedral, Trinity Lavra of St. Sergius",
   "z": "聖三一聖謝爾蓋修道院聖像",
   "y": 1425,
   "mu": "",
@@ -59816,7 +59933,16 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Daniil+Chorny+Frescoes+of+Trinity+Sergius+Lavra",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "t": "Frescoes of Trinity Sergius Lavra"
+    }
+   }
+  ]
  },
  {
   "id": "x1020",
@@ -59929,7 +60055,7 @@
   "t": "Apse of Sant Quirze de Pedret",
   "z": "佩德雷聖基爾澤教堂後殿",
   "y": 1100,
-  "mu": "",
+  "mu": "Museu Nacional d'Art de Catalunya, Barcelona",
   "mu_id": "unknown",
   "n": "後殿壁畫以使徒與天使環繞基督，色彩層次分明，人物排列整齊，是加泰隆尼亞地區最早的羅馬式壁畫之一。",
   "pd": true,
@@ -59944,7 +60070,16 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:'The_Virgin_and_Child_in_Majesty_and_the_Adoration_of_the_Maji',_Romanesque_fresco_by_the_Master_of_Pedret_from_the_apse_of_the_Church_of_Saint_Joan_at_Tredos,_Lleida,_Spain,_c._1100.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/'The%20Virgin%20and%20Child%20in%20Majesty%20and%20the%20Adoration%20of%20the%20Maji',%20Romanesque%20fresco%20by%20the%20Master%20of%20Pedret%20from%20the%20apse%20of%20the%20Church%20of%20Saint%20Joan%20at%20Tredos,%20Lleida,%20Spain,%20c.%201100.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-18 實際下載",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x1025",
@@ -60074,7 +60209,7 @@
   "t": "Hortus Deliciarum",
   "z": "歡樂花園",
   "y": 1180,
-  "mu": "",
+  "mu": "Destroyed 1870 (Strasbourg library fire); copies survive",
   "mu_id": "unknown",
   "n": "霍恩堡修道院長編纂的圖解百科，原本毀於1870年戰火，僅存摹本，含著名《天堂之梯》。",
   "pd": true,
@@ -60089,7 +60224,16 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Herrad_von_landsberg.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Herrad%20von%20landsberg.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-18 實際下載",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x1031",
@@ -60122,7 +60266,7 @@
   "t": "Homilary self-portrait",
   "z": "講道集中的自畫像",
   "y": 1175,
-  "mu": "法蘭克福大學圖書館",
+  "mu": "法蘭克福大學圖書館（Ms. Barth. 42）",
   "mu_id": "m_b517f61b",
   "n": "一位修女抄寫員兼畫家，在字母O中畫下自己並簽署姓名，是中世紀少見的女性署名作品，字母與人像融為一體。",
   "pd": true,
@@ -60138,7 +60282,16 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Guda+Homilary+self-portrait",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": "法蘭克福大學圖書館"
+    }
+   }
+  ]
  },
  {
   "id": "x1033",
@@ -60398,7 +60551,7 @@
   "src": null,
   "src_url": "https://en.wikipedia.org/w/index.php?search=Renier+of+Huy+Mosan+metalwork",
   "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "verif": "Commons 搜尋未找到可信配對；2026-10-25 交叉查證存疑，待查：雷尼耶·德於伊的確定作品為列日洗禮盤，而非斯塔沃洛三聯畫；本條目題名過泛，宜改為列日洗禮盤，待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -60866,7 +61019,7 @@
   "t": "Salome receives the head of John the Baptist",
   "z": "莎樂美接受施洗約翰之首",
   "y": 1527,
-  "mu": "",
+  "mu": "Uffizi Gallery, Florence",
   "mu_id": "unknown",
   "n": "莎樂美接過施洗者約翰首級的場面，戲劇性強，女性形象典雅，顯現盧伊尼對達文西風格的吸收與轉化。",
   "pd": true,
@@ -60892,7 +61045,16 @@
    "mu": [
     "Uffizi Gallery"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x1057",
@@ -60935,7 +61097,7 @@
   "t": "Marriage of the Virgin",
   "z": "聖母的婚禮",
   "y": 1500,
-  "mu": "",
+  "mu": "Musée des Beaux-Arts, Caen",
   "mu_id": "unknown",
   "n": "畫面中央是圓形神廟，人物在前景排列，空間開闊平靜，是拉斐爾同題名作的前身，可對照師徒的構圖差異。",
   "pd": true,
@@ -60960,7 +61122,16 @@
    "mu": [
     "Musée des Beaux-Arts de Caen"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x1059",
@@ -60969,7 +61140,7 @@
   "t": "Madonna Litta",
   "z": "利塔聖母",
   "y": 1490,
-  "mu": "",
+  "mu": "Hermitage Museum, Saint Petersburg",
   "mu_id": "unknown",
   "n": "聖母哺乳聖嬰的畫面，常歸於達文西及其工坊，一說為博爾特拉菲奧所作，母子形象柔美，明暗過渡細緻。",
   "pd": true,
@@ -60984,7 +61155,16 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Giovanni+Antonio+Boltraffio+Madonna+Litta",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "x1060",
@@ -63594,7 +63774,7 @@
   "src": "Wikipedia",
   "src_url": "https://en.wikipedia.org/w/index.php?search=Pablo+O'Higgins+Los+Trabajadores",
   "img_ext": null,
-  "verif": "受著作權保護，不嵌圖",
+  "verif": "受著作權保護，不嵌圖；2026-10-25 交叉查證存疑，待查：Pablo O'Higgins《Los Trabajadores》找不到可佐證的館藏或年代，待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -64384,11 +64564,11 @@
   "m": "gothic",
   "a": "Duccio",
   "t": "Annunciation (Maestà predella)",
-  "z": "報喜（預備畫）",
+  "z": "報喜（《寶座聖母》祭壇基座畫）",
   "y": "c. 1308-1311",
   "mu": "National Gallery, London",
   "mu_id": "national_gallery_london",
-  "n": "出自《寶座聖母》預備畫的報喜場景，天使與聖母隔著花瓶相對，室內空間以透視手法呈現。細膩的光線與姿態帶有哥德式的優雅。",
+  "n": "出自《寶座聖母》基座畫的報喜場景，天使與聖母隔著花瓶相對，室內空間以透視手法呈現。細膩的光線與姿態帶有哥德式的優雅。",
   "pd": true,
   "tier": "v9",
   "th": [
@@ -64411,7 +64591,16 @@
    "mu": [
     "National Gallery"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "z": "報喜（預備畫）"
+    }
+   }
+  ]
  },
  {
   "id": "y0032",
@@ -64867,7 +65056,7 @@
   "m": "early_ren",
   "a": "Gentile da Fabriano",
   "t": "Flight into Egypt (Strozzi Altarpiece predella)",
-  "z": "逃往埃及（斯特羅齊祭壇預備畫）",
+  "z": "逃往埃及（斯特羅齊祭壇基座畫）",
   "y": "1423",
   "mu": "Uffizi Gallery, Florence",
   "mu_id": "uffizi_florence",
@@ -64885,18 +65074,27 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gentile+da+Fabriano+Flight+into+Egypt+(Strozzi+Altarpiece+predella)",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "z": "逃往埃及（斯特羅齊祭壇預備畫）"
+    }
+   }
+  ]
  },
  {
   "id": "y0048",
   "m": "early_ren",
   "a": "Gentile da Fabriano",
   "t": "Presentation in the Temple (Strozzi Altarpiece predella)",
-  "z": "聖殿獻嬰（斯特羅齊祭壇預備畫）",
+  "z": "聖殿獻嬰（斯特羅齊祭壇基座畫）",
   "y": "1423",
   "mu": "Musée du Louvre, Paris",
   "mu_id": "louvre_paris",
-  "n": "預備畫之一，描繪聖母在祭司面前獻上聖嬰，周圍的群像表情各異。建築與人物排列有序，筆觸精緻，色彩明亮。",
+  "n": "基座畫之一，描繪聖母在祭司面前獻上聖嬰，周圍的群像表情各異。建築與人物排列有序，筆觸精緻，色彩明亮。",
   "pd": true,
   "tier": "v9",
   "th": [
@@ -64919,14 +65117,23 @@
    "mu": [
     "Department of Paintings of the Louvre"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "z": "聖殿獻嬰（斯特羅齊祭壇預備畫）"
+    }
+   }
+  ]
  },
  {
   "id": "y0049",
   "m": "early_ren",
   "a": "Gentile da Fabriano",
   "t": "Nativity (Strozzi Altarpiece predella)",
-  "z": "耶穌誕生（斯特羅齊祭壇預備畫）",
+  "z": "耶穌誕生（斯特羅齊祭壇基座畫）",
   "y": "1423",
   "mu": "Uffizi Gallery, Florence",
   "mu_id": "uffizi_florence",
@@ -71996,7 +72203,7 @@
   "t": "Stories of Saint Cecilia frescoes",
   "z": "聖西西莉亞壁畫",
   "y": "1612-1615",
-  "mu": "San Luigi dei Francesi, Rome",
+  "mu": "San Luigi dei Francesi (Polet Chapel), Rome",
   "mu_id": "san_luigi_dei_francesi_rome",
   "n": "為羅馬法國人聖路易堂禮拜堂所作的壁畫，講述聖徒施捨與殉道的故事。人物動作自然，構圖明晰，具有學院式的古典風格。",
   "pd": true,
@@ -72019,7 +72226,16 @@
     1613
    ],
    "mu": []
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": "San Luigi dei Francesi, Rome"
+    }
+   }
+  ]
  },
  {
   "id": "y0266",
@@ -72485,7 +72701,7 @@
   "m": "baroque",
   "a": "Francisco de Zurbarán",
   "t": "Agnus Dei",
-  "z": "神羔",
+  "z": "上帝的羔羊",
   "y": "c. 1635-1640",
   "mu": "Museo del Prado, Madrid",
   "mu_id": "museo_del_prado_madrid",
@@ -72513,7 +72729,16 @@
    "mu": [
     "Museo del Prado"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "z": "神羔"
+    }
+   }
+  ]
  },
  {
   "id": "y0281",
@@ -74985,7 +75210,7 @@
   "t": "The Water Mill with the Great Red Roof",
   "z": "紅屋頂大水車磨坊",
   "y": "c. 1670",
-  "mu": "",
+  "mu": "Art Institute of Chicago",
   "mu_id": "unknown",
   "n": "畫面中的水車磨坊與紅色屋頂在樹木間顯得醒目，水流穿過木構水閘。這是霍貝瑪反覆描繪的題材，具有田園詩意。",
   "pd": true,
@@ -75010,7 +75235,16 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0360",
@@ -75019,7 +75253,7 @@
   "t": "The Haarlem Lock and the Herring-Packers' Tower, Amsterdam",
   "z": "阿姆斯特丹哈勒姆水閘與鯡魚包裝塔",
   "y": "c. 1664-1665",
-  "mu": "",
+  "mu": "National Gallery, London",
   "mu_id": "unknown",
   "n": "描繪阿姆斯特丹城牆邊的水閘與塔樓，船隻靜靜停靠。霍貝瑪少見的城市風景，筆觸平實，有明朗的光線。",
   "pd": true,
@@ -75035,7 +75269,16 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Meindert+Hobbema+The+Haarlem+Lock+and+the+Herring-Packers'+Tower,+Amsterdam",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0361",
@@ -75044,7 +75287,7 @@
   "t": "View of the Ruins of Brederode Castle",
   "z": "布雷德羅德城堡廢墟",
   "y": "c. 1667",
-  "mu": "",
+  "mu": "National Gallery, London",
   "mu_id": "unknown",
   "n": "破敗的城堡廢墟矗立於天空之下，旁有牧羊人與動物。畫面帶有淡淡的憂傷氣氛，反映了荷蘭風景畫對歷史遺跡的興趣。",
   "pd": true,
@@ -75070,7 +75313,16 @@
    "mu": [
     "National Gallery"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0362",
@@ -76644,7 +76896,7 @@
   "src": "Commons",
   "src_url": "https://commons.wikimedia.org/wiki/File:Jan_josefsz_van_goyen_a_river_landscape_with_sailing_vessels_fishermen081515).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20josefsz%20van%20goyen%20a%20river%20landscape%20with%20sailing%20vessels%20fishermen081515).jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-19 實際下載",
+  "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-19 實際下載；2026-10-25 交叉查證存疑，待查：題名過於籠統，范戈延同類帆船河景極多，無法對應唯一作品，待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -76944,7 +77196,7 @@
   "src": "Commons",
   "src_url": "https://commons.wikimedia.org/wiki/File:Interieur_van_een_protestantse_gotische_kerk_Rijksmuseum_SK-C-270.jpeg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Interieur_van_een_protestantse_gotische_kerk_Rijksmuseum_SK-C-270.jpeg?width=1000",
-  "verif": "Wikidata 條目 Q17342382 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "verif": "Wikidata 條目 Q17342382 之 P18 圖檔，2026-10-22 下載並經目視比對；2026-10-25 交叉查證存疑，待查：題名泛指德維特教堂內景，無法對應特定作品，待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
   "link": "https://www.rijksmuseum.nl/nl/collectie/SK-C-270",
   "link_label": "館方／專門資料庫作品頁"
@@ -77038,7 +77290,7 @@
   "src": null,
   "src_url": "https://en.wikipedia.org/w/index.php?search=Adriaen+van+Ostade+Peasants+Merrymaking+at+an+Inn",
   "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "verif": "Commons 搜尋未找到可信配對；2026-10-25 交叉查證存疑，待查：題名泛指奧斯塔德酒館農民畫，無法對應特定作品，待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -77794,7 +78046,7 @@
   "m": "dutch_golden",
   "a": "Paulus Potter",
   "t": "The Piebald Horse",
-  "z": "斑馬",
+  "z": "花斑馬",
   "y": "c. 1650",
   "mu": "",
   "mu_id": "unknown",
@@ -77824,7 +78076,16 @@
     "Department of Paintings of the Louvre",
     "Charles Sedelmeyer collection"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "z": "斑馬"
+    }
+   }
+  ]
  },
  {
   "id": "y0444",
@@ -78353,7 +78614,7 @@
   "t": "Mademoiselle de Camargo Dancing",
   "z": "卡馬戈小姐的舞蹈",
   "y": "c. 1730",
-  "mu": "",
+  "mu": "Wallace Collection, London",
   "mu_id": "unknown",
   "n": "描繪著名舞者卡馬戈在花園中起舞，旁有樂師與賓客圍觀。蘭克雷以優雅細緻的筆觸，把舞蹈名伶的風采融入戶外雅宴場景。",
   "pd": true,
@@ -78379,7 +78640,16 @@
    "mu": [
     "Wallace Collection"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0459",
@@ -79761,7 +80031,7 @@
   "t": "Zebra",
   "z": "斑馬",
   "y": "1763",
-  "mu": "",
+  "mu": "Yale Center for British Art, New Haven",
   "mu_id": "unknown",
   "n": "斯塔布斯為罕見外來動物所繪的肖像，斑紋細節與姿態被仔細研究。作品反映啟蒙時代對自然與異國動物的好奇。",
   "pd": true,
@@ -79786,7 +80056,16 @@
    "mu": [
     "Yale Center for British Art"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0502",
@@ -80262,7 +80541,7 @@
   "t": "Self-Portrait at the Crossroads between Music and Painting",
   "z": "音樂與繪畫之間的自畫像",
   "y": "1794",
-  "mu": "",
+  "mu": "Nostell Priory (National Trust), West Yorkshire",
   "mu_id": "unknown",
   "n": "畫家站在音樂與繪畫兩位女神之間，象徵自己面臨職業抉擇。此作是考夫曼少見的自我陳述，表現她的才華與寓意。",
   "pd": true,
@@ -80289,7 +80568,16 @@
     "National Trust",
     "Nostell Priory"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0517",
@@ -80836,7 +81124,7 @@
   "t": "Saul and the Witch of Endor",
   "z": "掃羅與隱多珥女巫",
   "y": "1777",
-  "mu": "",
+  "mu": "Wadsworth Atheneum, Hartford",
   "mu_id": "unknown",
   "n": "描繪以色列王掃羅求問亡靈撒母耳的聖經場面，氣氛陰森。韋斯特以幽暗光影與戲劇性手勢營造緊張感。",
   "pd": true,
@@ -80859,7 +81147,16 @@
     1777
    ],
    "mu": []
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0535",
@@ -81144,9 +81441,9 @@
   "t": "Portrait of Thomas Jefferson",
   "z": "傑佛遜肖像",
   "y": "1805",
-  "mu": "",
+  "mu": "Bowdoin College Museum of Art, Brunswick",
   "mu_id": "unknown",
-  "n": "描繪第三任總統傑佛遜的半身像，面容沉著。斯圖爾特以細膩的色調展現美國早期政治家的氣質，1805年作，今藏處待考。",
+  "n": "描繪第三任總統傑佛遜的半身像，面容沉著。斯圖爾特以細膩的色調展現美國早期政治家的氣質。",
   "pd": true,
   "tier": "v9",
   "th": [
@@ -81179,7 +81476,16 @@
    "grounded": false,
    "date": "2026-10-19",
    "applied": null
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0544",
@@ -81188,7 +81494,7 @@
   "t": "Portrait of John Jay",
   "z": "約翰·傑伊肖像",
   "y": "1794",
-  "mu": "National Portrait Gallery, London",
+  "mu": "National Gallery of Art, Washington",
   "mu_id": "national_portrait_gallery_london",
   "n": "美國開國元勛、首任首席大法官傑伊的肖像，神情莊重。斯圖爾特的畫風兼具英國肖像傳統與美國寫實精神。",
   "pd": true,
@@ -81223,7 +81529,16 @@
    "grounded": false,
    "date": "2026-10-19",
    "applied": null
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": "National Portrait Gallery, London"
+    }
+   }
+  ]
  },
  {
   "id": "y0545",
@@ -81301,7 +81616,7 @@
   "t": "The Silence",
   "z": "沉默",
   "y": "1799",
-  "mu": "",
+  "mu": "Kunsthaus Zürich",
   "mu_id": "unknown",
   "n": "畫面中人物在陰暗的空間中呈現沉靜與恐懼，筆下造型誇張。富塞利擅長以超自然與心理陰影為主題。",
   "pd": true,
@@ -81326,7 +81641,16 @@
    "mu": [
     "Kunsthaus Zürich"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0548",
@@ -82774,7 +83098,7 @@
   "t": "Bathsheba",
   "z": "拔示巴",
   "y": "1832",
-  "mu": "",
+  "mu": "State Tretyakov Gallery, Moscow",
   "mu_id": "unknown",
   "n": "沐浴中的拔示巴被大衛王窺見，裸體在光線下顯得溫潤細膩。布留洛夫把聖經題材與學院派的裸體美學相結合。",
   "pd": true,
@@ -82800,7 +83124,16 @@
    "mu": [
     "Tretyakov Gallery"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0593",
@@ -83039,9 +83372,9 @@
   "t": "Valley of the Yosemite",
   "z": "優勝美地山谷",
   "y": "1864",
-  "mu": "",
+  "mu": "Museum of Fine Arts, Boston",
   "mu_id": "unknown",
-  "n": "金色晨光灑在優勝美地山谷，雲霧纏繞岩壁。比爾施塔特以夢幻般的光線塑造美國西部的崇高形象，1864年作，今藏處待考。",
+  "n": "金色晨光灑在優勝美地山谷，雲霧纏繞岩壁。比爾施塔特以夢幻般的光線塑造美國西部的崇高形象。",
   "pd": true,
   "tier": "v9",
   "th": [
@@ -83064,7 +83397,16 @@
    "mu": [
     "Museum of Fine Arts Boston"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0601",
@@ -84565,10 +84907,10 @@
   "a": "Wilhelm Leibl",
   "t": "The Poachers",
   "z": "偷獵者",
-  "y": "1886",
+  "y": "1882–1886",
   "mu": "Neue Pinakothek, Munich",
   "mu_id": "neue_pinakothek_munich",
-  "n": "數名偷獵者在林中休息，神情機警。萊布爾以細膩寫實技巧與樸質造型，描繪農村生活與人物性格，1886年作，現藏Neue Pinakothek, Munich。",
+  "n": "數名偷獵者在林中休息，神情機警。萊布爾以細膩寫實技巧與樸質造型，描繪農村生活與人物性格，1882–1886年作，現藏Neue Pinakothek, Munich。",
   "pd": true,
   "tier": "v9",
   "th": [
@@ -84581,7 +84923,16 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Wilhelm+Leibl+The+Poachers",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "y": "1886"
+    }
+   }
+  ]
  },
  {
   "id": "y0648",
@@ -85304,7 +85655,7 @@
   "m": "realism",
   "a": "Thomas Eakins",
   "t": "The Swimming Hole",
-  "z": "游泳池",
+  "z": "游泳潭（又名《游泳》）",
   "y": "1885",
   "mu": "Amon Carter Museum, Fort Worth",
   "mu_id": "amon_carter_museum_of_american_art_fort_worth",
@@ -85322,7 +85673,16 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Thomas_Eakins_(American_-_Eakins's_Students_at_the_\"The_Swimming_Hole\"_-_Google_Art_Project.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Eakins%20(American%20-%20Eakins's%20Students%20at%20the%20\"The%20Swimming%20Hole\"%20-%20Google%20Art%20Project.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "z": "游泳池"
+    }
+   }
+  ]
  },
  {
   "id": "y0672",
@@ -87769,9 +88129,9 @@
   "t": "Bubbles",
   "z": "泡泡",
   "y": "1886",
-  "mu": "",
+  "mu": "Lady Lever Art Gallery, Port Sunlight",
   "mu_id": "unknown",
-  "n": "小男孩凝視吹出的泡泡，神情天真。這幅畫後來被肥皂廣告採用，是米萊最為人熟知的晚期作品，1886年作，今藏處待考。",
+  "n": "小男孩凝視吹出的泡泡，神情天真。這幅畫後來被肥皂廣告採用，是米萊最為人熟知的晚期作品。",
   "pd": true,
   "tier": "v9",
   "th": [
@@ -87795,7 +88155,16 @@
    "mu": [
     "Lady Lever Art Gallery"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0749",
@@ -87874,7 +88243,7 @@
   "t": "The Huguenot",
   "z": "胡格諾教徒",
   "y": "1852",
-  "mu": "",
+  "mu": "Private collection (formerly Makins collection)",
   "mu_id": "unknown",
   "n": "年輕天主教少女試圖用白布綁住戀人手臂，希望他保命，他卻拒絕。米萊描繪信仰與愛情的衝突，充滿感情。",
   "pd": true,
@@ -87898,7 +88267,16 @@
     1852
    ],
    "mu": []
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0752",
@@ -91458,7 +91836,7 @@
   "src": null,
   "src_url": "https://en.wikipedia.org/w/index.php?search=Max+Slevogt+The+Egyptian+Journey",
   "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "verif": "Commons 搜尋未找到可信配對；2026-10-25 交叉查證存疑，待查：斯勒佛格特 1914 年埃及行是系列作而非單一畫作，條目性質待查。",
   "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
  },
  {
@@ -92109,7 +92487,7 @@
   "t": "Quai Saint-Michel and Notre-Dame",
   "z": "聖米歇爾碼頭與巴黎聖母院",
   "y": "1901",
-  "mu": "",
+  "mu": "Musée d'Orsay, Paris",
   "mu_id": "unknown",
   "n": "以塞納河畔的聖米歇爾碼頭為前景，遠處可見巴黎聖母院。盧斯以點描筆觸描繪都市光影，色彩明亮而氣氛靜謐。",
   "pd": true,
@@ -92134,7 +92512,16 @@
    "mu": [
     "Musée d'Orsay"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0880",
@@ -92239,7 +92626,7 @@
   "t": "Sailboats and Estuary",
   "z": "帆船與河口",
   "y": "1892",
-  "mu": "",
+  "mu": "Musée d'Orsay, Paris",
   "mu_id": "unknown",
   "n": "描繪河口處的帆船與波光，以細密色點呈現海面的反光。這是范里瑟貝赫在接觸新印象派後，以點描探索海景的代表嘗試。",
   "pd": true,
@@ -92264,7 +92651,16 @@
    "mu": [
     "Musée d'Orsay"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0884",
@@ -92411,7 +92807,7 @@
   "t": "The Dead Child (L'Enfant mort)",
   "z": "亡童",
   "y": "1886",
-  "mu": "",
+  "mu": "Musée d'Orsay, Paris",
   "mu_id": "unknown",
   "n": "描繪躺在床上的亡故孩童，以平靜冷調的色彩處理靜默氣氛。杜布瓦皮耶是軍官出身的新印象派畫家，此作為他的代表作。",
   "pd": true,
@@ -92426,7 +92822,16 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Enfant_Mort,_Dubois-Pillet.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Enfant%20Mort,%20Dubois-Pillet.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0889",
@@ -92435,7 +92840,7 @@
   "t": "The Marne at Dawn",
   "z": "黎明的馬恩河",
   "y": "1888",
-  "mu": "",
+  "mu": "Musée d'Orsay, Paris",
   "mu_id": "unknown",
   "n": "河面在晨霧中呈現柔和色調，岸邊景物簡化為平整的色塊。杜布瓦皮耶以點描法處理寧靜水景，是少數留存的風景作品。",
   "pd": true,
@@ -92450,7 +92855,16 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Albert_Dubois-Pillet_The_Banks_on_the_Marne_at_Dawn.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Dubois-Pillet%20The%20Banks%20on%20the%20Marne%20at%20Dawn.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0890",
@@ -92992,7 +93406,7 @@
   "t": "Interior in Strandgade, Sunlight on the Floor",
   "z": "斯特蘭德街室內：地板上的陽光",
   "y": "1901",
-  "mu": "",
+  "mu": "Statens Museum for Kunst, Copenhagen",
   "mu_id": "unknown",
   "n": "簡潔的室內中，陽光在地板上留下明亮的方形光影。哈默修伊以近乎單色的灰白色調，營造寂靜、含蓄的詩意氛圍。",
   "pd": true,
@@ -93017,7 +93431,16 @@
    "mu": [
     "Statens Museum for Kunst"
    ]
-  }
+  },
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "mu": ""
+    }
+   }
+  ]
  },
  {
   "id": "y0908",
@@ -95588,7 +96011,7 @@
   "m": "artnouveau",
   "a": "Alphonse Mucha",
   "t": "Moët & Chandon Cremant Imperial (poster)",
-  "z": "夢特香檳海報",
+  "z": "酩悅帝國香檳（Moët & Chandon Crémant Impérial）海報",
   "y": "1899",
   "mu": "",
   "mu_id": "unknown",
@@ -95605,7 +96028,16 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Mucha-Moët_&_Chandon_Crémant_Impérial-1899.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Mucha-Moët%20&%20Chandon%20Crémant%20Impérial-1899.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名，imageinfo 確認存在並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄"
+  "note_src": "題名、年代、館藏、說明由 AI 依知識整理，未逐件查證原始館藏紀錄",
+  "audit_log": [
+   {
+    "date": "2026-10-25",
+    "by": "Gemini＋Claude 子代理交叉複核",
+    "old": {
+     "z": "夢特香檳海報"
+    }
+   }
+  ]
  },
  {
   "id": "y0990",
@@ -177351,7 +177783,7 @@
   "y": "1871",
   "mu": "Harvard Art Museums",
   "mu_id": "harvard_art_museums",
-  "n": "據羅塞蒂自己的詩所作，天堂中的少女倚欄俯望人間愛人，畫下方另有預備畫面（普雷代拉）描繪地上的戀人，現藏哈佛藝術博物館。",
+  "n": "據羅塞蒂自己的詩所作，天堂中的少女倚欄俯望人間愛人，畫下方另有基座畫（predella）描繪地上的戀人，現藏哈佛藝術博物館。",
   "pd": true,
   "tier": "v10",
   "th": [
