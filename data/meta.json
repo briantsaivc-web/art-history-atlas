@@ -1,11 +1,11 @@
 {
  "version": "v10",
- "updated": "2026-10-25",
+ "updated": "2026-10-27",
  "counts": {
   "movements": 43,
   "artists": 542,
-  "works": 7377,
-  "with_image": 6731,
+  "works": 7394,
+  "with_image": 6748,
   "museums": 1226
  },
  "notes": [
@@ -17,6 +17,7 @@
   "2026-10-19：Gemini（gemini-3-flash-preview，未啟用 Google 搜尋）稽核 201 筆 Wikidata 不一致條目：35 筆依 Gemini 與 Wikidata 一致意見修正年代／館藏（原值保留於 audit.applied），84 筆判定同一作品寫法差異，46 筆判定圖檔為另一版本（維持 ⚠ 標示），其餘保留警示；所有稽核意見未經搜尋查證，僅供參考。",
   "v10（2026-10-19）：由 Wikidata SPARQL（創作者 P170 + 圖檔 P18）新增 3938 件作品（3796 件有圖）；題名／年代／館藏為 Wikidata 結構化資料，中文題名與說明由 AI 撰寫。",
   "2026-10-22：缺圖作品經 Wikidata 比對（既有 Q、同作者作品清單題名比對、或題名搜尋並須作者／館藏相符），補 56 張 P18 圖（逐張目視複核，配到其他版本者剔除）；另為 378 件加上館方作品頁／Commons 圖庫／Wikidata 條目連結（link 欄位）。",
-  "2026-10-25：v8/v9 2,378 件經 Gemini 查證、Claude 子代理交叉複核，採用 48 筆修正（館藏為主，原值存 audit_log）；12 筆存疑標待查（含 3 筆建議移除，待人工決定）；predella 統一譯「基座畫」。"
+  "2026-10-25：v8/v9 2,378 件經 Gemini 查證、Claude 子代理交叉複核，採用 48 筆修正（館藏為主，原值存 audit_log）；12 筆存疑標待查（含 3 筆建議移除，待人工決定）；predella 統一譯「基座畫」。",
+  "2026-10-27 v11：作品較少的公有領域畫家，由 Met／AIC／克里夫蘭 Open Access 補 17 件（tier=v11）。"
  ]
 }
